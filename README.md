@@ -6,9 +6,10 @@ Test cases and other data for training and testing address matching algorithms.
 
 Test cases are held in tab-separated format files with the following columns:
 
-- [name](http://field.alpha.openregister.org/field/name) — a name for the test case which should be unique across all testcases
+- [test](http://field.discovery.openregister.org/field/test) — an identifier for the test case which should be unique across all tests
+- [name](http://field.discovery.openregister.org/field/name) — a name for the test
 - [text](http://field.alpha.openregister.org/field/text) — the address encoded as lines of text, newlines are encoded as '\n'
-- [addresses](http://field.alpha.openregister.org/field/addresses) — a list of the expected address register values separated by ';'.
+- uprns — a list of UPRN values which could match the address, separated by ';'
 
 A test case may contain additional fields for information.
 
