@@ -6,16 +6,20 @@ Test cases and other data for training and testing address matching algorithms.
 
 Test cases are held in tab-separated format files with the following columns:
 
-- [test](http://field.discovery.openregister.org/field/test) — an identifier for the test case which should be unique across all tests
-- [name](http://field.discovery.openregister.org/field/name) — a name for the test
-- [text](http://field.alpha.openregister.org/field/text) — the address encoded as lines of text, newlines are encoded as '\n'
-- uprns — a list of UPRN values which could match the address, separated by ';'
+- test — an identifier for the test case which should be unique across all tests
+- name — the addressee or name of the business (if separable)
+- text — address text to be matched, newlines should be encoded as '\n'
+- postcode — an optional, separate postcode (if separable)
+- uprns — one or more UPRN values in decimal which could match the address, separated by semicolon ';'
+- notes — an explanation of the test
 
 A test case may contain additional fields for information.
 
-# Building bulk datasets
+# Bulk datasets
 
-    $ make
+The [bulk](bulk) directory contains addresses found in bulk in open data, to be matched.
+
+Few bulk datasets currently contain resolved UPRNs, but can form the basis of test cases as we build registers.
 
 # Licence
 
