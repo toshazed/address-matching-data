@@ -4,8 +4,8 @@ import sys
 import csv
 import re
 
-address_fields = ["Street", "Locality", "Address3", "Town", "County (name)", "Postcode"]
-fields = [ "test", "name", "text" ]
+address_fields = ["EstablishmentName", "Street", "Locality", "Address3", "Town", "County (name)", "Postcode"]
+fields = [ "test", "text" ]
 sep = "\t"
 
 if __name__ == '__main__':
@@ -16,7 +16,6 @@ if __name__ == '__main__':
     for row in csv.DictReader(sys.stdin):
         item = {}
         item['test'] = "school:" + row['URN']
-        item['name'] = row['EstablishmentName']
 
         item['text'] = ",".join([row[field] for field in address_fields])
         item['text'] = re.sub(",+", ", ", item['text'])
