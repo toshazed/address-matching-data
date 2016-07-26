@@ -3,7 +3,8 @@ DATE_TEXT:=$(shell date +"%B")
 CHARITY_COMMISSION_URL=http://apps.charitycommission.gov.uk/data/$(DATE_NUMERIC)/extract1/RegPlusExtract_$(DATE_TEXT)_2016.zip
 
 addresses.tsv: addresses.py cache/extract_charity.bcp
-	addresses.py < cache/edubase.csv > $@
+	./addresses.py < cache/extract_charity.bcp > $@.new
+	mv $@.new $@
 
 # download from EDUBASE
 # - contains invalid UTF-8 characters ..
@@ -23,5 +24,4 @@ prune::
 clean::
 	-find . -name "*.pyc" | xargs rm -f
 	-find . -name "__pycache__" | xargs rm -rf
-	rm -f cache/RegPlusExtract.zip.new
-
+	rm -f cache/*.new
