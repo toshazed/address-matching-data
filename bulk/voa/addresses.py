@@ -5,7 +5,7 @@ import csv
 import re
 import io
 
-output_fields = [ "test", "text" ]
+output_fields = [ "test", "text", "postcode" ]
 sep = "\t"
 
 if __name__ == '__main__':
@@ -18,6 +18,7 @@ if __name__ == '__main__':
     for row in csv.DictReader(input_stream, delimiter=" ", quotechar='"'):
         item = {}
         item['test'] = "voa:" + row['uarn']
-        item['text'] = row['propaddr'] + ", " + row['postcde']
+        item['text'] = row['propaddr']
+        item['postcode'] = row['postcde']
 
         print(sep.join([item[field] for field in output_fields]))
