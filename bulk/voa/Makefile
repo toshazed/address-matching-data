@@ -1,6 +1,3 @@
-DATE:=$(shell date +"%Y%m%d")
-EDUBASE_URL=http://www.education.gov.uk/edubase/edubasealldata$(DATE).csv
-
 addresses.tsv: addresses.py VOA-2010-2015-09.txt
 	./addresses.py < VOA-2010-2015-09.txt > $@.new
 	mv $@.new $@
