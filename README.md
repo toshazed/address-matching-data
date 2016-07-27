@@ -8,7 +8,7 @@ Test cases are held in tab-separated format files with the following columns:
 
 - test — an identifier for the test case which should be unique across all tests
 - name — the addressee or name of the business (if separable)
-- text — address text to be matched, newlines should be encoded as '\n'
+- text — address text to be matched, newlines should be encoded as '\n' (only include name or postcode if can't be stored in separate field)
 - postcode — an optional, separate postcode (if separable)
 - uprns — one or more UPRN values in decimal which could match the address, separated by semicolon ';'
 - notes — an explanation of the test

@@ -7,8 +7,8 @@ import io
 
 #address_fields = ["EstablishmentName", "Street", "Locality", "Address3", "Town", "County (name)", "Postcode"]
 field_names = [ 'regno', 'subno', 'name', 'orgtype', 'gd', 'aob', 'aob_defined', 'nhs', 'ha_no', 'corr', 'add1', 'add2', 'add3', 'add4', 'add5', 'postcode', 'phone', 'fax' ]
-address_fields = [ 'name', 'add1', 'add2', 'add3', 'add4', 'add5', 'postcode' ]
-output_fields = [ "test", "text" ]
+address_fields = [ 'add1', 'add2', 'add3', 'add4', 'add5' ]
+output_fields = [ "test", "name", "text", "postcode" ]
 sep = "\t"
 
 
@@ -48,7 +48,14 @@ if __name__ == '__main__':
         output = {}
         output['test'] = "charity:" + items['regno']
 
+        output['name'] = items['name']
+
         output['text'] = ",".join([items[field] for field in address_fields if items[field] != ""])
         output['text'] = re.sub(",+", ", ", output['text'])
+        if output['text'] == "":
+            continue
+
+        output['postcode'] = items['postcode']
 
         print(sep.join([output[field] for field in output_fields]))
+
