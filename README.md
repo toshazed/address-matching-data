@@ -19,6 +19,13 @@ A test case may contain additional fields for information.
 
 The [bulk](bulk) directory contains addresses found in bulk in open data, to be matched.
 
+- [edubase](bulk/edubase) — 44k schools from [Department of Education](http://www.education.gov.uk/edubase/home.xhtml)
+- [food-hygiene](bulk/food-hygiene) — 360k food establishments from [http://ratings.food.gov.uk/open-data/](Food Standards Agency)
+- [price-paid](bulk/price-paid) — 21 million residential properties from [Land Registry](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)
+- [charity-commission](bulk/charity-commission) — 345k addresses from [Charity Commission](http://data.charitycommission.gov.uk/)
+- [democracy-club-polling-stations](bulk/democracy-club-polling-stations) – 5k polling stations from [Democracy Club](https://wheredoivote.co.uk/)
+- [voa](bulk/voa) – scripts to process the 1.9 million [VOA business-rates valuations](http://www.2010.voa.gov.uk/rli/) (not openly available)
+
 Few bulk datasets currently contain resolved UPRNs, but can form the basis of test cases as we build registers.
 
 # Licence
