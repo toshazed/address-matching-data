@@ -2,7 +2,8 @@ DATE:=$(shell date +"%Y%m%d")
 EDUBASE_URL=http://www.education.gov.uk/edubase/edubasealldata$(DATE).csv
 
 addresses.tsv: addresses.py cache/edubase.csv
-	addresses.py < cache/edubase.csv > $@
+	./addresses.py < cache/edubase.csv > $@.new
+	mv $@.new $@
 
 # download from EDUBASE
 # - contains invalid UTF-8 characters ..
