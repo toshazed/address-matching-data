@@ -5,7 +5,7 @@ import csv
 import re
 
 address_fields = ["Street", "Locality", "Address3", "Town", "County (name)"]
-fields = [ "test", "name", "text", "postcode" ]
+fields = ["test", "name", "text", "postcode"]
 sep = "\t"
 
 if __name__ == '__main__':
@@ -14,6 +14,9 @@ if __name__ == '__main__':
 
     # read map
     for row in csv.DictReader(sys.stdin):
+        if row["CloseDate"]:
+            continue
+
         item = {}
         item['test'] = "school:" + row['URN']
         item['name'] = row['EstablishmentName']
