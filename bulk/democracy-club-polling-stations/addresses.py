@@ -11,7 +11,6 @@ sep = "\t"
 
 def make_hash_int(text):
     text = text.encode("utf-8")
-    text = text.lower()
     h = hashlib.sha256()
     h.update(text)
     number = 0
@@ -48,7 +47,7 @@ if __name__ == '__main__':
         if match:
             text, postcode = match.groups()
             row['text'] = text.strip(", ")
-            row['postcode'] = postcode
+            row['postcode'] = postcode.strip()
 
             # Check for a duplicate postcode
             if row['text'].endswith(postcode):
