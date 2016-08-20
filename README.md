@@ -24,6 +24,7 @@ The [bulk](bulk) directory contains addresses found in bulk in open data, to be 
 - [democracy-club-polling-stations](bulk/democracy-club-polling-stations) – 5k polling stations from [Democracy Club](https://wheredoivote.co.uk/)
 - [edubase](bulk/edubase) — 44k schools from [Department of Education](http://www.education.gov.uk/edubase/home.xhtml)
 - [food-hygiene](bulk/food-hygiene) — 360k food establishments from [Food Standards Agency](http://ratings.food.gov.uk/open-data/)
+- [general-dental-practices](bulk/general-dental-practices) 10k practices from [HSCIC](https://data.gov.uk/dataset/general-dental-practices)
 - [general-medical-practices](bulk/general-medical-practices) 13k practices from [HSCIC](https://data.gov.uk/dataset/general-medical-practices)
 - [pharmacy](bulk/pharmacy) — 11k pharmacies from [NHS Choices](https://data.gov.uk/dataset/pharmacies)
 - [price-paid](bulk/price-paid) — 21 million residential properties from [Land Registry](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)
