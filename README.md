@@ -25,9 +25,9 @@ The [bulk](bulk) directory contains addresses found in bulk in open data, to be 
 - [edubase](bulk/edubase) — 44k schools from [Department of Education](http://www.education.gov.uk/edubase/home.xhtml)
 - [food-hygiene](bulk/food-hygiene) — 360k food establishments from [Food Standards Agency](http://ratings.food.gov.uk/open-data/)
 - [general-medical-practices](bulk/general-medical-practices) 13k practices from [HSCIC](https://data.gov.uk/dataset/general-medical-practices)
-- [vehicle-testing-stations](bulk/vehicle-testing-stations) 227k mot vehicle testing stations from [DVSA](https://data.gov.uk/dataset/mot-active-vts)
 - [pharmacy](bulk/pharmacy) — 11k pharmacies from [NHS Choices](https://data.gov.uk/dataset/pharmacies)
 - [price-paid](bulk/price-paid) — 21 million residential properties from [Land Registry](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)
+- [vehicle-testing-stations](bulk/vehicle-testing-stations) 227k mot vehicle testing stations from [DVSA](https://data.gov.uk/dataset/mot-active-vts)
 - [voa](bulk/voa) – scripts to process the 1.9 million [VOA business-rates valuations](http://www.2010.voa.gov.uk/rli/) (not openly available)
 
 Few bulk datasets currently contain resolved UPRNs, but can form the basis of test cases as we build registers.
