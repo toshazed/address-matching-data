@@ -19,19 +19,21 @@ A test case may contain additional fields for information.
 
 The [bulk](bulk) directory contains addresses found in bulk in open data, to be matched.
 
-- [charity-commission](bulk/charity-commission) — 345k addresses from [Charity Commission](http://data.charitycommission.gov.uk/)
-- [civil-marriage-venues](bulk/civil-marriage-venues) — 7k addresses from [HM Passport Office](https://www.gov.uk/government/publications/civil-marriages-and-partnerships-approved-premises-list)
-- [companies-house](bulk/companies-house) — 3.8 million addresses from [Companies House](http://download.companieshouse.gov.uk/en_output.html)
-- [democracy-club-polling-stations](bulk/democracy-club-polling-stations) – 5k polling stations from [Democracy Club](https://wheredoivote.co.uk/)
-- [edubase](bulk/edubase) — 44k schools from [Department of Education](http://www.education.gov.uk/edubase/home.xhtml)
-- [food-hygiene](bulk/food-hygiene) — 360k food establishments from [Food Standards Agency](http://ratings.food.gov.uk/open-data/)
-- [general-dental-practices](bulk/general-dental-practices) 10k practices from [HSCIC](https://data.gov.uk/dataset/general-dental-practices)
-- [general-medical-practices](bulk/general-medical-practices) 13k practices from [HSCIC](https://data.gov.uk/dataset/general-medical-practices)
-- [pharmacy](bulk/pharmacy) — 11k pharmacies from [NHS Choices](https://data.gov.uk/dataset/pharmacies)
-- [price-paid](bulk/price-paid) — 21 million residential properties from [Land Registry](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)
-- [vehicle-operators](bulk/vehicle-operators) 178k licensed goods and service vehicle operators from [DFT](https://data.gov.uk/dataset/traffic-commissioners-goods-and-public-service-vehicle-operator-licence-records)
-- [vehicle-testing-stations](bulk/vehicle-testing-stations) 227k mot vehicle testing stations from [DVSA](https://data.gov.uk/dataset/mot-active-vts)
-- [voa](bulk/voa) – scripts to process the 1.9 million [VOA business-rates valuations](http://www.2010.voa.gov.uk/rli/) (not openly available)
+| List | Addresses | Source |
+| :---         |     ---:      |          :--- |
+| [charity-commission](bulk/charity-commission) | 345k | [Charity Commission](http://data.charitycommission.gov.uk/) |
+| [civil-marriage-venues](bulk/civil-marriage-venues) | 7k | [HM Passport Office](https://www.gov.uk/government/publications/civil-marriages-and-partnerships-approved-premises-list) |
+| [companies-house](bulk/companies-house) | 3.8 million | [Companies House](http://download.companieshouse.gov.uk/en_output.html) |
+| [democracy-club-polling-stations](bulk/democracy-club-polling-stations) | 5k | [Democracy Club](https://wheredoivote.co.uk/) |
+| [edubase](bulk/edubase) | 44k | [Department of Education](http://www.education.gov.uk/edubase/home.xhtml) |
+| [food-hygiene](bulk/food-hygiene) | 360k | [Food Standards Agency](http://ratings.food.gov.uk/open-data/) |
+| [general-dental-practices](bulk/general-dental-practices) | 10k | [HSCIC](https://data.gov.uk/dataset/general-dental-practices) |
+| [general-medical-practices](bulk/general-medical-practices) | 13k | [HSCIC](https://data.gov.uk/dataset/general-medical-practices) |
+| [pharmacy](bulk/pharmacy) | 11k | [NHS Choices](https://data.gov.uk/dataset/pharmacies) |
+| [price-paid](bulk/price-paid) | 21 million | [Land Registry](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads) |
+| [vehicle-operators](bulk/vehicle-operators) | 178k | [DFT](https://data.gov.uk/dataset/traffic-commissioners-goods-and-public-service-vehicle-operator-licence-records) |
+| [vehicle-testing-stations](bulk/vehicle-testing-stations) | 227k | [DVSA](https://data.gov.uk/dataset/mot-active-vts) |
+| [voa](bulk/voa) | 1.9 million | [VOA business-rates valuations](http://www.2010.voa.gov.uk/rli/) (data not openly available) |
 
 Few bulk datasets currently contain resolved UPRNs, but can form the basis of test cases as we build registers.
 
