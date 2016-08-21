@@ -28,6 +28,7 @@ The [bulk](bulk) directory contains addresses found in bulk in open data, to be 
 - [general-medical-practices](bulk/general-medical-practices) 13k practices from [HSCIC](https://data.gov.uk/dataset/general-medical-practices)
 - [pharmacy](bulk/pharmacy) — 11k pharmacies from [NHS Choices](https://data.gov.uk/dataset/pharmacies)
 - [price-paid](bulk/price-paid) — 21 million residential properties from [Land Registry](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)
+- [vehicle-operators](bulk/vehicle-operators) 178k licensed goods and service vehicle operators from [DFT](https://data.gov.uk/dataset/traffic-commissioners-goods-and-public-service-vehicle-operator-licence-records)
 - [vehicle-testing-stations](bulk/vehicle-testing-stations) 227k mot vehicle testing stations from [DVSA](https://data.gov.uk/dataset/mot-active-vts)
 - [voa](bulk/voa) – scripts to process the 1.9 million [VOA business-rates valuations](http://www.2010.voa.gov.uk/rli/) (not openly available)
 
