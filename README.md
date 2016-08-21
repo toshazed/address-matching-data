@@ -20,6 +20,7 @@ A test case may contain additional fields for information.
 The [bulk](bulk) directory contains addresses found in bulk in open data, to be matched.
 
 - [charity-commission](bulk/charity-commission) — 345k addresses from [Charity Commission](http://data.charitycommission.gov.uk/)
+- [civil-marriage-venues](bulk/civil-marriage-venues) — 7k addresses from [HM Passport Office](https://www.gov.uk/government/publications/civil-marriages-and-partnerships-approved-premises-list)
 - [companies-house](bulk/companies-house) — 3.8 million addresses from [Companies House](http://download.companieshouse.gov.uk/en_output.html)
 - [democracy-club-polling-stations](bulk/democracy-club-polling-stations) – 5k polling stations from [Democracy Club](https://wheredoivote.co.uk/)
 - [edubase](bulk/edubase) — 44k schools from [Department of Education](http://www.education.gov.uk/edubase/home.xhtml)
