@@ -17,7 +17,7 @@ if __name__ == '__main__':
     # read map
     for row in csv.DictReader(sys.stdin):
         item = {}
-        item['test'] = "GMP:" + row['ORGANISATION CODE']
+        item['test'] = "GDP:" + row['ORGANISATION CODE']
         item['name'] = row['NAME']
 
         item['text'] = ",".join([row[field] for field in address_fields])
