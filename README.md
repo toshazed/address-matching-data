@@ -26,7 +26,6 @@ The [bulk](bulk) directory contains addresses found in bulk in open data, to be 
 | [companies-house](bulk/companies-house) | 3.8 million | [Companies House](http://download.companieshouse.gov.uk/en_output.html) |
 | [democracy-club-polling-stations](bulk/democracy-club-polling-stations) | 5k | [Democracy Club](https://wheredoivote.co.uk/) |
 | [edubase](bulk/edubase) | 44k | [Department of Education](http://www.education.gov.uk/edubase/home.xhtml) |
-end-of-life-vehicles
 | [end-of-life-vehicles](bulk/end-of-life-vehicles) | 2k | [Environment Agency](https://www.gov.uk/government/publications/end-of-life-vehicles-authorised-treatment-facilities-register) |
 | [food-hygiene](bulk/food-hygiene) | 360k | [Food Standards Agency](http://ratings.food.gov.uk/open-data/) |
 | [gambling-commission](bulk/gambling-commission) | 13k | [Licensed premises](http://www.gamblingcommission.gov.uk/Find-licensees.aspx) |
