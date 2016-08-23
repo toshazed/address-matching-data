@@ -27,6 +27,7 @@ The [bulk](bulk) directory contains addresses found in bulk in open data, to be 
 | [democracy-club-polling-stations](bulk/democracy-club-polling-stations) | 5k | [Democracy Club](https://wheredoivote.co.uk/) |
 | [edubase](bulk/edubase) | 44k | [Department of Education](http://www.education.gov.uk/edubase/home.xhtml) |
 | [food-hygiene](bulk/food-hygiene) | 360k | [Food Standards Agency](http://ratings.food.gov.uk/open-data/) |
+| [gambling-commission](bulk/gambling-commission) | 13k | [Licensed premises](http://www.gamblingcommission.gov.uk/Find-licensees.aspx) |
 | [general-dental-practices](bulk/general-dental-practices) | 10k | [HSCIC](https://data.gov.uk/dataset/general-dental-practices) |
 | [general-medical-practices](bulk/general-medical-practices) | 13k | [HSCIC](https://data.gov.uk/dataset/general-medical-practices) |
 | [pharmacy](bulk/pharmacy) | 11k | [NHS Choices](https://data.gov.uk/dataset/pharmacies) |
