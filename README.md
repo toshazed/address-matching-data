@@ -10,7 +10,8 @@ Test cases are held in tab-separated format files with the following columns:
 - name — the addressee or name of the business (if separable)
 - text — address text to be matched, newlines should be encoded as '\n' (only include name or postcode if can't be stored in separate field)
 - postcode — an optional, separate postcode (if separable)
-- uprns — one or more UPRN values in decimal which could match the address, separated by semicolon ';'
+- uprns — optionally one or more UPRN values in decimal which could match the address, separated by semicolon ';'
+- address — an address key (see [addressbase-data](https://github.com/openregister/addressbase-data)) where the test has been matched to a UPRN
 - notes — an explanation of the test
 
 A test case may contain additional fields for information.
@@ -38,6 +39,16 @@ The [bulk](bulk) directory contains addresses found in bulk in open data, to be 
 | [voa](bulk/voa) | 1.9 million | [VOA business-rates valuations](http://www.2010.voa.gov.uk/rli/) (data not openly available) |
 
 Few bulk datasets currently contain resolved UPRNs, but can form the basis of test cases as we build registers.
+
+# Registers
+
+The [registers](registers) directory contains bulk addresses matched as a part of the process of establishing registers.
+The `test` field is a CURIE reference to the register record.
+
+| List | Addresses | Source |
+| :---         |     ---:      |          :--- |
+| [school-eng](registers/school-eng.tsv) | 1k | [school-data](https://github.com/openregister/school-data) / [addressbase-demo](https://github.com/openregister/addressbase-data) |
+
 
 # Licence
 
