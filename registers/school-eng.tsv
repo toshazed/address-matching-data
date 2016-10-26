@@ -1,855 +1,857 @@
 test	address	name	text	postcode
-school-eng:102256	9B1AK1J	Purcell School	Aldenham Road, Bushey, Hertfordshire	WD23 2TS
-school-eng:117065	2X6MXMZY	Weston Way Nursery School	Weston Way, Baldock, Hertfordshire	SG7 6HD
-school-eng:117066	4D4TEC	Arlesdene Nursery School and Pre-School	Blindman's Lane, Cheshunt, Waltham Cross, Hertfordshire	EN8 9DW
-school-eng:117067	4D4SBT	Greenfield Nursery School	Hurst Drive, Waltham Cross, Hertfordshire	EN8 8DH
-school-eng:117068	2X6MTFQ8	Batford Nursery School	Holcroft Road, Harpenden, Hertfordshire	AL5 5BQ
-school-eng:117069	2X6MTB00	Birchwood Nursery School	Birchway, Crawford Road, Hatfield, Hertfordshire	AL10 0PD
-school-eng:117070	9AQJZND	Heath Lane Nursery School	Heath Lane, Hemel Hempstead, Hertfordshire	HP1 1TT
-school-eng:117071	2X6MXJA5	York Road Nursery School	York Road, Hitchin, Hertfordshire	SG5 1XA
-school-eng:117072	4D5GWB	Rye Park Nursery School	Walton Road, Hoddesdon, Hertfordshire	EN11 0LN
-school-eng:117073	9C3H97E	Nevells Road Nursery School	Nevells Road, Letchworth, Hertfordshire	SG6 4TS
-school-eng:117074	2X6MHB38	Muriel Green Nursery School	6 Lemsford Road, St Albans, Hertfordshire	
-school-eng:117075	2X6MTBMX	London Colney Nursery School	Alexander Road, London Colney, St Albans, Hertfordshire	AL2 1JG
-school-eng:117076	2X6MYGEW	Kingswood Nursery School	Briar Road, Watford, Hertfordshire	WD25 0DX
-school-eng:117077	2X6MYCMV	Oxhey Early Years Centre	Eastbury Road, Oxhey, Watford, Hertfordshire	WD19 4RL
-school-eng:117078	2X6MTG52	Tenterfield Nursery School	London Road, Welwyn, Hertfordshire	AL6 9JF
-school-eng:117079	2X6MTH2N	Ludwick Nursery School	Holwell Road, Welwyn Garden City, Hertfordshire	AL7 3RP
-school-eng:117080	9C3QP0K	Peartree Way Nursery School	Peartree Way, Stevenage, Hertfordshire	SG2 9EA
-school-eng:117081	9B1AK8C	Wall Hall Nursery School	University of Hertfordshire, Watford Campus, Aldenham, Watford, Hertfordshire	WD25 8AT
-school-eng:117082	9ACAQBC	Lea Valley Education Support Centre	Queen Eleanor Site, Cameron Drive, Waltham Cross, Hertfordshire	EN8 8BN
-school-eng:117083	5T8FR7NZ	Abbots Langley School	Parsonage Close, Abbots Langley, Hertfordshire	WD5 0BQ
-school-eng:117084	9C3H2ZH	Ashwell Primary School	Silver Street, Ashwell, Baldock, Hertfordshire	SG7 5QL
-school-eng:117085	2X6MTK10	Northgate Primary School	Cricketfield Lane, Bishop's Stortford, Hertfordshire	CM23 2RL
-school-eng:117086	2X6MV9QV	Bovingdon Junior School	High Street, Bovingdon, Hemel Hempstead, Hertfordshire	HP3 0HL
-school-eng:117087	9B09NDE	Jenyns First School and Nursery	Uplands, Braughing, Ware, Hertfordshire	SG11 2QJ
-school-eng:117088	9B1AJWD	Bushey Heath Primary School	The Rutts, Bushey Heath, Bushey, Hertfordshire	WD23 1SP
-school-eng:117089	9B1AK0C	Highwood Primary School	Bushey Mill Lane, Bushey, Hertfordshire	WD23 2AW
-school-eng:117090	9B1AJY1	Merry Hill Infant School and Nursery	School Lane, Bushey, Hertfordshire	WD23 1ST
-school-eng:117091	4D50QJ	Holdbrook Primary School	Longcroft Drive, Waltham Cross, Hertfordshire	EN8 7QG
-school-eng:117092	4D50QH	Four Swannes Primary School	King Edward Road, Waltham Cross, Hertfordshire	EN8 7HH
-school-eng:117093	5T8FR9MQ	Chorleywood Primary School	Stag Lane, Chorleywood, Rickmansworth, Hertfordshire	WD3 5HR
-school-eng:117094	9A2MXPG	Beechfield School	Gammons Lane, Watford, Hertfordshire	WD24 5TY
-school-eng:117095	2X6MTBHG	New Briars Primary and Nursery School	Hazel Grove, Hatfield, Hertfordshire	AL10 9DX
-school-eng:117096	5T8FR93G	Shepherd Primary	Shepherd's Lane, Mill End, Rickmansworth, Hertfordshire	WD3 8JJ
-school-eng:117097	5T8FVQCE	Hobletts Manor Junior School	Adeyfield Road, Hemel Hempstead, Hertfordshire	HP2 5JS
-school-eng:117098	5T8FR999	The Russell School	Brushwood Drive, Chorleywood, Rickmansworth, Hertfordshire	WD3 5RR
-school-eng:117099	9B1AJ1X	Cowley Hill School	Winstre Road, Borehamwood, Hertfordshire	WD6 5DP
-school-eng:117100	2X6MTE37	Flamstead Village School	Trowley Hill Road, Flamstead, St Albans, Hertfordshire	AL3 8DL
-school-eng:117101	9A2N6TH	Gaddesden Row JMI School	Gaddesden Row, Hemel Hempstead, Hertfordshire	HP2 6HG
-school-eng:117102	5T8GM330	Sauncey Wood Primary School	Pickford Hill, Harpenden, Hertfordshire	AL5 5HL
-school-eng:117103	2X6MTFDJ	Manland Primary School	Sauncey Avenue, Harpenden, Hertfordshire	AL5 4QW
-school-eng:117104	2X6MTB4W	Gascoyne Cecil Junior School	Birchwood Avenue, Hatfield, Hertfordshire	AL10 0PS
-school-eng:117105	2X6MTBHN	Green Lanes Primary School	Green Lanes, Hatfield, Hertfordshire	AL10 9JY
-school-eng:117106	5T8JQF7A	George Street Primary School	George Street, Hemel Hempstead, Hertfordshire	HP2 5HJ
-school-eng:117107	5T8JQEZ2	Boxmoor Primary School	Cowper Road, Boxmoor, Hemel Hempstead, Hertfordshire	HP1 1PF
-school-eng:117108	2X6MV9Y3	Two Waters Primary School	High Ridge Close, Apsley, Hemel Hempstead, Hertfordshire	HP3 0AU
-school-eng:117109	2X6MVAE8	Tudor Primary School	Redwood Drive, Hemel Hempstead, Hertfordshire	HP3 9ER
-school-eng:117110	9A2N6DJ	South Hill Primary School	Heath Lane, Hemel Hempstead, Hertfordshire	HP1 1TT
-school-eng:117111	9B09VV9	Abel Smith School	Churchfields, Greencoates, Hertford, Hertfordshire	SG13 8AE
-school-eng:117112	9C3H2AA	Hexton Junior Mixed and Infant School	Hexton, Hitchin, Hertfordshire	SG5 3JL
-school-eng:117113	2X6MXHN8	Highbury Infant School and Nursery	Standhill Road, Hitchin, Hertfordshire	SG4 9AG
-school-eng:117114	5T8GM5Z2	Strathmore Infant and Nursery School	Old Hale Way, Hitchin, Hertfordshire	SG5 1XR
-school-eng:117115	2X6MXGR1	Highover Junior Mixed and Infant School	Cambridge Road, Hitchin, Hertfordshire	SG4 0JP
-school-eng:117116	9C3H8GG	Wilshere-Dacre Junior School	Fishponds Road, Hitchin, Hertfordshire	SG5 1NS
-school-eng:117117	9B09WAB	Hunsdon Junior Mixed and Infant School	High Street, Ware, Hertfordshire	SG12 8NT
-school-eng:117118	2X6MXHA3	Kimpton Primary School	High Street, Kimpton, Hitchin, Hertfordshire	SG4 8RB
-school-eng:117119	9C3H4CS	Breachwood Green Junior Mixed and Infant School	Oxford Road, Breachwood Green, Hitchin, Hertfordshire	SG4 8NP
-school-eng:117120	9C3H3W0	Knebworth Primary and Nursery School	Swangleys Lane, Knebworth, Hertfordshire	SG3 6AA
-school-eng:117121	2X6MXM4C	Wilbury Junior School	Bedford Road, Letchworth Garden City, Hertfordshire	SG6 4DU
-school-eng:117122	2X6MXMAX	Grange Junior School	Sparhawke, Letchworth Garden City, Hertfordshire	SG6 4PY
-school-eng:117123	2X6MXKC1	Hillshott Infant School and Nursery	Ridge Avenue, Letchworth, Hertfordshire	SG6 1QE
-school-eng:117124	9C3H9JV	Westbury Primary and Nursery School	West View, Letchworth, Hertfordshire	SG6 3QN
-school-eng:117125	9B09MHA	Hertford Heath Primary and Nursery School	Woodland Road, Hertford Heath, Hertford, Hertfordshire	SG13 7QW
-school-eng:117126	9B09XQM	Little Hadham Primary School	Stortford Road, Little Hadham, Ware, Hertfordshire	SG11 2DX
-school-eng:117127	5T8JQERT	Markyate Village School and Nursery	Cavendish Road, Markyate, St Albans, Hertfordshire	AL3 8PT
-school-eng:117128	5T8GM5Z6	Pirton School	High Street, Pirton, Hitchin, Hertfordshire	SG5 3PS
-school-eng:117129	2X6MXNM0	Reed First School	Jacksons Lane, Reed, Royston, Hertfordshire	SG8 8AB
-school-eng:117130	5T8FRBSD	Yorke Mead Primary School	Dulwich Way, Croxley Green, Rickmansworth, Hertfordshire	WD3 3PX
-school-eng:117131	5T8FR9S8	Harvey Road Primary School	Harvey Road, Croxley Green, Rickmansworth, Hertfordshire	WD3 3BN
-school-eng:117132	5T8FR9SA	Little Green Junior School	Lincoln Drive, Croxley Green, Rickmansworth, Hertfordshire	WD3 3NJ
-school-eng:117133	5T8FR9SP	Malvern Way Infant and Nursery School	Malvern Way, Croxley Green, Rickmansworth, Hertfordshire	WD3 3QQ
-school-eng:117134	2X6MXNAM	Tannery Drift School	Tannery Drift, Royston, Hertfordshire	SG8 5DE
-school-eng:117135	2X6MTANG	Bernards Heath Infant and Nursery School	154 Sandridge Road, St Albans, Hertfordshire	AL1 4AP
-school-eng:117136	5T8JAKCQ	Camp Primary and Nursery School	Camp Road, St Albans, Hertfordshire	AL1 5PG
-school-eng:117137	5T8JAG03	Fleetville Junior School	228 Hatfield Road, St Albans, Hertfordshire	AL1 4LW
-school-eng:117138	2X6MTAHR	Fleetville Infant and Nursery School	Royal Road, St Albans, Hertfordshire	AL1 4LX
-school-eng:117139	5T8JAKZZ	Garden Fields Junior Mixed and Infant School	Townsend Drive, St Albans, Hertfordshire	AL3 5RL
-school-eng:117140	2X6MT9N0	St Peter's School	Cottonmill Lane, St Albans, Hertfordshire	AL1 1HL
-school-eng:117141	2X6MTDHF	Aboyne Lodge Junior Mixed and Infant School	Etna Road, St Albans, Hertfordshire	AL3 5NL
-school-eng:117142	2X6MT9TB	Mandeville Primary School	Mandeville Drive, St Albans, Hertfordshire	AL1 2LE
-school-eng:117143	5T8JAQW9	Bernards Heath Junior School	Watson Avenue, St Albans, Hertfordshire	AL3 5HP
-school-eng:117144	2X6MXHA2	St Paul's Walden Primary School	Bendish Lane, Whitwell, Hitchin, Hertfordshire	SG4 8HX
-school-eng:117145	2X6MTEC1	Colney Heath Junior Mixed Infant and Nursery School	High Street, Colney Heath, St Albans, Hertfordshire	AL4 0NP
-school-eng:117146	2X6MTBMW	London Colney Primary & Nursery School	Alexander Road, London Colney, St Albans, Hertfordshire	AL2 1JG
-school-eng:117147	2X6MXNX1	Sandon Junior Mixed and Infant School	Sandon, Buntingford, Hertfordshire	SG9 0QS
-school-eng:117148	2X6MTEVR	Sandridge School	Woodcock Hill, Sandridge, St Albans, Hertfordshire	AL4 9EB
-school-eng:117149	9B09WDC	Fawbert and Barnard Infants' School	Knight Street, Sawbridgeworth, Hertfordshire	CM21 9AT
-school-eng:117150	9B1AHCZ	Shenley Primary School	London Road, Shenley, Radlett, Hertfordshire	WD7 9DX
-school-eng:117151	9C3QN7X	Letchmore Infants' and Nursery School	Letchmore Road, Stevenage, Hertfordshire	SG1 3PS
-school-eng:117152	9C3QN1A	Fairlands Primary School and Nursery	Pound Avenue, Stevenage, Hertfordshire	SG1 3JA
-school-eng:117153	2X6MXNSQ	Therfield First School	The Causeway, Therfield, Royston, Hertfordshire	SG8 9PP
-school-eng:117154	2X6MXFT3	Walkern Primary School	High Street, Walkern, Stevenage, Hertfordshire	SG2 7NS
-school-eng:117155	2X6MYG70	The Orchard Primary School	Gammons Lane, Watford, Hertfordshire	WD24 5JW
-school-eng:117156	5T8FR0MP	Central Primary School	Derby Road, Watford, Hertfordshire	WD17 2LX
-school-eng:117157	5T8FR2HA	Bushey and Oxhey Infant School	Aldenham Road, Bushey, Hertfordshire	WD23 2QH
-school-eng:117158	2X6MYDFF	Chater Junior School	Addiscombe Road, Watford, Hertfordshire	WD18 0WN
-school-eng:117159	2X6MYDDS	Chater Infant School	Southsea Avenue, Watford, Hertfordshire	WD18 7NJ
-school-eng:117160	2X6MYE01	Field Junior School	Watford Field Road, Watford, Hertfordshire	WD18 0AZ
-school-eng:117161	5T8FR161	Watford Field School (Infant & Nursery)	Neal Street, Watford, Hertfordshire	WD18 0WF
-school-eng:117162	2X6MYFQH	Parkgate Junior School	Southwold Road, Watford, Hertfordshire	WD24 7DN
-school-eng:117163	2X6MYFQM	Parkgate Infants' and Nursery School	Northfield Gardens, Watford, Hertfordshire	WD24 7RL
-school-eng:117164	9A2MY3R	Garston Infants' School	Fourth Avenue, Watford, Hertfordshire	WD25 9PP
-school-eng:117165	2X6MYFQJ	Knutsford School	Balmoral Road, Watford, Hertfordshire	WD24 7ER
-school-eng:117166	2X6MYCWQ	St Meryl School	The Mead, Carpenders Park, Watford, Hertfordshire	WD19 5BT
-school-eng:117167	5T8FR15R	Cassiobury Junior School	Bellmount Wood Avenue, Watford, Hertfordshire	WD17 3PD
-school-eng:117168	2X6MYGF8	Kingsway Junior School	Briar Road, Watford, Hertfordshire	WD25 0JH
-school-eng:117169	5T8FR6C3	Warren Dell Primary School	Gosforth Lane, South Oxhey, Watford, Hertfordshire	WD19 7UZ
-school-eng:117170	5T8FRCN0	Oxhey Wood Primary School	Oxhey Drive, South Oxhey, Watford, Hertfordshire	WD19 7SL
-school-eng:117171	9B09WXE	Watton-at-Stone Primary and Nursery School	Rectory Lane, Watton-At-Stone, Hertford, Hertfordshire	SG14 3SG
-school-eng:117172	2X6MTH0Y	Peartree Primary School	Peartree Lane, Welwyn Garden City, Hertfordshire	AL7 3XW
-school-eng:117173	2X6MTH0W	Blackthorn Junior School	Blackthorn Road, Welwyn Garden City, Hertfordshire	AL7 3JP
-school-eng:117174	5T8JHBRH	Templewood Primary School	Pentley Park, Welwyn Garden City, Hertfordshire	AL8 7SD
-school-eng:117175	2X6MTH11	Holwell Primary School	Holwell Road, Welwyn Garden City, Hertfordshire	AL7 3RP
-school-eng:117176	9B09WXS	Widford School	Ware Road, Widford, Ware, Hertfordshire	SG12 8RE
-school-eng:117177	2X6MXGZ4	Wymondley Junior Mixed and Infant School	Siccut Road, Little Wymondley, Hitchin, Hertfordshire	SG4 7HN
-school-eng:117178	2X6MYKRX	Tanners Wood Junior Mixed and Infant School	Hazelwood Lane, Abbots Langley, Hertfordshire	WD5 0LG
-school-eng:117180	4D4SBR	Hurst Drive Primary School	Hurst Drive, Waltham Cross, Hertfordshire	EN8 8DH
-school-eng:117181	9B1AJ1Y	Woodlands Primary School	Alban Crescent, Borehamwood, Hertfordshire	WD6 5JF
-school-eng:117182	9B1AHM6	Summerswood Primary School	Furzehill Road, Borehamwood, Hertfordshire	WD6 2DW
-school-eng:117183	9B1AHNW	Kenilworth Primary School	Kenilworth Drive, Borehamwood, Hertfordshire	WD6 1QL
-school-eng:117184	9B1AJ14	Meryfield Primary School	Theobald Street, Borehamwood, Hertfordshire	WD6 4PA
-school-eng:117185	5T8JHBZT	Salisbury Infants' School	Birchwood Avenue, Hatfield, Hertfordshire	AL10 0PS
-school-eng:117186	2X6MXM4M	Icknield Infant and Nursery School	Archers Way, Letchworth Garden City, Hertfordshire	SG6 4UN
-school-eng:117187	5T8JAMAR	Bowmansgreen Primary School	Telford Road, London Colney, St Albans, Hertfordshire	AL2 1PH
-school-eng:117188	5T8JAM3C	Margaret Wix Primary School	High Oaks, St Albans, Hertfordshire	AL3 6EL
-school-eng:117189	9C3QMW8	Broom Barns Community Primary School	Homestead Moat, Stevenage, Hertfordshire	SG1 1UE
-school-eng:117190	9A2MY3R	Lea Farm Junior School	Fourth Avenue, Watford, Hertfordshire	WD25 9PQ
-school-eng:117191	5T8FR162	Alban Wood Junior School	Newhouse Crescent, Garston, Watford, Hertfordshire	WD25 7LU
-school-eng:117192	5T8FR6C5	Little Furze Junior Mixed and Infant School	Gosforth Lane, Watford, Hertfordshire	WD19 7RE
-school-eng:117193	2X6MYCZB	Greenfields Primary School	Ellesborough Close, Watford, Hertfordshire	WD19 6QH
-school-eng:117194	5T8FR714	Woodhall Primary School	Woodhall Lane, South Oxhey, Watford, Hertfordshire	WD19 6QX
-school-eng:117195	9B1AHQY	Saffron Green Primary School	Nicoll Way, Borehamwood, Hertfordshire	WD6 2PP
-school-eng:117196	2X6MTBHG	Hazelgrove Primary School	Hazel Grove, Hatfield, Hertfordshire	AL10 9DX
-school-eng:117197	9A2N6M9	Hobletts Manor Infants' School	Adeyfield Road, Hemel Hempstead, Hertfordshire	HP2 5JS
-school-eng:117198	2X6MZR56	Chaulden Junior School	School Row, Chaulden, Hemel Hempstead, Hertfordshire	HP1 2JU
-school-eng:117199	9C3QNHH	Roebuck Junior School	St Margaret's, Stevenage, Hertfordshire	SG2 8RF
-school-eng:117200	9C3QP13	Bedwell Primary School	Bedwell Crescent, Stevenage, Hertfordshire	SG1 1NJ
-school-eng:117201	4D4PHZ	Flamstead End Junior School	Longfield Lane, Flamstead End, Cheshunt, Waltham Cross, Hertfordshire	EN7 6AG
-school-eng:117202	9A2N7AH	Chaulden Infants' and Nursery	School Row, Chaulden, Hemel Hempstead, Hertfordshire	HP1 2JU
-school-eng:117203	4D5EGC	Haslewood Junior School	Haslewood Avenue, Hoddesdon, Hertfordshire	EN11 8HT
-school-eng:117204	9C3QNHH	Roebuck Infant School	St Margaret's, Stevenage, Hertfordshire	SG2 8RF
-school-eng:117205	5T8FDF2Q	Peartree Spring Junior School	Hydean Way, Stevenage, Hertfordshire	SG2 9GG
-school-eng:117206	9ADG70Z	Peartree Spring Primary School	Hydean Way, Stevenage, Hertfordshire	SG2 9GG
-school-eng:117207	5T8FDGYV	Longmeadow Junior School	Oaks Cross, Broadwater, Stevenage, Hertfordshire	SG2 8LT
-school-eng:117208	5T8FDGYV	Longmeadow Infant and Nursery School	Oaks Cross, Stevenage, Hertfordshire	SG2 8LT
-school-eng:117209	9C3QPDF	Bandley Hill Junior School	Featherston Road, Stevenage, Hertfordshire	SG2 9PP
-school-eng:117210	9C3QPDF	Bandley Hill Infants' School	Featherston Road, Stevenage, Hertfordshire	SG2 9PP
-school-eng:117211	5T8JAR3E	Roundwood Primary School	Roundwood Park, Harpenden, Hertfordshire	AL5 3AD
-school-eng:117212	5T8JAQYW	Wheatfields Junior Mixed School	Downes Road, St Albans, Hertfordshire	AL4 9NT
-school-eng:117213	2X6MTH0X	Thumbswood Infant School	Blackthorn Road, Welwyn Garden City, Hertfordshire	AL7 3JP
-school-eng:117214	2X6MVA2W	Chambersbury Primary School	Hill Common, Bennetts End, Hemel Hempstead, Hertfordshire	HP3 8JH
-school-eng:117215	5T8JQEN7	Broadfield Junior School	Windmill Road, Hemel Hempstead, Hertfordshire	HP2 4BX
-school-eng:117216	2X6MV4MW	Broadfield Infants' School	Broadfield Road, Adeyfield, Hemel Hempstead, Hertfordshire	HP2 4DW
-school-eng:117217	2X6MTAYM	Windermere Primary School	Windermere Avenue, St Albans, Hertfordshire	AL1 5QP
-school-eng:117218	9B1RAP4	Anstey First School	Anstey, Buntingford, Hertfordshire	SG9 0BY
-school-eng:117219	9B1AHNH	Monksmead School	Hillside Avenue, Borehamwood, Hertfordshire	WD6 1HL
-school-eng:117220	9AE9DVC	Howe Dell Primary School	The Runway, Hatfield, Hertfordshire	AL10 9AH
-school-eng:117221	5T8FDH6F	Almond Hill Junior School	Almonds Lane, Stevenage, Hertfordshire	SG1 3RP
-school-eng:117222	2X6MTEAJ	Oakwood Primary School	Oakwood Drive, St Albans, Hertfordshire	AL4 0XA
-school-eng:117223	2X6MXMBX	Northfields Infants and Nursery School	Burley, Letchworth Garden City, Hertfordshire	SG6 4PT
-school-eng:117224	5T8GM5YV	Purwell Primary School	Fairfield Way, Hitchin, Hertfordshire	SG4 0PU
-school-eng:117225	5T8JAQST	Killigrew Junior School	West Avenue, St Albans, Hertfordshire	AL2 3HD
-school-eng:117226	9C3QPE3	Camps Hill Community Primary School	Chells Way, Stevenage, Hertfordshire	SG2 0LT
-school-eng:117227	5T8JHBHC	Harwood Hill Junior Mixed Infant and Nursery School	Harwood Close, Welwyn Garden City, Hertfordshire	AL8 7AG
-school-eng:117228	9B1AHFC	Fair Field Junior School	Watford Road, Radlett, Hertfordshire	WD7 8LU
-school-eng:117229	9AE9DWC	Creswick Primary and Nursery School	Sir John Newsom Way, Welwyn Garden City, Hertfordshire	AL7 4TP
-school-eng:117230	2X6MTKB4	Thorley Hill Primary School	Park Lane, Bishop's Stortford, Hertfordshire	CM23 3NH
-school-eng:117231	2X6MTSD9	Micklem Primary School	Boxted Road, Hemel Hempstead, Hertfordshire	HP1 2QH
-school-eng:117232	4D5476	Mayfield Infants' School and Nursery	Cheshunt Wash, Cheshunt, Waltham Cross, Hertfordshire	EN8 0LU
-school-eng:117233	4D559A	Brookland Junior School	Elm Drive, Cheshunt, Waltham Cross, Hertfordshire	EN8 0RX
-school-eng:117234	2X6MVA2V	The Reddings Primary School	Bennetts End Road, Hemel Hempstead, Hertfordshire	HP3 8DX
-school-eng:117235	5T8JAQT4	How Wood Primary and Nursery School	Spooners Drive, Park Street, St Albans, Hertfordshire	AL2 2HU
-school-eng:117236	9AQQSA1	Redbourn Infants' and Nursery School	Long Cutt, Redbourn, St Albans, Hertfordshire	AL3 7EX
-school-eng:117237	9C3QPF8	Lodge Farm Junior Mixed School	Mobbsbury Way, Chells, Stevenage, Hertfordshire	SG2 0HP
-school-eng:117238	9C3QPF8	Lodge Farm Infants' School	Mobbsbury Way, Chells, Stevenage, Hertfordshire	SG2 0HR
-school-eng:117239	2X6MTSE6	Rossgate Primary School	Galley Hill, Hemel Hempstead, Hertfordshire	HP1 3JY
-school-eng:117240	2X6MTEVX	Skyswood Primary & Nursery School	Chandlers Road, St Albans, Hertfordshire	AL4 9RS
-school-eng:117241	2X6MTSDA	Martindale Primary and Nursery School	Boxted Road, Warners End, Hemel Hempstead, Hertfordshire	HP1 2QS
-school-eng:117242	9B1AK1Q	Bushey Manor Junior School	Grange Road, Bushey, Hertfordshire	WD23 2QL
-school-eng:117243	4D4RPT	Goffs Oak Primary & Nursery School	Millcrest Road, Goffs Oak, Waltham Cross, Hertfordshire	EN7 5NS
-school-eng:117244	9B09V9Y	Summercroft Junior School	Parsonage Lane, Bishop's Stortford, Hertfordshire	CM23 5BJ
-school-eng:117245	5T8FRA25	Eastbury Farm Primary School	Bishops Avenue, Northwood, Hertfordshire	HA6 3DG
-school-eng:117246	9C3QNZ0	Burydale Junior School	Burydale, Stevenage, Hertfordshire	SG2 8AX
-school-eng:117247	5T8FDGVQ	Shephall Green Infant and Nursery School	Shephall Green, Stevenage, Hertfordshire	SG2 9XS
-school-eng:117248	5T8FR7WQ	Bedmond Village Primary and Nursery School	Meadow Way, Bedmond, Abbots Langley, Hertfordshire	WD5 0RD
-school-eng:117249	2X6MZ9HS	Gade Valley Junior Mixed Infant and Nursery School	Gadebridge Road, Hemel Hempstead, Hertfordshire	HP1 3DT
-school-eng:117250	5T8JAKE5	Cunningham Hill Junior School	Cell Barnes Lane, St Albans, Hertfordshire	AL1 5QJ
-school-eng:117251	9C3QNNT	Pin Green Primary School and Nursery	Lonsdale Road, Stevenage, Hertfordshire	SG1 5DQ
-school-eng:117252	5T8JHBMF	Homerswood Primary and Nursery School	Kirklands, Welwyn Garden City, Hertfordshire	AL8 7RF
-school-eng:117253	2X6MXHN9	Whitehill Junior School	Whitehill Road, Hitchin, Hertfordshire	SG4 9HT
-school-eng:117254	5T8JQF0C	Westfield Primary School and Nursery	Durrants Lane, Berkhamsted, Hertfordshire	HP4 3PJ
-school-eng:117255	4D50X6	Downfield Primary School	Downfield Road, Cheshunt, Waltham Cross, Hertfordshire	EN8 8SS
-school-eng:117256	2X6MTSD7	Pixies Hill Primary School	Hazeldell Road, Hemel Hempstead, Hertfordshire	HP1 2BY
-school-eng:117257	2X6MTGAS	Rowans Primary School	Rowans, Welwyn Garden City, Hertfordshire	AL7 1NZ
-school-eng:117258	2X6MTEXS	The Grove Junior School	Dark Lane, Harpenden, Hertfordshire	AL5 1QB
-school-eng:117259	2X6MXJY8	Pixmore Junior School	Rushby Mead, Letchworth, Hertfordshire	SG6 1RS
-school-eng:117260	2X6MVB3M	Swing Gate Infant School and Nursery	Swing Gate Lane, Berkhamsted, Hertfordshire	HP4 2LJ
-school-eng:117261	2X6MTFVS	Oaklands Primary School	Great North Road, Oaklands, Welwyn, Hertfordshire	AL6 0PX
-school-eng:117262	4D4PHY	Flamstead End Infant and Nursery School	Longfield Lane, Cheshunt, Waltham Cross, Hertfordshire	EN7 6AG
-school-eng:117263	9B09VVZ	Hollybush Primary School	Fordwich Rise, Hertford, Hertfordshire	SG14 2DF
-school-eng:117264	5T8GM5Z3	Oughtonhead Junior School	Mattocke Road, Hitchin, Hertfordshire	SG5 2NZ
-school-eng:117265	5T8GM5Z3	Oughtonhead Infants' School	Mattocke Road, Hitchin, Hertfordshire	SG5 2NZ
-school-eng:117266	5T8FR8QR	Maple Cross Junior Mixed Infant and Nursery School	Denham Way, Maple Cross, Rickmansworth, Hertfordshire	WD3 9SS
-school-eng:117267	5T8JAQST	Killigrew Infant and Nursery School	West Avenue, St Albans, Hertfordshire	AL2 3HD
-school-eng:117268	9AQQQ70	Wheatfields Infants' and Nursery School	Downes Road, St Albans, Hertfordshire	AL4 9NT
-school-eng:117269	9C3QP1W	Moss Bury Primary School and Nursery	Webb Rise, Stevenage, Hertfordshire	SG1 5PA
-school-eng:117270	4D5C6Q	Westfield Community Primary School	Westfield Road, Hoddesdon, Hertfordshire	EN11 8RA
-school-eng:117271	2X6MXAJ9	Priors Wood Primary School	Cozens Road, Ware, Hertfordshire	SG12 7HZ
-school-eng:117272	4D5THA	Brookland Infant and Nursery School	Elm Drive, Cheshunt, Waltham Cross, Hertfordshire	EN8 0RX
-school-eng:117273	9B09V9Y	Summercroft Infant and Nursery School	Plaw Hatch Close, Bishop's Stortford, Hertfordshire	CM23 5BJ
-school-eng:117274	5T8JQEW6	Goldfield Infants' and Nursery School	Christchurch Road, Tring, Hertfordshire	HP23 4EE
-school-eng:117275	9B09WW3	Tower Primary School	Tower Road, Ware, Hertfordshire	SG12 7LP
-school-eng:117276	2X6MVBEG	Greenway Primary and Nursery School	Crossways, Berkhamsted, Hertfordshire	HP4 3NH
-school-eng:117277	2X6MTM1G	Thorn Grove Primary School	Thorn Grove, Bishop's Stortford, Hertfordshire	CM23 5LD
-school-eng:117278	2X6MXNF3	Icknield Walk First School	Poplar Drive, Royston, Hertfordshire	SG8 7EZ
-school-eng:117279	9AQQSA0	Cunningham Hill Infant School	Cell Barnes Lane, St Albans, Hertfordshire	AL1 5QJ
-school-eng:117280	9B09WC0	Reedings Junior School	Bullfields, Sawbridgeworth, Hertfordshire	CM21 9DD
-school-eng:117281	2X6MTF03	The Grove Infant and Nursery School	Dark Lane, Harpenden, Hertfordshire	AL5 1QD
-school-eng:117282	5T8JQEQF	The Hammond Primary School	Cambrian Way, Hemel Hempstead, Hertfordshire	HP2 5TD
-school-eng:117283	5T8JQEXY	Kings Langley Primary School	Common Lane, Kings Langley, Hertfordshire	WD4 8DQ
-school-eng:117284	4D5JF9	Forres Primary School	Stanstead Road, Hoddesdon, Hertfordshire	EN11 0RW
-school-eng:117285	2X6MX9VD	Martins Wood Primary School	Mildmay Road, Stevenage, Hertfordshire	SG1 5RT
-school-eng:117286	2X6MZ9Y6	Dundale Primary School and Nursery	Silk Mill Way, Tring, Hertfordshire	HP23 5DJ
-school-eng:117287	2X6MTFQN	Crabtree Junior School	Crabtree Lane, Harpenden, Hertfordshire	AL5 5PU
-school-eng:117288	2X6MTDTD	Redbourn Junior School	Long Cutt, Redbourn, St Albans, Hertfordshire	AL3 7EX
-school-eng:117289	5T8FR8CN	Arnett Hills Junior Mixed and Infant School	Berry Lane, Rickmansworth, Hertfordshire	WD3 4BT
-school-eng:117290	5T8FR0E4	Holywell Primary School	Tolpits Lane, Watford, Hertfordshire	WD18 6LL
-school-eng:117291	2X6MTKCB	The Firs Junior School	Scott Road, Bishop's Stortford, Hertfordshire	CM23 3QJ
-school-eng:117292	9C3QNTR	Trotts Hill Primary and Nursery School	Wisden Road, Stevenage, Hertfordshire	SG1 5JD
-school-eng:117293	9CPSB9K	Cassiobury Infant and Nursery School	Bellmount Wood Avenue, Watford, Hertfordshire	WD17 3PE
-school-eng:117294	2X6MTGAT	Panshanger Primary School	Daniells, Welwyn Garden City, Hertfordshire	AL7 1QY
-school-eng:117295	2X6MZ9CG	Bovingdon Infants' School	St Lawrence Close, Bovingdon, Hemel Hempstead, Hertfordshire	HP3 0LS
-school-eng:117296	9B1AJVS	Bournehall Primary School	Bournehall Avenue, Bushey, Hertfordshire	WD23 3AX
-school-eng:117297	9B09W4W	Mill Mead Primary School	Port Vale, Hertford, Hertfordshire	SG14 3AA
-school-eng:117298	5T8JAQW1	Maple Primary School	Hall Place Gardens, St Albans, Hertfordshire	AL1 3SW
-school-eng:117299	9APZHJM	Round Diamond Primary School	Whitehorse Lane, Great Ashby Way, Stevenage, Hertfordshire	SG1 6NH
-school-eng:117300	9B1AK05	Hartsbourne Primary School	Hartsbourne Road, Bushey, Hertfordshire	WD23 1SJ
-school-eng:117301	5T8JAR6K	Beech Hyde Primary School and Nursery	Nurseries Road, Wheathampstead, St Albans, Hertfordshire	AL4 8TP
-school-eng:117302	4D4Q89	Andrews Lane Primary School	Andrews Lane, Cheshunt, Waltham Cross, Hertfordshire	EN7 6LB
-school-eng:117303	9B1AHFF	Newberries Primary School	Newberries Avenue, Radlett, Hertfordshire	WD7 7EL
-school-eng:117304	5T8FR92K	Rickmansworth Park Junior Mixed and Infant School	Park Road, Rickmansworth, Hertfordshire	WD3 1HU
-school-eng:117305	2X6MT9TB	Mandeville Primary School	West Road, Sawbridgeworth, Hertfordshire	CM21 0BL
-school-eng:117306	5T8FDH1E	Giles Junior School	Durham Road, Stevenage, Hertfordshire	SG1 4JQ
-school-eng:117307	4D5MF5	The Cranbourne Primary School	Bridleway North, Hoddesdon, Hertfordshire	EN11 9PP
-school-eng:117308	2X6MYCN6	Bromet Primary School	Oxhey Road, Watford, Hertfordshire	WD19 4SG
-school-eng:117309	2X6MXNXS	Millfield First and Nursery School	Monks Walk, Buntingford, Hertfordshire	SG9 9DT
-school-eng:117310	9B09Q1V	Hillmead Primary School	Woburn Avenue, Bishop's Stortford, Hertfordshire	CM23 4PW
-school-eng:117311	5T8FR16E	Nascot Wood Junior School	Nascot Wood Road, Watford, Hertfordshire	WD17 4YS
-school-eng:117312	2X6MTFQ9	Crabtree Infants' School	Crabtree Lane, Harpenden, Hertfordshire	AL5 5PU
-school-eng:117313	5T8JHC95	The Ryde School	Pleasant Rise, Hatfield, Hertfordshire	AL9 5DR
-school-eng:117314	5T8GM5Z0	William Ransom Primary School	Stuart Drive, Hitchin, Hertfordshire	SG4 9QB
-school-eng:117315	2X6MTD7F	Prae Wood Primary School	King Harry Lane, St Albans, Hertfordshire	AL3 4HZ
-school-eng:117316	9C3QP5S	The Giles Infant and Nursery School	Durham Road, Stevenage, Hertfordshire	SG1 4JQ
-school-eng:117317	5T8FR163	Kingsway Infants' School	North Approach, Watford, Hertfordshire	WD25 0ES
-school-eng:117318	2X6MYGZD	Alban Wood Infant and Nursery School	The Brow, Garston, Watford, Hertfordshire	WD25 7NX
-school-eng:117319	5T8HG06K	Kingshill Infant School	Heath Drive, Ware, Hertfordshire	SG12 0RL
-school-eng:117320	5T8FR3MT	Laurance Haines School	Vicarage Road, Watford, Hertfordshire	WD18 0DD
-school-eng:117321	4D4KHF	Woodside Primary School	Jones Road, Goffs Oak, Cheshunt, Waltham Cross, Hertfordshire	EN7 5JS
-school-eng:117322	9C3QMJX	Woolenwick Junior School	Bridge Road West, Stevenage, Hertfordshire	SG1 2NU
-school-eng:117323	5T8FDH83	Woolenwick Infant and Nursery School	Bridge Road West, Stevenage, Hertfordshire	SG1 2NU
-school-eng:117324	2X6MYGZE	Leavesden JMI School	High Road, Leavesden, Watford, Hertfordshire	WD25 7QZ
-school-eng:117325	5T8JHB1W	Springmead Primary School	Hillyfields, Welwyn Garden City, Hertfordshire	AL7 2HB
-school-eng:117326	4D56ZK	Longlands Primary School and Nursery	Nunsbury Drive, Turnford, Broxbourne, Hertfordshire	EN10 6AG
-school-eng:117327	5T8JAMXC	The Lea Primary School and Nursery	Moorland Road, Harpenden, Hertfordshire	AL5 4LE
-school-eng:117328	2X6MXBM8	Wheatcroft Primary School	Stanstead Road, Hertford, Hertfordshire	SG13 7HQ
-school-eng:117329	5T8GM5YW	Mary Exton Primary School	St Michael's Road, Hitchin, Hertfordshire	SG4 0QA
-school-eng:117330	9C3H4EB	Lordship Farm Primary School	Fouracres, Letchworth Garden City, Hertfordshire	SG6 3UF
-school-eng:117331	2X6MXNSX	Studlands Rise First School	Studlands Rise, Royston, Hertfordshire	SG8 9HB
-school-eng:117332	2X6MXNAN	Roman Way First School	Burns Road, Royston, Hertfordshire	SG8 5EQ
-school-eng:117333	2X6MVAGM	Lime Walk Primary School	Lime Walk, Bennetts End, Hemel Hempstead, Hertfordshire	HP3 9LN
-school-eng:117334	4D4Q88	Fairfields Primary School and Nursery	Rosedale Way, Cheshunt, Waltham Cross, Hertfordshire	EN7 6JG
-school-eng:117335	2X6MV52E	Aycliffe Drive Primary School	Aycliffe Drive, Hemel Hempstead, Hertfordshire	HP2 6LJ
-school-eng:117336	2X6MV5B1	Holtsmere End Junior School	Shenley Road, Hemel Hempstead, Hertfordshire	HP2 7JZ
-school-eng:117337	9ADWWZ9	Samuel Lucas Junior Mixed and Infant School	Gaping Lane, Hitchin, Hertfordshire	SG5 2JQ
-school-eng:117338	4D5CE2	Roselands Primary School	High Wood Road, Hoddesdon, Hertfordshire	EN11 9AR
-school-eng:117339	5T8FR0ZN	Cherry Tree Primary School	Berry Avenue, Watford, Hertfordshire	WD24 6ST
-school-eng:117340	9A2MY90	Coates Way JMI and Nursery School	Coates Way, Garston, Watford, Hertfordshire	WD25 9NW
-school-eng:117341	2X6MV8D9	Grove Road Primary School	Grove Road, Tring, Hertfordshire	HP23 5PD
-school-eng:117342	5T8JAR5S	High Beeches Primary School	Aldwickbury Crescent, Harpenden, Hertfordshire	AL5 5SD
-school-eng:117343	5T8JQH12	Barncroft Primary School	Washington Avenue, Grove Hill West, Hemel Hempstead, Hertfordshire	HP2 6NG
-school-eng:117344	2X6MV4WB	Jupiter Drive Junior Mixed and Infant School	Jupiter Drive, Hemel Hempstead, Hertfordshire	HP2 5NT
-school-eng:117345	2X6MXMC2	Stonehill School	Western Close, Letchworth Garden City, Hertfordshire	SG6 4SZ
-school-eng:117346	2X6MTKGY	Richard Whittington Primary School	Thornbera Gardens, Bishop's Stortford, Hertfordshire	CM23 3NP
-school-eng:117347	5T8JAMHS	Mount Pleasant Lane Junior Mixed and Infant School and Nursery	Mount Pleasant Lane, Bricket Wood, St Albans, Hertfordshire	AL2 3XA
-school-eng:117348	2X6MTGVX	Watchlytes Junior Mixed Infant and Nursery School	Watchlytes, Welwyn Garden City, Hertfordshire	AL7 2AZ
-school-eng:117349	9A2N4RC	Brockswood Primary School	Shenley Road, Woodhall Farm, Hemel Hempstead, Hertfordshire	HP2 7QH
-school-eng:117350	9C3H64A	Lannock Primary School	Whiteway, Letchworth Garden City, Hertfordshire	SG6 2PP
-school-eng:117351	4D5QYQ	Ryelands Primary School	Essex Road, Hoddesdon, Hertfordshire	EN11 0AA
-school-eng:117352	9C3QPDM	Ashtree Primary School and Nursery	Chertsey Rise, Stevenage, Hertfordshire	SG2 9JQ
-school-eng:117353	4D5BFS	Sheredes Primary School	Benford Road, Hoddesdon, Hertfordshire	EN11 8LL
-school-eng:117354	2X6MXKK5	Radburn Primary School	Radburn Way, Letchworth Garden City, Hertfordshire	SG6 2JZ
-school-eng:117355	2X6MTHMA	Applecroft School	Applecroft Road, Welwyn Garden City, Hertfordshire	AL8 6JZ
-school-eng:117356	4D59VX	Ley Park Primary School	Cozens Lane East, Broxbourne, Hertfordshire	EN10 6QA
-school-eng:117357	2X6MTBF0	Five Oaks Primary and Nursery School	Travellers Lane, Hatfield, Hertfordshire	AL10 8TQ
-school-eng:117358	2X6MTFBZ	Wood End School	Yeomans Avenue, Harpenden, Hertfordshire	AL5 3EF
-school-eng:117359	2X6MV58T	Eastbrook Primary School	St Agnell's Lane, Grove Hill, Hemel Hempstead, Hertfordshire	HP2 7BG
-school-eng:117360	5T8FR15X	Meriden Primary School	Harvest End, Watford, Hertfordshire	WD25 9UA
-school-eng:117361	9B09W62	Bengeo Primary School	The Avenue, Bengeo, Hertford, Hertfordshire	SG14 3DX
-school-eng:117362	5T8JHCD2	Stream Woods Junior Mixed Infant and Nursery School	Woods Avenue, Hatfield, Hertfordshire	AL10 8NW
-school-eng:117363	9B09KZQ	Morgans Primary School & Nursery	Morgans Road, Hertford, Hertfordshire	SG13 8DR
-school-eng:117364	2X6MX9R5	The Leys Primary and Nursery School	Ripon Road, Stevenage, Hertfordshire	SG1 4QZ
-school-eng:117365	2X6MVAEA	Belswains Primary School	Barnfield, Hemel Hempstead, Hertfordshire	HP3 9QJ
-school-eng:117366	4D4MDG	Bonneygrove Primary School	Dark Lane, Cheshunt, Waltham Cross, Hertfordshire	EN7 5ED
-school-eng:117367	4D4WFP	Burleigh Primary School	Blindmans Lane, Cheshunt, Waltham Cross, Hertfordshire	EN8 9DP
-school-eng:117368	2X6MVA3W	Hobbs Hill Wood Primary School	Peascroft Road, Hemel Hempstead, Hertfordshire	HP3 8ER
-school-eng:117369	9AE03PB	Cranborne Primary School	Laurel Fields, Potters Bar, Hertfordshire	EN6 2BA
-school-eng:117370	9B1AKBC	Ladbrooke Junior Mixed and Infant School	Watkins Rise, Potters Bar, Hertfordshire	EN6 1QB
-school-eng:117371	9B1AJKB	Oakmere Primary School	Chace Avenue, Potters Bar, Hertfordshire	EN6 5NP
-school-eng:117372	9AE03NR	Sunny Bank Junior School	Field View Road, Potters Bar, Hertfordshire	EN6 2NA
-school-eng:117373	9AE03NR	Sunny Bank Infants' School	Field View Road, Potters Bar, Hertfordshire	EN6 2NA
-school-eng:117374	5T8FR0J2	Nascot Wood Infant and Nursery School	Nascot Wood Road, Watford, Hertfordshire	WD17 4YT
-school-eng:117375	2X6MXBM9	The Pines Junior Mixed and Infant School	Divot Place, Hertford, Hertfordshire	SG13 7SP
-school-eng:117376	9C3H4K7	Hartsfield Junior Mixed and Infant School	Clothall Road, Baldock, Hertfordshire	SG7 6PB
-school-eng:117377	2X6MV5B2	Holtsmere End Infant and Nursery School	Shenley Road, Hemel Hempstead, Hertfordshire	HP2 7JZ
-school-eng:117378	2X6MTH6E	Commonswood Primary & Nursery School	The Commons, Welwyn Garden City, Hertfordshire	AL7 4RU
-school-eng:117379	4D4TB6	Millbrook School	Gews Corner, Cheshunt, Waltham Cross, Hertfordshire	EN8 9BX
-school-eng:117380	2X6MTKPQ	Manor Fields Primary School	Penningtons, Bishop's Stortford, Hertfordshire	CM23 4LE
-school-eng:117381	5T8JQF4Y	Bellgate Primary School	Fletcher Way, Highfield, Hemel Hempstead, Hertfordshire	HP2 5QR
-school-eng:117382	2X6MV8DA	Aldbury Church of England Primary School	Stocks Road, Aldbury, Tring, Hertfordshire	HP23 5RT
-school-eng:117383	9B1AHEP	St John's Church of England Infant and Nursery School	Gills Hill Lane, Radlett, Hertfordshire	WD7 8DD
-school-eng:117384	9APZMWE	St Mary's Infants' School	St Mary's Way, Baldock, Hertfordshire	SG7 6HY
-school-eng:117385	2X6MXMZZ	St Mary's Junior Mixed School	St Mary's Way, Baldock, Hertfordshire	SG7 6HY
-school-eng:117386	2X6MXNGE	Barley Church of England Voluntary Controlled First School	Church End, Barley, Royston, Hertfordshire	SG8 8JW
-school-eng:117387	2X6MXBTA	Bayford Church of England Voluntary Controlled Primary School	Ashendene Road, Bayford, Hertford, Hertfordshire	SG13 8PX
-school-eng:117388	2X6MXAD5	Tonwell St Mary's Church of England Primary School	Ware Road, Tonwell, Ware, Hertfordshire	SG12 0HN
-school-eng:117389	9B09TXM	Benington Church of England Primary School	Benington, Stevenage, Hertfordshire	SG2 7LP
-school-eng:117390	9B09N7S	Layston Church of England First School	The Causeway, Buntingford, Hertfordshire	SG9 9EU
-school-eng:117391	9B1AJY4	Ashfield Junior School	School Lane, Bushey, Hertfordshire	WD23 1SR
-school-eng:117392	2X6MXHA4	Codicote Church of England Primary School	Meadow Way, Codicote, Hitchin, Hertfordshire	SG4 8YL
-school-eng:117393	2X6MTHWN	Essendon CofE (VC) Primary School	School Lane, Essendon, Hertfordshire	AL9 6HD
-school-eng:117394	9B1RA9H	Furneux Pelham Church of England School	Furneux Pelham, Buntingford, Hertfordshire	SG9 0LH
-school-eng:117395	2X6MXGZ5	Graveley Primary School	Ashwell Common, Graveley, Hitchin, Hertfordshire	SG4 7LJ
-school-eng:117396	2X6MXBT5	Ponsbourne St Mary's Church of England Primary School	Newgate Street Village, Hertford, Hertfordshire	SG13 8RA
-school-eng:117397	9B09VSP	Hertford St Andrew CofE Primary School	Calton Avenue, Hertford, Hertfordshire	SG14 2EP
-school-eng:117398	9B1RA9Z	High Wych Church of England Primary School	High Wych, Sawbridgeworth, Hertfordshire	CM21 0JB
-school-eng:117399	4D5EGC	St Paul's Voluntary Controlled Church of England Infants' School	Haslewood Avenue, Hoddesdon, Hertfordshire	EN11 8HT
-school-eng:117400	4D59VX	Wormley Primary School	Cozens Lane East, Wormley, Broxbourne, Hertfordshire	EN10 6QA
-school-eng:117401	9C3H9EJ	Ickleford Primary School	Arlesey Road, Ickleford, Hitchin, Hertfordshire	SG5 3TG
-school-eng:117402	9B1N3BC	Little Munden Church of England Voluntary Controlled Primary School	Church Lane, Dane End, Ware, Hertfordshire	SG12 0NR
-school-eng:117403	9C3H4EC	Preston Primary School	Back Lane, Preston, Hitchin, Hertfordshire	SG4 7UJ
-school-eng:117404	5T8FRA17	Sarratt Church of England Primary School	The Green, Sarratt, Rickmansworth, Hertfordshire	WD3 6AS
-school-eng:117405	9B09PAV	Spellbrook Primary School	London Road, Spellbrook, Bishop's Stortford, Hertfordshire	CM23 4BA
-school-eng:117406	9B09WFN	Roger De Clare First CofE School	Station Road, Puckeridge, Ware, Hertfordshire	SG11 1TF
-school-eng:117407	9B09WH6	St Andrew's Church of England Voluntary Controlled Primary School	Mill Race, Stanstead Abbotts, Ware, Hertfordshire	SG12 8BZ
-school-eng:117408	2X6MXADA	Thundridge Church of England Primary School	Ermine Street, Thundridge, Ware, Hertfordshire	SG12 0SY
-school-eng:117409	2X6MXA4K	St Mary's Voluntary Controlled Church of England Junior School	Heath Drive, Ware, Hertfordshire	SG12 0RL
-school-eng:117410	9B09WT8	St Catherine's Church of England Primary School	Park Road, Ware, Hertfordshire	SG12 0AW
-school-eng:117411	2X6MXADK	Musley Infant School	Musley Hill, Ware, Hertfordshire	SG12 7NB
-school-eng:117412	9B09XT0	Wareside Church of England Primary School	Reeves Green, Wareside, Ware, Hertfordshire	SG12 7QR
-school-eng:117413	9C3H8X2	Weston Primary School	Maiden Street, Weston, Hitchin, Hertfordshire	SG4 7AG
-school-eng:117414	5T8JQEX2	Potten End CofE Primary School	Church Road, Potten End, Berkhamsted, Hertfordshire	HP4 2QY
-school-eng:117415	4D5QVQ	Dewhurst St Mary CofE Primary School	Churchgate, Cheshunt, Waltham Cross, Hertfordshire	EN8 9ND
-school-eng:117416	2X6MV4PH	Leverstock Green Church of England Primary School	Green Lane, Leverstock Green, Hemel Hempstead, Hertfordshire	HP2 4SA
-school-eng:117417	9A1STCM	St Paul's Church of England Primary School, Langleybury	Langleybury Lane, Hunton Bridge, Kings Langley, Hertfordshire	WD4 8RJ
-school-eng:117418	5T8JQ82D	Nash Mills Church of England Primary School	Belswains Lane, Nash Mills, Hemel Hempstead, Hertfordshire	HP3 9XB
-school-eng:117419	2X6MXA42	Albury Church of England Voluntary Aided Primary School	Church End, Albury, Hertfordshire	SG11 2JQ
-school-eng:117420	9B1RA8S	Ardeley St Lawrence Church of England Voluntary Aided Primary School	School Lane, Ardeley, Stevenage, Hertfordshire	SG2 7AJ
-school-eng:117421	9B09TW7	Aston St Mary's Church of England Aided Primary School	School Lane, Aston, Stevenage, Hertfordshire	SG2 7HA
-school-eng:117422	9C3H55T	Barkway VA Church of England First School	High Street, Barkway, Royston, Hertfordshire	SG8 8EF
-school-eng:117423	5T8JQ7K1	Victoria Church of England Infant and Nursery School	Prince Edward Street, Berkhamsted, Hertfordshire	HP4 3HA
-school-eng:117424	5T8JQGB2	St Mary's CofE Primary School, Northchurch	Northchurch, Berkhamsted, Hertfordshire	HP4 3QZ
-school-eng:117425	9B09V4B	St Joseph's Catholic Primary School	Great Hadham Road, Bishop's Stortford, Hertfordshire	CM23 2NL
-school-eng:117426	2X6MTKB7	St Michael's Church of England Primary School	Apton Road, Bishop's Stortford, Hertfordshire	CM23 3SN
-school-eng:117427	4D55NA	St Clement's Church of England Voluntary Aided Junior School	Cheshunt Wash, Cheshunt, Waltham Cross, Hertfordshire	EN8 0LU
-school-eng:117428	4D4TAK	Holy Trinity Church of England Primary School	Longlands Close, Crossbrook Street, Waltham Cross, Hertfordshire	EN8 8LU
-school-eng:117429	4D51HB	St Joseph's Catholic Primary School	Royal Avenue, Waltham Cross, Hertfordshire	EN8 7EN
-school-eng:117430	9B09VQ6	All Saints Church of England Voluntary Aided Primary School, Datchworth	Hollybush Lane, Datchworth, Knebworth, Hertfordshire	SG3 6RE
-school-eng:117431	9B1AHZ8	St Nicholas Elstree Church of England VA Primary School	St Nicholas Close, Elstree, Borehamwood, Hertfordshire	WD6 3EW
-school-eng:117432	9B09VQM	St John the Baptist Voluntary Aided Church of England Primary School	Hillside Lane, Great Amwell, Ware, Hertfordshire	SG12 9SE
-school-eng:117433	9A2N3ZG	Great Gaddesden Church of England Primary School	Church Meadow, Great Gaddesden, Hemel Hempstead, Hertfordshire	HP1 3BT
-school-eng:117434	5T8JAR4F	St Nicholas CofE VA Primary School	Church Green, Harpenden, Hertfordshire	AL5 2TP
-school-eng:117435	5T8JHC7Q	St John's Voluntary Aided Church of England Primary School, Lemsford	Lemsford Village, Welwyn Garden City, Hertfordshire	AL8 7TR
-school-eng:117436	9B09KVV	St Joseph's Catholic Primary School	North Road, Hertford, Hertfordshire	SG14 2BY
-school-eng:117437	4D5AD2	Broxbourne CofE Primary School	Mill Lane, Broxbourne, Hertfordshire	EN10 7AY
-school-eng:117438	4D5FRY	St Augustine Roman Catholic Primary School	Riversmead, Hoddesdon, Hertfordshire	EN11 8DP
-school-eng:117439	9B1N45D	Hormead Church of England (VA) First School	Great Hormead, Buntingford, Hertfordshire	SG9 0NR
-school-eng:117440	2X6MXGZ6	St Ippolyts Church of England Aided Primary School	Ashbrook Lane, Hitchin, Hertfordshire	SG4 7PB
-school-eng:117441	2X6MYKF6	St Paul's Church of England Voluntary Aided Primary School, Chipperfield	The Common, Chipperfield, Kings Langley, Hertfordshire	WD4 9BS
-school-eng:117442	2X6MXJXW	Norton St Nicholas CofE (VA) Primary School	Norton Road, Letchworth Garden City, Hertfordshire	SG6 1AG
-school-eng:117443	2X6MVAPK	Little Gaddesden Church of England Voluntary Aided Primary School	Church Road,  Little Gaddesden, Berkhamsted, Hertfordshire	HP4 1NX
-school-eng:117444	9B09WAV	St Andrew's CofE Primary School and Nursery	Tower Hill, Much Hadham, Hertfordshire	SG10 6DL
-school-eng:117445	9C3HAY7	Offley Endowed Primary School	School Lane, Offley, Hitchin, Hertfordshire	SG5 3AT
-school-eng:117446	9C3H7Z4	Cockernhoe Endowed CofE Primary School	Cockernhoe Green, Luton, Bedfordshire	LU2 8PY
-school-eng:117447	5T8FR94D	St Mary's Church of England Primary School, Rickmansworth	Stockers Farm Road, Rickmansworth, Hertfordshire	WD3 1NY
-school-eng:117448	2X6MYHQ6	St Peter's Church of England Voluntary Aided Primary School	Church Lane, Mill End, Rickmansworth, Hertfordshire	WD3 8HD
-school-eng:117449	5T8JAEJ1	The Abbey Church of England Voluntary Aided Primary School, St Albans	Grove Road, St Albans, Hertfordshire	AL1 1DQ
-school-eng:117450	5T8JAH43	St Alban and St Stephen Roman Catholic Infant and Nursery School	Vanda Crescent, St Albans, Hertfordshire	AL1 5EX
-school-eng:117451	9A1REK6	St Michael's Church of England Voluntary Aided Primary School, St Albans	St Michael's Street, St Albans, Hertfordshire	AL3 4SJ
-school-eng:117452	5T8JAHE1	Park Street Church of England Voluntary Aided Primary School	Branch Road, Park Street, St Albans, Hertfordshire	AL2 2LX
-school-eng:117453	9B1RB29	Puller Memorial, Church of England, Voluntary Aided Primary School	High Cross, Ware, Hertfordshire	SG11 1AZ
-school-eng:117454	9B09WFA	St Thomas of Canterbury Roman Catholic Primary School	High Street, Puckeridge, Ware, Hertfordshire	SG11 1RZ
-school-eng:117456	9C3QNK2	St Nicholas CofE (VA) Primary School and Nursery	Six Hills Way, Stevenage, Hertfordshire	SG2 0PZ
-school-eng:117457	2X6MTFVR	Tewin Cowper Church of England Voluntary Aided Primary School	Cannons Meadow, Tewin, Welwyn, Hertfordshire	AL6 0JU
-school-eng:117458	2X6MV8D8	Bishop Wood Church of England Junior School, Tring	Frogmore Street, Tring, Hertfordshire	HP23 5AU
-school-eng:117459	5T8JQGSM	Long Marston VA Church of England Primary School	Station Road, Long Marston, Tring, Hertfordshire	HP23 4QS
-school-eng:117460	5T8JHAGW	St John's CofE Primary School	Hertford Road, Digswell, Welwyn, Hertfordshire	AL6 0BX
-school-eng:117461	5T8JHCKE	St Michael's Woolmer Green CofE VA Primary School	London Road, Woolmer Green, Hertfordshire	SG3 6JP
-school-eng:117462	2X6MTEJG	St Helen's Church of England Primary School	Brewhouse Hill, Wheathampstead, St Albans, Hertfordshire	AL4 8AN
-school-eng:117463	5T8JQEXV	St Bartholomew's Church of England Voluntary Aided Primary School, Wigginton	Common Field, Wigginton, Tring, Hertfordshire	HP23 6EP
-school-eng:117464	5T8JHBYW	Our Lady Roman Catholic Primary School	Woodhall Lane, Welwyn Garden City, Hertfordshire	AL7 3TF
-school-eng:117465	5T8FR5R8	St Joseph Catholic Primary School	Ainsdale Road, South Oxhey, Watford, Hertfordshire	WD19 7DW
-school-eng:117466	9B1AHH8	St Teresa Roman Catholic Primary School	Brook Road, Borehamwood, Hertfordshire	WD6 5HL
-school-eng:117467	5T8GM5Z1	St Andrew's Church of England Voluntary Aided Primary School, Hitchin	Benslow Lane, Hitchin, Hertfordshire	SG4 9RD
-school-eng:117468	5T8JQ7VV	St Cuthbert Mayne Catholic Junior School	Clover Way, Gadebridge Road, Hemel Hempstead, Hertfordshire	HP1 3EA
-school-eng:117469	2X6MTBE4	St Philip Howard Catholic Primary School	Woods Avenue, Hatfield, Hertfordshire	AL10 8NN
-school-eng:117470	5T8JAQT5	St Adrian Roman Catholic Primary School	Watling View, St Albans, Hertfordshire	AL1 2PB
-school-eng:117471	5T8JQE5F	Saint Albert the Great Catholic Primary School	Acorn Road, Bennetts End, Hemel Hempstead, Hertfordshire	HP3 8DW
-school-eng:117472	2X6MTM1E	All Saints Church of England Primary School and Nursery, Bishop's Stortford	Parsonage Lane, Bishop's Stortford, Hertfordshire	CM23 5BE
-school-eng:117473	2X6MXAE3	Christ Church CofE (VA) Primary School and Nursery, Ware	New Road, Ware, Hertfordshire	SG12 7BT
-school-eng:117474	9C3QNHJ	St Margaret Clitherow Roman Catholic Primary School	Monkswood Lane, (Off Monkswood Way), Stevenage, Hertfordshire	SG2 8QJ
-school-eng:117475	5T8FR8CM	St John Catholic Primary School	Berry Lane, Mill End, Rickmansworth, Hertfordshire	WD3 7HG
-school-eng:117476	9C3H984	Our Lady Roman Catholic Primary School	Old Hale Way, Hitchin, Hertfordshire	SG5 1XT
-school-eng:117477	2X6MXKNC	St Thomas More Roman Catholic Primary School	Highfield, Letchworth Garden City, Hertfordshire	SG6 3QB
-school-eng:117478	5T8JAR3X	St Dominic Catholic Primary School	Southdown Road, Harpenden, Hertfordshire	AL5 1PF
-school-eng:117479	2X6MVBEF	St Thomas More Roman Catholic Voluntary Aided Primary School	Greenway, Berkhamsted, Hertfordshire	HP4 3LF
-school-eng:117480	5T8JAK3D	St John Fisher Roman Catholic Primary School	Hazelmere Road, St Albans, Hertfordshire	AL4 9RW
-school-eng:117481	5T8HFFSD	The Holy Family Catholic Primary School	Crookhams, Welwyn Garden City, Hertfordshire	AL7 1PG
-school-eng:117482	5T8JH8CZ	Countess Anne Voluntary Aided Church of England Primary School, Hatfield	School Lane, Hatfield, Hertfordshire	AL10 8AX
-school-eng:117483	4D5EF8	St Cross Catholic Primary School	Upper Marsh Lane, Hoddesdon, Hertfordshire	EN11 8BN
-school-eng:117484	2X6MTS96	St Rose's Catholic Infants School	Green End Road, Boxmoor, Hemel Hempstead, Hertfordshire	HP1 1QW
-school-eng:117485	5T8FRBGB	Divine Saviour Roman Catholic Primary School	Broomfield Rise, Abbots Langley, Hertfordshire	WD5 0HW
-school-eng:117486	9A95YCZ	Holy Rood Catholic Junior School	Greenbank Road, Watford, Hertfordshire	WD17 4FR
-school-eng:117487	9ADX0CA	St John Roman Catholic Primary School	Providence Way, Baldock, Hertfordshire	SG7 6TT
-school-eng:117488	9B1AJXK	Sacred Heart Catholic Primary School and Nursery	Merry Hill Road, Bushey, Hertfordshire	WD23 1SU
-school-eng:117489	5T8GM26F	Saint Bernadette Catholic Primary School	Walsingham Way, London Colney, St Albans, Hertfordshire	AL2 1NL
-school-eng:117490	2X6MTG51	Welwyn St Mary's Church of England Voluntary Aided Primary School	15 London Road, Welwyn, Hertfordshire	AL6 9DJ
-school-eng:117491	5T8JAH43	Saint Alban and St Stephen Catholic Junior School	Cecil Road, St Albans, Hertfordshire	AL1 5EG
-school-eng:117492	4D4Q8A	St Paul's Catholic Primary School	Park Lane, Cheshunt, Hertfordshire	EN7 6LR
-school-eng:117493	9B1AJXK	Sacred Heart Catholic Primary School	Broadmeads, Ware, Hertfordshire	SG12 9HY
-school-eng:117494	9A95YCZ	Holy Rood RC Infants' School	Greenbank Road, Watford, Hertfordshire	WD17 4FS
-school-eng:117495	5T8FR0DR	St Anthony's Catholic Primary School	Croxley View, Watford, Hertfordshire	WD18 6BW
-school-eng:117496	9B1AJKK	Pope Paul Catholic Primary School	Baker Street, Potters Bar, Hertfordshire	EN6 2ES
-school-eng:117497	2X6MTHYM	St Mary's Church of England Primary School	Dellsome Lane, North Mymms, Hatfield, Hertfordshire	AL9 7NE
-school-eng:117498	9B0E1TM	Saint Vincent de Paul Catholic Primary School	Bedwell Crescent, Stevenage, Hertfordshire	SG1 1NJ
-school-eng:117499	9C3H7F5	The Priory School	Bedford Road, Hitchin, Hertfordshire	SG5 2UR
-school-eng:117500	5T8JQ7X5	The Hemel Hempstead School	Heath Lane, Hemel Hempstead, Hertfordshire	HP1 1TX
-school-eng:117501	9B09VXK	Richard Hale School	Hale Road, Hertford, Hertfordshire	SG13 8EN
-school-eng:117502	2X6MXHSD	Hitchin Boys' School	Grammar School Walk, Hitchin, Hertfordshire	SG5 1JB
-school-eng:117503	2X6MXHBD	Hitchin Girls' School	Highbury Road, Hitchin, Hertfordshire	SG4 9RS
-school-eng:117504	9C3H9D6	Fearnhill School	Icknield Way West, Letchworth, Hertfordshire	SG6 4BA
-school-eng:117505	5T8FVP7Q	Verulam School	Brampton Road, St Albans, Hertfordshire	AL1 4PR
-school-eng:117506	2X6MXAZE	Presdales School	Hoe Lane, Ware, Hertfordshire	SG12 9NX
-school-eng:117507	2X6MTHCA	Stanborough School	Lemsford Lane, Welwyn Garden City, Hertfordshire	AL8 6YR
-school-eng:117508	9A1STGM	Langleybury School	Hunton Bridge, Kings Langley, Hertfordshire	WD4 8RW
-school-eng:117509	2X6MXN06	The Knights Templar School	Park Street, Baldock, Hertfordshire	SG7 6DZ
-school-eng:117510	9B1AHNG	The Hillside School	Hillside Avenue, Borehamwood, Hertfordshire	WD6 1HN
-school-eng:117511	2X6MTFDH	Sir John Lawes School	Manland Way, Harpenden, Hertfordshire	AL5 4QP
-school-eng:117512	2X6MV4HS	Adeyfield School	Longlands, Hemel Hempstead, Hertfordshire	HP2 4DE
-school-eng:117513	9APZDCT	Norton School	Norton Road, Letchworth, Hertfordshire	SG6 1AF
-school-eng:117514	2X6MTE5Z	Beaumont School	Oakwood Drive, St Albans, Hertfordshire	AL4 0XB
-school-eng:117515	2X6N0357	Barclay School	Walkern Road, Stevenage, Hertfordshire	SG1 3RB
-school-eng:117516	9AE03ZN	Hawksmoor School	Cowley Hill, Borehamwood, Hertfordshire	WD6 5LG
-school-eng:117517	2X6MXG43	The Heathcote School	Shephall Green, Stevenage, Hertfordshire	SG2 9XT
-school-eng:117518	2X6MXG42	Barnwell School	Barnwell, Stevenage, Hertfordshire	SG2 9SW
-school-eng:117519	2X6MXBT7	Simon Balle School	Mangrove Road, Hertford, Hertfordshire	SG13 8AJ
-school-eng:117520	2X6MTFB6	Roundwood Park School	Roundwood Park, Harpenden, Hertfordshire	AL5 3AE
-school-eng:117521	9B1AKC2	Lyndhurst Middle School	Gateshead Road, Borehamwood, Hertfordshire	WD6 4NJ
-school-eng:117522	9AQ026H	Francis Combe School and Community College	Horseshoe Lane, Watford, Hertfordshire	WD25 7HW
-school-eng:117523	2X6MV9YH	Longdean School	Rumballs Road, Bennetts End, Hemel Hempstead, Hertfordshire	HP3 8JB
-school-eng:117524	2X6MTDMM	St Albans Girls' School	Sandridgebury Lane, St Albans, Hertfordshire	AL3 6DB
-school-eng:117525	2X6MTGFN	Sir Frederic Osborn School	Herns Lane, Welwyn Garden City, Hertfordshire	AL7 2AF
-school-eng:117526	5T8JQHE1	Kings Langley School	Love Lane, Kings Langley, Hertfordshire	WD4 9HN
-school-eng:117527	2X6MTBBS	Bishop's Hatfield Girls' School	Woods Avenue, Hatfield, Hertfordshire	AL10 8NL
-school-eng:117528	2X6MTSE5	The Cavendish School	Warners End Road, Hemel Hempstead, Hertfordshire	HP1 3DW
-school-eng:117529	4D5AAK	The Broxbourne School	High Road, Broxbourne, Hertfordshire	EN10 7DD
-school-eng:117530	9C3QPF9	The Nobel School	Mobbsbury Way, Stevenage, Hertfordshire	SG2 0HS
-school-eng:117531	4D547M	Turnford School	Mill Lane, Cheshunt, Waltham Cross, Hertfordshire	EN8 0JU
-school-eng:117532	2X6MYE5R	Westfield Community Technology College	Tolpits Lane, Watford, Hertfordshire	WD18 6NS
-school-eng:117533	9C3QPAP	Collenswood School	Collenswood Road, Stevenage, Hertfordshire	SG2 9HQ
-school-eng:117534	9C3QRXM	Marriotts School	Brittain Way, Stevenage, Hertfordshire	SG2 8UT
-school-eng:117535	2X6MXCRP	The Sele School	Welwyn Road, Hertford, Hertfordshire	SG14 2DG
-school-eng:117536	5T8JH9XV	Monk's Walk School	Knightsfield, Welwyn Garden City, Hertfordshire	AL8 7NL
-school-eng:117537	2X6MXKNB	The Highfield School	Highfield, Letchworth Garden City, Hertfordshire	SG6 3QA
-school-eng:117538	4D5BSY	Sheredes School	Cock Lane, Hoddesdon, Hertfordshire	EN11 8JY
-school-eng:117539	2X6MXNC2	Meridian School	Garden Walk, Royston, Hertfordshire	SG8 7JH
-school-eng:117540	2X6MXP1R	Freman College	Bowling Green Lane, Buntingford, Hertfordshire	SG9 9BT
-school-eng:117541	5T8JQEGB	Bridgewater Primary School	Bridle Way, Billet Lane, Berkhamsted, Hertfordshire	HP4 1ES
-school-eng:117542	2X6MXNC1	The Greneway School	Garden Walk, Royston, Hertfordshire	SG8 7JF
-school-eng:117543	9B09WFM	Ralph Sadleir Middle School	Station Road, Puckeridge, Ware, Hertfordshire	SG11 1TF
-school-eng:117544	9B1AHM5	Furzehill Middle School	Furzehill Road, Borehamwood, Hertfordshire	WD6 2EF
-school-eng:117545	2X6MXNAP	Roysia Middle School	Burns Road, Royston, Hertfordshire	SG8 5EQ
-school-eng:117546	2X6MTH64	Sir John Newsom School	Oaken Grove, Welwyn Garden City, Hertfordshire	AL7 4TP
-school-eng:117547	2X6MTBBK	Onslow St Audrey's School	Old Rectory Drive, Hatfield, Hertfordshire	AL10 8AB
-school-eng:117548	5T8JAHHX	Sandringham School	The Ridgeway, St Albans, Hertfordshire	AL4 9NX
-school-eng:117549	9B09QS4	Birchwood High School	Parsonage Lane, Bishop's Stortford, Hertfordshire	CM23 5BD
-school-eng:117550	9C3QN4X	The Thomas Alleyne School	High Street, Stevenage, Hertfordshire	SG1 3BE
-school-eng:117551	2X6MXAD9	The Chauncy School	Park Road, Ware, Hertfordshire	SG12 0DP
-school-eng:117552	2X6MV56T	The Astley Cooper School	St Agnell's Lane, Hemel Hempstead, Hertfordshire	HP2 7HL
-school-eng:117553	2X6MV863	Tring School	Mortimer Hill, Tring, Hertfordshire	HP23 5JD
-school-eng:117554	2X6MXNXN	Edwinstree Church of England Middle School	Norfolk Road, Buntingford, Hertfordshire	SG9 9AW
-school-eng:117555	5T8JAHPF	Townsend CofE School	High Oaks, St Albans, Hertfordshire	AL3 6DR
-school-eng:117556	2X6N02Y7	St George's School	Sun Lane, Harpenden, Hertfordshire	AL5 4TD
-school-eng:117557	2X6MTSAV	John F Kennedy Catholic School	Hollybush Lane, Hemel Hempstead, Hertfordshire	HP1 2PH
-school-eng:117558	2X6MTA14	Loreto College	Hatfield Road, St Albans, Hertfordshire	AL1 3RQ
-school-eng:117559	5T8JQHHF	The Thomas Coram Church of England School	Swing Gate Lane, Berkhamsted, Hertfordshire	HP4 2RP
-school-eng:117560	2X6MXNF8	St Mary Roman Catholic Primary School	Melbourn Road, Royston, Hertfordshire	SG8 7DB
-school-eng:117561	5T8FR9KA	Christ Church Church of England School	The Common, Rickmansworth Road, Chorleywood, Rickmansworth, Hertfordshire	WD3 5SG
-school-eng:117562	9B1AHGK	Parkside Community Primary School	Aycliffe Road, Borehamwood, Hertfordshire	WD6 4EP
-school-eng:117563	9B09W9Z	Hertingfordbury Cowper Primary School	Birch Green, Hertford, Hertfordshire	SG14 2LR
-school-eng:117564	9B1AJ33	St Giles' CofE Primary School	Blanche Lane, South Mimms, Potters Bar, Hertfordshire	EN6 3PE
-school-eng:117565	2X6MTNZM	Cuffley School	Theobalds Road, Cuffley, Potters Bar, Hertfordshire	EN6 4HN
-school-eng:117566	9B1AJKR	The Wroxham School	Wroxham Gardens, Potters Bar, Hertfordshire	EN6 3DJ
-school-eng:117567	5T8JHCF1	Little Heath Primary School	School Road, Potters Bar, Hertfordshire	EN6 1JW
-school-eng:117568	9B1AJVM	Little Reddings Primary School	Harcourt Road, Bushey, Hertfordshire	WD23 3PR
-school-eng:117569	5T8JH99K	Northaw Church of England Primary School	Vineyards Road, Northaw, Potters Bar, Hertfordshire	EN6 4PB
-school-eng:117570	2X6MTJ65	Brookmans Park Primary School	Bradmore Way, Brookmans Park, Hatfield, Hertfordshire	AL9 7QY
-school-eng:117571	5T8FR6JX	St Catherine of Siena Catholic Primary School	Horseshoe Lane, Garston, Watford, Hertfordshire	WD25 7HP
-school-eng:117572	2X6MYHSM	Rickmansworth School	Scots Hill, Rickmansworth, Hertfordshire	WD3 3AQ
-school-eng:117573	5T8FR167	Watford Grammar School for Boys	Rickmansworth Road, Watford, Hertfordshire	WD18 7JF
-school-eng:117574	2X6MTAPX	Francis Bacon School	Drakes Drive, St Albans, Hertfordshire	AL1 5AR
-school-eng:117575	5T8FR333	Watford Grammar School for Girls	Lady's Close, Watford, Hertfordshire	WD18 0AE
-school-eng:117576	2X6MYGZH	Parmiter's School	High Elms Lane, Garston, Watford, Hertfordshire	WD25 0UU
-school-eng:117577	2X6MTK6F	The Bishop's Stortford High School	London Road, Bishop's Stortford, Hertfordshire	CM23 3LU
-school-eng:117578	5T8GAB7X	Ashlyns School	Chesham Road, Berkhamsted, Hertfordshire	HP4 3AH
-school-eng:117579	9B1AJKN	Dame Alice Owen's School	Dugdale Hill Lane, Potters Bar, Hertfordshire	EN6 2DU
-school-eng:117580	9B1AK1T	Bushey Meads School	Coldharbour Lane, Bushey, Hertfordshire	WD23 4PA
-school-eng:117581	9B1AJXE	Bushey Hall School	London Road, Bushey, Hertfordshire	WD23 3AA
-school-eng:117582	9AE04NH	Queens' School	Aldenham Road, Bushey, Hertfordshire	WD23 2TY
-school-eng:117583	9AE051S	Mount Grace School	Church Road, Potters Bar, Hertfordshire	EN6 1EZ
-school-eng:117584	2X6MTE5Y	Nicholas Breakspear Catholic School	Colney Heath Lane, St Albans, Hertfordshire	AL4 0TT
-school-eng:117585	9C3QMQ7	The John Henry Newman Catholic School	Hitchin Road, Stevenage, Hertfordshire	SG1 4AE
-school-eng:117586	2X6MT9S6	Marlborough School	Watling Street, St Albans, Hertfordshire	AL1 2QA
-school-eng:117587	4D4ME9	Goffs School	Goffs Lane, Cheshunt, Waltham Cross, Hertfordshire	EN7 5QW
-school-eng:117588	2X6MTJCP	The Leventhorpe School	Cambridge Road, Sawbridgeworth, Hertfordshire	CM21 9BY
-school-eng:117589	5T8FR6GF	Saint Michael's Catholic High School	High Elms Lane, Garston, Watford, Hertfordshire	WD25 0SS
-school-eng:117590	2X6MSZSZ	Saint Joan of Arc Catholic School	High Street, Rickmansworth, Hertfordshire	WD3 1HG
-school-eng:117591	2X6MTHZS	Chancellor's School	Pine Grove, Brookmans Park, Hatfield, Hertfordshire	AL9 7BN
-school-eng:117592	2X6MZTDB	The Hertfordshire & Essex High School and Science College	Warwick Road, Bishop's Stortford, Hertfordshire	CM23 5NJ
-school-eng:117593	2X6MYJWD	St Clement Danes School	Chenies Road, Chorleywood, Rickmansworth, Hertfordshire	WD3 6EW
-school-eng:117594	2X6MTJQC	St Mary's Catholic School	Windhill, Bishop's Stortford, Hertfordshire	CM23 2NQ
-school-eng:117595	4D5Z7N	St Mary's Church of England High School (VA)	Lieutenant Ellis Way, Cheshunt, Waltham Cross, Hertfordshire	EN7 5FB
-school-eng:117596	4D4TEG	Cheshunt School	College Road, Cheshunt, Waltham Cross, Hertfordshire	EN8 9LY
-school-eng:117597	4D5J74	The John Warner School	Stanstead Road, Hoddesdon, Hertfordshire	EN11 0QF
-school-eng:117598	9B09QK4	Hockerill Anglo-European College	Dunmow Road, Bishop's Stortford, Hertfordshire	CM23 5HX
-school-eng:117599	9AE03ZM	Holmshill School	Thrift Farm Lane, Shenley Road, Borehamwood, Hertfordshire	WD6 1TS
-school-eng:117600	2X6MZSBC	Abbot's Hill School	Bunkers Lane, Hemel Hempstead, Hertfordshire	HP3 8RP
-school-eng:117601	9AD5D5B	Edge Grove School	High Cross, Aldenham, Watford, Hertfordshire	WD25 8NL
-school-eng:117602	9B1AK1W	The Aldenham Foundation	Elstree, Borehamwood, Hertfordshire	WD6 3AJ
-school-eng:117603	2X6MVB5T	Berkhamsted School for Girls	Kings Road, Berkhamsted, Hertfordshire	HP4 3BG
-school-eng:117604	9A2N5H3	Berkhamsted School	Overton House, 133 High Street, Berkhamsted, Hertfordshire	HP4 2DJ
-school-eng:117605	2X6MZT6T	Bishop's Stortford College	10 Maze Green Road, Bishop's Stortford, Hertfordshire	CM23 2PJ
-school-eng:117606	9B1AJXQ	St Margaret's School	Merry Hill Road, Bushey, Hertfordshire	WD23 1DT
-school-eng:117607	9B0A2RT	Haileybury and Imperial Service College	, Hertford, Hertfordshire	SG13 7NU
-school-eng:117608	2X6MTEZM	Aldwickbury School	Wheathampstead Road, Harpenden, Hertfordshire	AL5 1AD
-school-eng:117609	2X6MTHW3	Queenswood School	Shepherd's Way, Brookmans Park, Hatfield, Hertfordshire	AL9 6NS
-school-eng:117610	5T8FVQ4M	Westbrook Hay Prep School	London Road, Hemel Hempstead, Hertfordshire	HP1 2RF
-school-eng:117611	2X6MTRZW	Lockers Park School	Lockers Park Lane, Hemel Hempstead, Hertfordshire	HP1 1TL
-school-eng:117612	2X6MSN3M	St Christopher School	Barrington Road, Letchworth Garden City, Hertfordshire	SG6 3JZ
-school-eng:117613	2X6MXKN9	St Francis College	Broadway, Letchworth Garden City, Hertfordshire	SG6 3PJ
-school-eng:117614	9C3HAE9	Princess Helena College	Preston, Hitchin, Hertfordshire	SG4 7RT
-school-eng:117615	9AD5AX0	Radlett Preparatory School	Kendal Hall, Watling Street, Radlett, Hertfordshire	WD7 7LY
-school-eng:117616	5T8FRA72	Merchant Taylors' School	Sandy Lodge, Northwood, 	HA6 2HT
-school-eng:117617	2X6MTA18	St Albans High School for Girls	1-3 Townsend Avenue, St Albans, Hertfordshire	AL1 3SJ
-school-eng:117618	5T8JQE17	Tring Park School for the Performing Arts	Tring Park, Tring, Hertfordshire	HP23 5LX
-school-eng:117619	5T8FR0HC	Northfield School	Church Road, Watford, Hertfordshire	WD17 4QB
-school-eng:117620	5T8JQ7WB	Beechwood Park School	Markyate, St Albans, Hertfordshire	AL3 8AW
-school-eng:117621	9B09XVA	Heath Mount School	Woodhall Park, Watton At Stone, Hertford, Hertfordshire	SG14 3NG
-school-eng:117622	5T8JHE7M	Sherrardswood School	Lockleys, Welwyn, Hertfordshire	AL6 0BJ
-school-eng:117623	2X6MVBCY	Egerton-Rothesay School	Durrants Lane, Berkhamsted, Hertfordshire	HP4 3UJ
-school-eng:117624	9B1AJV4	St Hilda's School	High Street, Bushey, Hertfordshire	WD23 3DA
-school-eng:117625	9B1AK06	Westwood School	6 Hartsbourne Road, Bushey Heath, Bushey, Hertfordshire	WD23 1JH
-school-eng:117626	2X6MTF8X	Harpenden Preparatory School	53 Luton Road, Harpenden, Hertfordshire	AL5 2UE
-school-eng:117627	9B1AJV4	St Hilda's School	28 Douglas Road, Harpenden, Hertfordshire	AL5 2ES
-school-eng:117628	9B09W8M	Duncombe School	4 Warren Park Road, Bengeo, Hertford, Hertfordshire	SG14 3JA
-school-eng:117629	9B1N3RZ	St Joseph's in the Park	St Mary's Lane, Hertingfordbury, Hertford, Hertfordshire	SG14 2LX
-school-eng:117630	9C3H9WD	Kingshott School	Stevenage Road, St Ippolyts, Hitchin, Hertfordshire	SG4 7JX
-school-eng:117631	2X6MYKBT	Rudolf Steiner School	Langley Hill, Kings Langley, Hertfordshire	WD4 9HG
-school-eng:117632	2X6MX9XX	The Barn School	Tower Hill, Much Hadham, Hertfordshire	SG10 6DL
-school-eng:117633	9B09SPZ	St Edmund's College	Old Hall Green, Ware, Hertfordshire	SG11 1DS
-school-eng:117634	9AD5D5B	Hart House School	Edge Grove, High Cross, Aldenham, Watford, Hertfordshire	WD25 8BL
-school-eng:117635	2X6MYJ52	Charlotte House Preparatory School	88 The Drive, Rickmansworth, Hertfordshire	WD3 4DU
-school-eng:117636	2X6MYJ7Z	York House School	Redheath, Sarratt Road, Croxley Green, Rickmansworth, Hertfordshire	WD3 4LW
-school-eng:117637	5T8JAQSS	Homewood Independent School	Hazel Road, Park Street, St Albans, Hertfordshire	AL2 2AH
-school-eng:117638	2X6MTCZY	St Columba's College	King Harry Lane, St Albans, Hertfordshire	AL3 4AW
-school-eng:117639	2X6MZ9W3	Francis House Preparatory School	Aylesbury Road, Tring, Hertfordshire	HP23 4DL
-school-eng:117640	2X6N040E	Stanborough Secondary School	Stanborough Park, Watford, Hertfordshire	WD25 9JT
-school-eng:117641	5T8FR936	Royal Masonic School for Girls	Rickmansworth Park, Chorleywood Road, Rickmansworth, Hertfordshire	WD3 4HF
-school-eng:117642	9C3H2ZP	St Francis College	Broadway, Letchworth Garden City, Hertfordshire	SG6 3PJ
-school-eng:117643	9B1AJKE	Lochinver House School	Heath Road, Little Heath, Potters Bar, Hertfordshire	EN6 1LW
-school-eng:117644	9B1AJMG	Stormont School	The Causeway, Potters Bar, Hertfordshire	EN6 5HA
-school-eng:117645	5T8JAQ7V	St Columba's Preparatory School	8 King Harry Lane, St Albans, Hertfordshire	AL3 4AW
-school-eng:117646	2X6MYN7R	Radlett Lodge School	Harper Lane, Radlett, Hertfordshire	WD7 9HW
-school-eng:117647	5T8JAGTK	St Albans School	Abbey Gateway, St Albans, Hertfordshire	AL3 4HB
-school-eng:117648	9B1AHHC	Haberdashers' Aske's Boys' School	Butterfly Lane, Elstree, Borehamwood, Hertfordshire	WD6 3AF
-school-eng:117649	9B1AGR6	Haberdashers' Aske's School for Girls	Aldenham Road, Elstree, Borehamwood, Hertfordshire	WD6 3BT
-school-eng:117650	5T8JAREK	The King's School	Elmfield, Ambrose Lane, Harpenden, Hertfordshire	AL5 4DU
-school-eng:117651	5T8FR93A	Merchant Taylors' Prep School	Moor Farm, Sandy Lodge Road, Rickmansworth, Hertfordshire	WD3 1LW
-school-eng:117652	9B1AH7W	Radlett Nursery and Infant School	Cobden Hill, Radlett, Hertfordshire	WD7 7JL
-school-eng:117653	2X6MVB6A	Berkhamsted Pre-Prep School	Chesham Road, Berkhamsted, Hertfordshire	HP4 2SZ
-school-eng:117654	9B1AK1Z	Bhaktivedanta Manor School	Dharam Marg, Hilfield Lane, Aldenham, Watford, Hertfordshire	WD25 8EZ
-school-eng:117656	2X6MVAY2	Haresfoot Senior School	Amersfort, The Common, Berkhamsted, Hertfordshire	HP4 2QF
-school-eng:117657	9AD52PD	Immanuel College	87-91 Elstree Road, Bushey, Hertfordshire	WD23 4EB
-school-eng:117658	9B1AHEB	Manor Lodge School	Rectory Lane, Ridge Hill, Shenley, Hertfordshire	WD7 9BG
-school-eng:117659	2X6ME1FT	Warrax House School	71 Cappell Lane, Stanstead Abbotts, Ware, Hertfordshire	SG12 8BX
-school-eng:117660	5T8FRBHC	High Elms Manor School	High Elms Lane, High Elms Manor, Watford, Hertfordshire	WD25 0JX
-school-eng:117661	5T8FNG55	South Lodge School	High Street, Baldock, Hertfordshire	SG7 6BX
-school-eng:117662	9B1AJXV	Longwood School	Bushey Hall Drive, Bushey, Hertfordshire	WD23 2QG
-school-eng:117663	9B09QVD	Epping House School	Epping Green, Hertford, Hertfordshire	SG13 8NF
-school-eng:117664	2X6MZT45	Pinewood School	Hoe Lane, Ware, Hertfordshire	SG12 9PB
-school-eng:117665	9B09NGR	St Elizabeth's School	South End, Much Hadham, Hertfordshire	SG10 6EW
-school-eng:117666	5T8JHA3Z	Knightsfield School	Knightsfield, Welwyn Garden City, Hertfordshire	AL8 7LW
-school-eng:117667	5T8FR09X	Garston Manor School	Horseshoe Lane, Garston, Watford, Hertfordshire	WD25 7HR
-school-eng:117668	9A2N551	Boxmoor House School	Box Lane, Hemel Hempstead, Hertfordshire	HP3 0DF
-school-eng:117669	5T8FDH0D	The Valley School	Valley Way, Stevenage, Hertfordshire	SG2 9AB
-school-eng:117670	2X6MYD37	Colnbrook School	Hayling Road, Watford, Hertfordshire	WD19 7UY
-school-eng:117671	2X6MTDT8	St Luke's School	Crouch Hall Lane, Redbourn, St Albans, Hertfordshire	AL3 7ET
-school-eng:117672	2X6MTS3N	The Collett School	Lockers Park Lane, Hemel Hempstead, Hertfordshire	HP1 1TQ
-school-eng:117673	4D5CKW	Hailey Hall School	Hailey Lane, Hertford, Hertfordshire	SG13 7PB
-school-eng:117674	2X6MTDG1	Batchwood School	Townsend Drive, St Albans, Hertfordshire	AL3 5RP
-school-eng:117676	2X6MXBAD	Middleton School	Walnut Tree Walk, Ware, Hertfordshire	SG12 9PD
-school-eng:117677	9AE059D	Great Brookmead School	Allerton Road, Borehamwood, Hertfordshire	WD6 4AH
-school-eng:117678	5T8FDGKZ	Hilltop School	Webb Rise, Stevenage, Hertfordshire	SG1 5QU
-school-eng:117679	9C3QRXM	Lonsdale School	Brittain Way, Stevenage, Hertfordshire	SG2 8UT
-school-eng:117680	2X6MTHMB	Lakeside School	Lemsford Lane, Welwyn Garden City, Hertfordshire	AL8 6YN
-school-eng:117681	2X6MYKRW	Breakspeare School	Gallows Hill Lane, Abbots Langley, Hertfordshire	WD5 0BU
-school-eng:117682	2X6MV9YK	Woodfield School	Malmes Croft, Leverstock Green, Hemel Hempstead, Hertfordshire	HP3 8RL
-school-eng:117683	2X6MT9W3	Watling View School	Watling View, St Albans, Hertfordshire	AL1 2NU
-school-eng:117684	9B1N31S	Amwell View School	Station Road, Stanstead Abbotts, Ware, Hertfordshire	SG12 8EH
-school-eng:117685	2X6MTDHE	Heathlands School	Heathlands Drive, St Albans, Hertfordshire	AL3 5AY
-school-eng:117686	9B1AJXG	Falconer School	Falconer Road, Bushey, Hertfordshire	WD23 3AT
-school-eng:117687	5T8FDH08	High Wick School	Webb Rise, Stevenage, Hertfordshire	SG1 5QU
-school-eng:117688	9AQQR2W	The Edward Jenner Hospital School	Forest House,  Harperbury Hospital, Harper Lane, Shenley, Radlett, Hertfordshire	WD7 9HQ
-school-eng:117689	2X6MXKK6	Woolgrove School	Pryor Way, Letchworth Garden City, Hertfordshire	SG6 2PT
-school-eng:117690	9C3QNZ4	Greenside School	Shephall Green, Stevenage, Hertfordshire	SG2 9XS
-school-eng:117691	9AE04RC	Meadow Wood School	Coldharbour Lane, Bushey, Hertfordshire	WD23 4NN
-school-eng:127416	9A95YCZ	Holy Rood Catholic Primary School	Greenbank Road, Watford, Hertfordshire	WD17 4FS
-school-eng:127633	9C3H328	The Chrysalis School for Autism	Units 8 & 9, The Glover Centre, Bury Mead Road, Hitchin, Hertfordshire	SG5 1RT
-school-eng:129109	9B09WJ3	Highfield Nursery School	, 	
-school-eng:129110	4D4WFP	Burleigh Junior School	Blindmans Lane, Cheshunt, Waltham Cross, Hertfordshire	EN8 9DP
-school-eng:129111	2X6MVAE9	Belswains Junior School	Barnfield, Hemel Hempstead, Hertfordshire	HP3 9QJ
-school-eng:129112	9B09KZQ	Morgans Walk Junior Mixed School	Morgans Road, Hertford, 	SG13 8DR
-school-eng:129113	5T8JAMHS	Mount Pleasant Lane Junior School	Mount Pleasant Lane, Bricket Wood, St Albans, Hertfordshire	AL2 3XA
-school-eng:129114	2X6MYGZE	Leavesden Green Junior Mixed School	High Road, Leavesden, Watford, 	WD2 7AU
-school-eng:129115	2X6MVA3W	Hobbs Hill Wood Junior School	Peascroft Road, Hemel Hempstead, Hertfordshire	HP3 8ER
-school-eng:129116	5T8GM4PH	Belswains Infants' School	Oliver Road, Belswains Junior School, Hemel Hempstead, Hertfordshire	HP3 9PZ
-school-eng:129117	2X6MVA3W	Hobbs Hill Wood Infants' School	Peascroft Road, Hemel Hempstead, Hertfordshire	HP3 8ER
-school-eng:129118	9APR87M	Bengeo Junior School	Sacombe Road, Bengeo, Hertford, 	SG14 3HL
-school-eng:129119	4D4MDG	Bonneygrove Junior School	Dark Lane, Cheshunt, Waltham Cross, Hertfordshire	EN7 5ED
-school-eng:129121	5T8JHCC6	Bishops Wood Infant School	, 	
-school-eng:129122	5T8JQF4Y	Bellgate Junior Mixed School	Fletcher Way, Higfield, Hemel Hempstead, 	HP2 5QR
-school-eng:129123	5T8FR15X	Meriden Junior School	Harvest End, Garston, Watford, 	WD2 4TB
-school-eng:129125	5T8JHCD0	Millwards Junior Mixed School	Woods Avenue, Hatfield, Hertfordshire	AL10 8NW
-school-eng:129126	5T8JHCD2	The Downs Infant School	Woods Avenue, Hatfield, Hertfordshire	AL10 8NW
-school-eng:129127	5T8JQF4Y	Bellgate Infant School	Fletcher Way, Higfield, Hemel Hempstead, 	HP2 5QR
-school-eng:129128	5T8FR15X	Meriden Infant School	Harvest End, Garston, Watford, 	WD2 4TB
-school-eng:129129	4D4MDG	Bonneygrove Infants' School	Dark Lane, Cheshunt, Waltham Cross, Hertfordshire	EN7 5ED
-school-eng:129130	2X6MTFBZ	Wood End Junior Mixed School	Yeomans Avenue, Harpenden, Hertfordshire	AL5 3EF
-school-eng:129131	2X6MXBPQ	Chalk Dell Infant School	Wilton Crescent, Hertford, 	SG13 8JR
-school-eng:129132	9B09W62	Bengeo Infant School	The Avenue, Bengeo, Hertford, 	SG14 3DX
-school-eng:129133	4D5TD3	Grangewood Infants' School	Blindmans Lane, Cheshunt, Waltham Cross, Hertfordshire	EN8 9DP
-school-eng:129134	4D5MF5	Cranbourne Junior School	Bridleway North, Hoddesdon, Hertfordshire	EN11 9PP
-school-eng:129136	4D5MF5	Cranbourne Infant School	Bridleway North, Hoddesdon, Hertfordshire	EN11 9PP
-school-eng:129137	2X6MYGZE	Leavesden Green Infant School	High Road, Leavesden, Watford, 	WD2 7AU
-school-eng:129138	2X6MTFBZ	Wood End Infant School	Yeomans Avenue, Harpenden, Hertfordshire	AL5 3EF
-school-eng:129139	5T8FR3MT	Laurance Haines Infant School	, 	
-school-eng:129140	2X6MV58T	Eastbrook Junior School	St Agnell's Lane, Grove Hill, Hemel Hempstead, Hertfordshire	HP2 7BG
-school-eng:129141	4D59VX	Ley Park Junior School	Cozens Lane East, Broxbourne, Hertfordshire	EN10 6QA
-school-eng:129142	2X6MV5B0	Eastbrook Infant and Nursery School	St Agnell's Lane, Grove Hill, Hemel Hempstead, Hertfordshire	HP2 7BG
-school-eng:129143	2X6MX9R5	Wellfield Wood Junior School	Ripon Road, Stevenage, Hertfordshire	SG1 4QZ
-school-eng:129144	2X6MV8D9	Grove Road Junior School	Grove Road, Tring, Hertfordshire	HP23 5PD
-school-eng:129145	2X6MX9R5	Wellfield Wood Infant School	Ripon Road, Stevenage, Hertfordshire	SG1 4QZ
-school-eng:129146	4D59VX	Ley Park Infant School	Cozens Lane East, Broxbourne, Hertfordshire	EN10 6QA
-school-eng:129152	9B1RC7K	Hadham Hall School	, 	
-school-eng:129156	5T8JHCG0	Hatfield School	, 	
-school-eng:129159	5T8JAHHX	The Marshalwick School	The Ridgeway, St Albans, Hertfordshire	AL4 9NX
-school-eng:129160	2X6MXKK5	The Willian School	Radburn Way, Letchworth, Hertfordshire	SG6 2JL
-school-eng:129161	2X6MTAPX	Francis Bacon School	, 	
-school-eng:129162	9A2N789	Halsey School	, 	
-school-eng:129163	2X6MS6GV	The Mountbatten School	St Albans Road, Hemel Hempstead, Hertfordshire	HP2 4JR
-school-eng:129164	2X6MTEGK	Wheathampstead School	Butterfield Road, Wheathampstead, St Albans, Hertfordshire	AL4 8PY
-school-eng:129169	2X6MVBCY	Thomas Bourne CofE Middle School	, 	
-school-eng:129170	9B1AJW2	Roasry Priory High School	, 	
-school-eng:129171	2X6N02M5	Lyndale School	3-5 Hillside Road, St Albans, Hertfordshire	AL1 3QR
-school-eng:129172	5T8JHE7M	Sherrardswood Junior School	, 	
-school-eng:129173	9B1AJW2	Rosary Priory Preparatory School	, 	
-school-eng:129174	2X6MDBK5	Pamela Gardens School	, 	
-school-eng:129176	9AEAAJW	Marlin Montessori School	1 Park View Road, Berkhamsted, Hertfordshire	HP4 3EY
-school-eng:129177	2X6N040E	Stanborough Secondary School	, 	
-school-eng:129178	4D5TCX	Broxbournebury School	White Stubbs Lane, Broxbourne, Hertfordshire	EN10 7PY
-school-eng:129180	5T8HFFQF	Elmfield School	Ambrose Lane, Harpenden, Hertfordshire	AL5 4DA
-school-eng:129181	5T8FR6C5	Hangers Wood School	Gosforth Lane, South Oxhey, Watford, Hertfordshire	WD1 6RF
-school-eng:129182	2X6MXMZX	Brandles School	Weston Way, Baldock, Hertfordshire	SG7 6EY
-school-eng:129183	9C3QNZ4	Greenside School	Shephall Green, Stevenage, Hertfordshire	SG2 9XS
-school-eng:129184	2X6MYN1B	Harperbury Hospital School	Harper Lane, Radlett, Hertfordshire	WD7 9HQ
-school-eng:129185	2X6N0380	Springfield School	Leavesden Hospital, College Road, Abbots Langley, Hertfordshire	WD5 0NU
-school-eng:129186	9C3QNZ4	Home Field School	Shephall Green, Stevenage, Hertfordshire	SG2 9XS
-school-eng:130160	9B09V9Y	Summercroft Primary School	Parsonage Lane, Bishop's Stortford, Hertfordshire	CM23 5BJ
-school-eng:130338	9B1AJM8	Norfolk Lodge School Ltd	Dancers Hill Road, Barnet, Hertfordshire	EN5 4RP
-school-eng:130344	9APZQ0C	North Area Pupil Referral Unit	Briar Patch Lane, Letchworth Garden City, Hertfordshire	SG6 3LY
-school-eng:130347	9APR8VN	Hertford, Ware and Bishop's Stortford Area Pupil Referral Unit	Longmore Educ'n Support Centre, Churchfields, Hertford, Hertfordshire	SG13 8AE
-school-eng:130348	9B1AK5M	The Park Education Support Centre	High Street, Potters Bar, Hertfordshire	EN6 5AB
-school-eng:130349	2X6MYG0S	South West Area Pupil Referral Unit	Chessbrook Centre, Tolpits Lane, Watford, Hertfordshire	WD18 6LJ
-school-eng:130355	2X6MXNXN	Buntingford Area Pupil Referral Unit	Edwinstree School, Norfolk Road, Buntingford, Hertfordshire	SG9 9AW
-school-eng:130356	5T8JAGKZ	The Links Education Support Centre	1 Hixberry Lane, St Albans, St Albans, Hertfordshire	AL4 0TZ
-school-eng:130359	9C3QPE6	Stevenage Education Support Centre	Collenswood Road, Stevenage, Hertfordshire	SG2 9HQ
-school-eng:130362	9CQJT5Q	Southfield School	Woods Avenue, Hatfield, Hertfordshire	AL10 8NN
-school-eng:130363	5T8FR93G	Shepherd Montessori School	Penn Road, Mill End, Rickmansworth, Hertfordshire	WD3 8QN
-school-eng:130720	5T8FR0G2	West Herts College	Watford Campus, Hempstead Road, Watford, Hertfordshire	WD17 3EZ
-school-eng:130721	2X6MXKN8	North Hertfordshire College	The Town Hall,  Broadway, Letchworth, Hertfordshire	SG6 3PF
-school-eng:130722	9B09WV0	Hertford Regional College	Scotts Road, Ware, Hertfordshire	SG12 9JF
-school-eng:130723	5T8JASBR	Oaklands College	Smallford Campus, Hatfield Road, St Albans, Hertfordshire	AL4 0JA
-school-eng:131060	2X6MXMZX	Brandles School	Weston Way, Baldock, Hertfordshire	SG7 6EY
-school-eng:131100	2X6MV4HA	Dacorum Education Support Centre	30 Tenzing Road, Hemel Hempstead, Hertfordshire	HP2 4HS
-school-eng:131188	2X6MV9XY	Bovingdon Primary School	High Street, Bovingdon, Hemel Hempstead, Hertfordshire	HP3 0HL
-school-eng:131319	2X6MV5B0	Haywood Grove School	St Agnell's Lane, Hemel Hempstead, Hertfordshire	HP2 7BG
-school-eng:131456	9B1AK53	Clore Shalom School	Hugo Gryn Way, Shenley, Radlett, Hertfordshire	WD7 9BL
-school-eng:131503	2X6MX9RF	Larwood School	Webb Rise, Stevenage, Hertfordshire	SG1 5QU
-school-eng:131505	9C3QPDF	Featherstone Wood Primary School	Featherston Road, Stevenage, Hertfordshire	SG2 9PP
-school-eng:131651	9B1AHEF	Hertsmere Jewish Primary School	Po Box 203, Elstree, Borehamwood, Hertfordshire	WD6 3ZW
-school-eng:131955	9B1AHEF	Hertsmere Jewish Primary School	Watling Street, Radlett, Hertfordshire	WD7 7LQ
-school-eng:131971	9AE03ZP	Hertswood School	Cowley Hill, Borehamwood, Hertfordshire	WD6 5LG
-school-eng:132015	9B09NGR	St Elizabeth's College (The Congregation of the Daughters of the Cross of the Liege)	Perry Green, Much Hadham, Hertfordshire	SG10 6EW
-school-eng:132091	9C3QPF8	Lodge Farm Primary School	Mobbsbury Way, Chells, Stevenage, Hertfordshire	SG2 0HP
-school-eng:132105	9AE9CV7	Birchwood Avenue Primary School	Birchwood Avenue, Hatfield, Hertfordshire	AL10 0PS
-school-eng:132118	9AE03NR	Sunny Bank Primary School	Field View Road, Potters Bar, Hertfordshire	EN6 2NA
-school-eng:133065	2X6MV8D9	Grove Road Infant School	Grove Road, Tring, Hertfordshire	HP23 5PD
-school-eng:133134	5T8FNG55	South Lodge School	High Street, Baldock, Hertfordshire	SG7 6BX
-school-eng:133263	9C3QNHH	Roebuck Primary School and Nursery	St Margarets, Stevenage, Hertfordshire	SG2 8RG
-school-eng:133295	2X6MM9N0	Integrated Services Programme	Victoria House, 49 Vicarage Road, Watford, Hertfordshire	WD18 0DE
-school-eng:133323	5T8GM5Z3	Oughton Primary and Nursery School	Mattocke Road, Hitchin, Hertfordshire	SG5 2NZ
-school-eng:133488	9AE9CV8	Swallow Dell Primary and Nursery School	Blackthorn Road, Welwyn Garden City, Hertfordshire	AL7 3JP
-school-eng:133738	9C3QPNH	Redemption Academy	P O Box 352, Stevenage, Hertfordshire	SG1 9AG
-school-eng:133773	4D5FST	St Catherine's Hoddesdon CofE Primary School	Haslewood Avenue, Hoddesdon, Hertfordshire	EN11 8HT
-school-eng:133783	2X6MTBJ3	University of Hertfordshire	Hatfield Campus, College Lane, Hatfield, Hertfordshire	AL10 9AB
-school-eng:133917	4D5QVY	Littlebury Resource Centre	College Road, Cheshunt, Waltham Cross, Hertfordshire	EN8 9NQ
-school-eng:133975	2X6MTDDH	Muriel Green Nursery School	Church Crescent, St Albans, Hertfordshire	AL3 5JB
-school-eng:134087	2X6MT9QA	St Albans Independent College	69 London Road, St Albans, Hertfordshire	AL1 1LN
-school-eng:134197	4D4PHY	Flamstead End Primary and Nursery School	Longfield Lane, Cheshunt, Waltham Cross, Hertfordshire	EN7 6AG
-school-eng:134488	4D5QVY	Littlebury Resource Centre	College Road, Cheshunt, Hertfordshire	EN8 9NQ
-school-eng:134682	2X6MTKCB	Windhill School	Windhill, Bishop's Stortford, Hertfordshire	CM23 2NE
-school-eng:134684	9A95Y4M	Berrygrove Primary and Nursery School	Fourth Road, Watford, Hertfordshire	WD25 9RH
-school-eng:134685	2X6MYGZD	Alban Wood Primary School and Nursery	The Brow, Watford, Hertfordshire	WD25 7NX
-school-eng:134716	2X6MTBF0	De Havilland Primary School	Travellers Lane, Hatfield, Hertfordshire	AL10 8TQ
-school-eng:134786	9A2N6TH	Village Montessori	Whitehouse Farm, Gaddesden Row, Hertford, Hertfordshire	HP2 6HG
-school-eng:134933	2X6N040E	International Stanborough School	Stanborough Park, Watford, Hertfordshire	WD25 9JT
-school-eng:134985	9AE03VX	Yavneh College	Hillside Avenue, Borehamwood, Hertfordshire	WD6 1HL
-school-eng:135083	5T8FDGYV	Longmeadow Primary School	Oaks Cross, Broadwater, Stevenage, Hertfordshire	SG2 8LT
-school-eng:135084	9C3QNZ0	Shephalbury Park Primary School	Burydale, Broadwater, Stevenage, Hertfordshire	SG2 8AX
-school-eng:135221	2X6MV58T	Maple Grove Primary School	St Agnell's Lane, Grove Hill, Hemel Hempstead, Hertfordshire	HP2 7BG
-school-eng:135222	5T8JQF4Y	Yewtree Primary School	Fletcher Way, Hemel Hempstead, Hertfordshire	HP2 5QR
-school-eng:135223	2X6MTBEZ	Oak View Primary and Nursery School	Woods Avenue, Hatfield, Hertfordshire	AL10 8NW
-school-eng:135224	2X6MTSE6	Galley Hill Primary School and Nursery	Galley Hill, Hemel Hempstead, Hertfordshire	HP1 3JY
-school-eng:135339	5T8JQEN7	Broadfield Primary School	Windmill Road, Hemel Hempstead, Hertfordshire	HP2 4BX
-school-eng:135402	5T8FDDY5	Education and Youth Services (Herts)	38 Park Place, Stevenage, Hertfordshire	SG1 1DP
-school-eng:135528	5T8JAQST	Killigrew Primary and Nursery School	West Avenue, St Albans, Hertfordshire	AL2 3HD
-school-eng:135560	9AQK0HS	Worldshapers Academy	Woodhall Farm Community Centre, Datchet Close, Hemel Hempstead, Hertfordshire	HP2 7JX
-school-eng:135596	5T8FR15Q	Stanborough Primary School	Appletree Walk, Watford, Hertfordshire	WD25 0DQ
-school-eng:135876	9AQ026H	Francis Combe Academy	Horseshoe Lane, Garston, Watford, Hertfordshire	WD25 7HW
-school-eng:135890	4D5GPC	Rivers Education Support Centre	Old Essex Road, Hoddesdon, Hertfordshire	EN11 0AA
-school-eng:135938	9B1AJXE	The Bushey Academy	London Road, Bushey, Hertfordshire	WD23 3AA
-school-eng:136024	4D609B	Churchfield CofE VA Primary	Cheshunt Wash, Cheshunt, Waltham Cross, Hertfordshire	EN8 0LU
-school-eng:136247	9A2N551	Roman Fields	11 Box Lane, Hemel Hempstead, Hertfordshire	HP3 0DF
-school-eng:136276	5T8FR167	Watford Grammar School for Boys	Rickmansworth Road, Watford, Hertfordshire	WD18 7JF
-school-eng:136289	5T8FR333	Watford Grammar School for Girls	Lady's Close, Watford, Hertfordshire	WD18 0AE
-school-eng:136396	4D59W3	The Broxbourne School	High Road, Broxbourne, Hertfordshire	EN10 7DD
-school-eng:136482	9B09QK4	Hockerill Anglo-European College	Dunmow Road, Bishop's Stortford, Hertfordshire	CM23 5HX
-school-eng:136554	9B1AJKN	Dame Alice Owen's School	Dugdale Hill Lane, Potters Bar, Hertfordshire	EN6 2DU
-school-eng:136606	2X6MYHSM	Rickmansworth School	Scots Hill, Rickmansworth, Hertfordshire	WD3 3AQ
-school-eng:136607	4D5J74	The John Warner School	Stanstead Road, Hoddesdon, Hertfordshire	EN11 0QF
-school-eng:136608	2X6MXN06	The Knights Templar School	Park Street, Baldock, Hertfordshire	SG7 6DZ
-school-eng:136609	5T8JAHHX	Sandringham School	The Ridgeway, St Albans, Hertfordshire	AL4 9NX
-school-eng:136857	2X6MV9XY	Bovingdon Primary Academy	High Street, Bovingdon, Hemel Hempstead, Hertfordshire	HP3 0HL
-school-eng:136877	9AE04NH	Queens' School	Aldenham Road, Bushey, Hertfordshire	WD23 2TY
-school-eng:136899	2X6MYGZH	Parmiter's School	High Elms Lane, Garston, Watford, Hertfordshire	WD25 0UU
-school-eng:136901	2X6MYJWD	St Clement Danes School	Chenies Road, Chorleywood, Rickmansworth, Hertfordshire	WD3 6EW
-school-eng:136922	9AE03VX	Yavneh College	Hillside Avenue, Borehamwood, Hertfordshire	WD6 1HL
-school-eng:136973	2X6MTFB6	Roundwood Park School	Roundwood Park, Harpenden, Hertfordshire	AL5 3AE
-school-eng:137002	2X6MXP1R	Freman College	Bowling Green Lane, Buntingford, Hertfordshire	SG9 9BT
-school-eng:137038	5T8FVP7Q	Verulam School	Brampton Road, St Albans, Hertfordshire	AL1 4PR
-school-eng:137090	2X6MXAD9	The Chauncy School	Park Road, Ware, Hertfordshire	SG12 0DP
-school-eng:137110	2X6MV9YH	Longdean School	Rumballs Road, Bennetts End, Hemel Hempstead, Hertfordshire	HP3 8JB
-school-eng:137156	2X6MTJCP	Leventhorpe	Cambridge Road, Sawbridgeworth, Hertfordshire	CM21 9BY
-school-eng:137224	9AE051S	Mount Grace School	Church Road, Potters Bar, Hertfordshire	EN6 1EZ
-school-eng:137238	5T8JQEQF	Hammond Academy	Cambrian Way, Hemel Hempstead, Hertfordshire	HP2 5TD
-school-eng:137270	2X6MTFDH	Sir John Lawes School	Manland Way, Harpenden, Hertfordshire	AL5 4QP
-school-eng:137288	2X6MXHBD	Hitchin Girls' School	Highbury Road, Hitchin, Hertfordshire	SG4 9RS
-school-eng:137339	2X6MTDMM	St Albans Girls' School	Sandridgebury Lane, St Albans, Hertfordshire	AL3 6DB
-school-eng:137351	9B09V9Y	Summercroft Primary School	Plaw Hatch Close, Bishop's Stortford, Hertfordshire	CM23 5BJ
-school-eng:137532	4D4ME9	Goffs School	Goffs Lane, Cheshunt, Waltham Cross, Hertfordshire	EN7 5QW
-school-eng:137637	9B09QS4	Birchwood High School	Parsonage Lane, Bishop's Stortford, Hertfordshire	CM23 5BD
-school-eng:137656	2X6MXNC2	Meridian School	Garden Walk, Royston, Hertfordshire	SG8 7JH
-school-eng:137657	2X6MXNAP	Roysia Middle School	Burns Road, Royston, Hertfordshire	SG8 5EQ
-school-eng:137658	2X6MXNC1	The Greneway School	Garden Walk, Royston, Hertfordshire	SG8 7JF
-school-eng:137757	2X6MTBBS	Bishop's Hatfield Girls' School	Woods Avenue, Hatfield, Hertfordshire	AL10 8NL
-school-eng:137792	2X6MTBBK	Onslow St Audrey's School	Old Rectory Drive, Hatfield, Hertfordshire	AL10 8AB
-school-eng:137847	2X6MTHCA	Stanborough School	Lemsford Lane, Welwyn Garden City, Hertfordshire	AL8 6YR
-school-eng:137861	9B1AJVM	Little Reddings Primary School	Harcourt Road, Bushey, Hertfordshire	WD23 3PR
-school-eng:137872	9B1AK1T	Bushey Meads School	Coldharbour Lane, Bushey, Hertfordshire	WD23 4PA
-school-eng:137895	9C3QMQ7	The John Henry Newman Catholic School	Hitchin Road, Stevenage, Hertfordshire	SG1 4AE
-school-eng:137914	2X6MSZSZ	Saint Joan of Arc Catholic School	High Street, Rickmansworth, Hertfordshire	WD3 1HG
-school-eng:137922	5T8FR6GF	Saint Michael's Catholic High School	High Elms Lane, Garston, Watford, Hertfordshire	WD25 0SS
-school-eng:137938	2X6MTE5Y	Nicholas Breakspear Catholic School	Colney Heath Lane, St Albans, Hertfordshire	AL4 0TT
-school-eng:137943	2X6MTHMA	Applecroft School	Applecroft Road, Welwyn Garden City, Hertfordshire	AL8 6JZ
-school-eng:137985	2X6MXAZE	Presdales School	Hoe Lane, Ware, Hertfordshire	SG12 9NX
-school-eng:137997	2X6MXKK6	Woolgrove School, Special Needs Academy	Pryor Way, Letchworth Garden City, Hertfordshire	SG6 2PT
-school-eng:138042	2X6MT9S6	The Marlborough Science Academy	Watling Street, St Albans, Hertfordshire	AL1 2QA
-school-eng:138106	2X6MTA14	Loreto College	Hatfield Road, St Albans, Hertfordshire	AL1 3RQ
-school-eng:138201	5T8JHC00	Hatfield Community Free School	Briars Lane, Hatfield, Hertfordshire	AL10 8ES
-school-eng:138205	5T8JAG03	Fleetville Junior School	228 Hatfield Road, St Albans, Hertfordshire	AL1 4LW
-school-eng:138206	2X6MTAHR	Fleetville Infant and Nursery School	Royal Road, St Albans, Hertfordshire	AL1 4LX
-school-eng:138215	9B1AJKR	The Wroxham School	Wroxham Gardens, Potters Bar, Hertfordshire	EN6 3DJ
-school-eng:138225	9C3QSD8	The Da Vinci Studio School of Science and Engineering	Monkswood Way, Stevenage, Hertfordshire	SG1 1LA
-school-eng:138231	5T8GN26J	Alban City School	7 Hatfield Road, St Albans, Hertfordshire	AL1 3RR
-school-eng:138286	2X6MTE5Z	Beaumont School	Oakwood Drive, St Albans, Hertfordshire	AL4 0XB
-school-eng:138288	5T8FR6JX	St Catherine of Siena Catholic Primary School	Horseshoe Lane, Garston, Watford, Hertfordshire	WD25 7HP
-school-eng:138292	2X6MXNF8	St Mary Roman Catholic Primary School	Melbourn Road, Royston, Hertfordshire	SG8 7DB
-school-eng:138316	9C3H55Z	St John Roman Catholic Primary School	Providence Way, Baldock, Hertfordshire	SG7 6TT
-school-eng:138322	9C3H984	Our Lady Catholic Primary School	Old Hale Way, Hitchin, Hertfordshire	SG5 1XT
-school-eng:138352	2X6MV863	Tring School	Mortimer Hill, Tring, Hertfordshire	HP23 5JD
-school-eng:138354	2X6MXKNC	St Thomas More Roman Catholic Primary School	Highfield, Letchworth Garden City, Hertfordshire	SG6 3QB
-school-eng:138356	2X6N02Y7	St George's School	Sun Lane, Harpenden, Hertfordshire	AL5 4TD
-school-eng:138360	4D5Z7N	St Mary's Church of England High School (VA)	Lieutenant Ellis Way, Cheshunt, Waltham Cross, Hertfordshire	EN7 5FB
-school-eng:138389	2X6MXKK5	Garden City Academy	Radburn Way, Letchworth Garden City, Hertfordshire	SG6 2JZ
-school-eng:138484	2X6MXCRP	The Sele School	Welwyn Road, Hertford, Hertfordshire	SG14 2DG
-school-eng:138485	5T8JHA3Z	Knightsfield School	Knightsfield, Welwyn Garden City, Hertfordshire	AL8 7LW
-school-eng:138507	9A95Y4M	The Grove Academy	Fourth Avenue, Watford, Hertfordshire	WD25 9RH
-school-eng:138539	2X6MTK10	Northgate Primary School	Cricketfield Lane, Bishop's Stortford, Hertfordshire	CM23 2RL
-school-eng:138561	9CSKJEK	Harpenden Free School	Vaughan Road, Harpenden, Hertfordshire	AL5 4EN
-school-eng:138582	2X6MTAPX	Samuel Ryder Academy	Drakes Drive, St Albans, Hertfordshire	AL1 5AR
-school-eng:138632	5T8JH9XV	Monk's Walk School	Knightsfield, Welwyn Garden City, Hertfordshire	AL8 7NL
-school-eng:138747	9AE03ZP	Hertswood Academy	Cowley Hill, Borehamwood, Hertfordshire	WD6 5LG
-school-eng:139036	5T8JQHE1	Kings Langley School	Love Lane, Kings Langley, Hertfordshire	WD4 9HN
-school-eng:139154	2X6MXHSD	Hitchin Boys' School	Grammar School Walk, Hitchin, Hertfordshire	SG5 1JB
-school-eng:139159	2X6MT9TB	Mandeville Primary School	Mandeville Drive, St Albans, Hertfordshire	AL1 2LE
-school-eng:139197	5T8JAGKZ	Links Academy	1 Hixberry Lane, St Albans, Hertfordshire	AL4 0TZ
-school-eng:139416	9AE09FM	The Elstree UTC	Studio Way, Elstree, Borehamwood, Hertfordshire	WD6 5NN
-school-eng:139507	5T8FR9KA	Christ Church Chorleywood CofE School	The Common, Rickmansworth Road, Chorleywood, Rickmansworth, Hertfordshire	WD3 5SG
-school-eng:139545	4D4PHZ	Flamstead End School	Longfield Lane, Cheshunt, Waltham Cross, Hertfordshire	EN7 6AG
-school-eng:139550	2X6MZR56	Chaulden Junior School	School Row, Chaulden, Hemel Hempstead, Hertfordshire	HP1 2JU
-school-eng:139662	9CQACQQ	The Reach Free School	Unit 3, Wolsey Business Park, Tolpits Lane, Watford, Hertfordshire	WD18 9BL
-school-eng:139835	2X6MTHY9	Rhodes Farm School	Mymwood House, Shepherds Way, Brookman's Park, Hatfield, 	AL9 6NN
-school-eng:139873	9B09VXK	Richard Hale School	Hale Road, Hertford, Hertfordshire	SG13 8EN
-school-eng:139902	2X6MXKNA	The Da Vinci Studio School of Creative Enterprise	The Old Grammar School, Broadway, Letchworth Garden City, Hertfordshire	SG6 3PA
-school-eng:140037	9C3QN4X	The Thomas Alleyne School	High Street, Stevenage, Hertfordshire	SG1 3BE
-school-eng:140049	2X6MYE5R	Westfield Academy	Tolpits Lane, Watford, Hertfordshire	WD18 6NS
-school-eng:140238	5T8JH8CZ	Countess Anne Church of England School	School Lane, Hatfield, Hertfordshire	AL10 8AX
-school-eng:140249	9B09WFM	Ralph Sadleir School	Station Road, Puckeridge, Ware, Hertfordshire	SG11 1TF
-school-eng:140294	2X6MXBT7	Simon Balle All-Through School	Mangrove Road, Hertford, Hertfordshire	SG13 8AJ
-school-eng:140611	9C3H8GG	Wilshere-Dacre Junior Academy	Fishponds Road, Hitchin, Hertfordshire	SG5 1NS
-school-eng:140707	2X6MTFQ9	Crabtree Infants' School	Crabtree Lane, Harpenden, Hertfordshire	AL5 5PU
-school-eng:140708	2X6MTFQN	Crabtree Junior School	Crabtree Lane, Harpenden, Hertfordshire	AL5 5PU
-school-eng:140786	2X6MZTDB	The Hertfordshire & Essex High School and Science College	Warwick Road, Bishop's Stortford, Hertfordshire	CM23 5NJ
-school-eng:140954	9CPSCCP	Lanchester Community Free School	Hempstead Road, Watford, Hertfordshire	WD17 3HD
-school-eng:140955	2X6MV4WB	Jupiter Community Free School	Jupiter Drive, Hemel Hempstead, Hertfordshire	HP2 5NT
-school-eng:140956	9CPSCH5	Ascot Road Community Free School	Ascot Road, Watford, Hertfordshire	WD18 8AD
-school-eng:141004	9CPSCN0	The Watford UTC	18 Colonial Way, Watford, Hertfordshire	WD24 4PT
-school-eng:141251	2X6MZT45	Pinewood School	Hoe Lane, Ware, Hertfordshire	SG12 9PB
-school-eng:141851	2X6MTKCB	Windhill21	Windhill, Bishop's Stortford, Hertfordshire	CM23 2NE
-school-eng:141898	9B1AHFC	Fair Field Junior School	Watford Road, Radlett, Hertfordshire	WD7 8LU
-school-eng:142051	4D547M	Haileybury Turnford	Mill Lane, Cheshunt, Waltham Cross, Hertfordshire	EN8 0JU
-school-eng:142221	2X6MKQRD	Watford St John's Church of England Primary School	38c Estcourt Road, Watford, Hertfordshire, 	WD17 2PS
-school-eng:142257	4D5CKW	Hailey Hall School	Hailey Lane, Hertford, Hertfordshire	SG13 7PB
-school-eng:142413	2X6MXM92	Garden City Montessori School	269 Icknield Way, Letchworth Garden City, Hertfordshire	SG6 4UE
-school-eng:142862	9B1AHNG	Yavneh Primary School	Hillside Avenue, Borehamwood, Hertfordshire	WD6 1HL
-school-eng:143131	4D5BSY	Sheredes School	Cock Lane, Hoddesdon, Hertfordshire	EN11 8JY
+school:102256	10034170930	Purcell School	Aldenham Road, Bushey, Hertfordshire	WD23 2TS
+school:117065	100081259518	Weston Way Nursery School	Weston Way, Baldock, Hertfordshire	SG7 6HD
+school:117066	148007372	Arlesdene Nursery School and Pre-School	Blindman's Lane, Cheshunt, Waltham Cross, Hertfordshire	EN8 9DW
+school:117067	148006266	Greenfield Nursery School	Hurst Drive, Waltham Cross, Hertfordshire	EN8 8DH
+school:117068	100081155816	Batford Nursery School	Holcroft Road, Harpenden, Hertfordshire	AL5 5BQ
+school:117069	100081150976	Birchwood Nursery School	Birchway, Crawford Road, Hatfield, Hertfordshire	AL10 0PD
+school:117070	10023960237	Heath Lane Nursery School	Heath Lane, Hemel Hempstead, Hertfordshire	HP1 1TT
+school:117071	100081256773	York Road Nursery School	York Road, Hitchin, Hertfordshire	SG5 1XA
+school:117072	148030347	Rye Park Nursery School	Walton Road, Hoddesdon, Hertfordshire	EN11 0LN
+school:117073	10070041838	Nevells Road Nursery School	Nevells Road, Letchworth, Hertfordshire	SG6 4TS
+school:117074	100080856168	Muriel Green Nursery School	6 Lemsford Road, St Albans, Hertfordshire	
+school:117075	100081151645	London Colney Nursery School	Alexander Road, London Colney, St Albans, Hertfordshire	AL2 1JG
+school:117076	100081287644	Kingswood Nursery School	Briar Road, Watford, Hertfordshire	WD25 0DX
+school:117077	100081283739	Oxhey Early Years Centre	Eastbury Road, Oxhey, Watford, Hertfordshire	WD19 4RL
+school:117078	100081156258	Tenterfield Nursery School	London Road, Welwyn, Hertfordshire	AL6 9JF
+school:117079	100081157205	Ludwick Nursery School	Holwell Road, Welwyn Garden City, Hertfordshire	AL7 3RP
+school:117080	10070251539	Peartree Way Nursery School	Peartree Way, Stevenage, Hertfordshire	SG2 9EA
+school:117081	10034171148	Wall Hall Nursery School	University of Hertfordshire, Watford Campus, Aldenham, Watford, Hertfordshire	WD25 8AT
+school:117082	10012155244	Lea Valley Education Support Centre	Queen Eleanor Site, Cameron Drive, Waltham Cross, Hertfordshire	EN8 8BN
+school:117083	200000937663	Abbots Langley School	Parsonage Close, Abbots Langley, Hertfordshire	WD5 0BQ
+school:117084	10070035441	Ashwell Primary School	Silver Street, Ashwell, Baldock, Hertfordshire	SG7 5QL
+school:117085	100081159200	Northgate Primary School	Cricketfield Lane, Bishop's Stortford, Hertfordshire	CM23 2RL
+school:117086	100081182459	Bovingdon Junior School	High Street, Bovingdon, Hemel Hempstead, Hertfordshire	HP3 0HL
+school:117087	10033092014	Jenyns First School and Nursery	Uplands, Braughing, Ware, Hertfordshire	SG11 2QJ
+school:117088	10034170765	Bushey Heath Primary School	The Rutts, Bushey Heath, Bushey, Hertfordshire	WD23 1SP
+school:117089	10034170892	Highwood Primary School	Bushey Mill Lane, Bushey, Hertfordshire	WD23 2AW
+school:117090	10034170817	Merry Hill Infant School and Nursery	School Lane, Bushey, Hertfordshire	WD23 1ST
+school:117091	148013810	Holdbrook Primary School	Longcroft Drive, Waltham Cross, Hertfordshire	EN8 7QG
+school:117092	148013809	Four Swannes Primary School	King Edward Road, Waltham Cross, Hertfordshire	EN8 7HH
+school:117093	200000939671	Chorleywood Primary School	Stag Lane, Chorleywood, Rickmansworth, Hertfordshire	WD3 5HR
+school:117094	10002003664	Beechfield School	Gammons Lane, Watford, Hertfordshire	WD24 5TY
+school:117095	100081151536	New Briars Primary and Nursery School	Hazel Grove, Hatfield, Hertfordshire	AL10 9DX
+school:117096	200000939120	Shepherd Primary	Shepherd's Lane, Mill End, Rickmansworth, Hertfordshire	WD3 8JJ
+school:117097	200001052046	Hobletts Manor Junior School	Adeyfield Road, Hemel Hempstead, Hertfordshire	HP2 5JS
+school:117098	200000939305	The Russell School	Brushwood Drive, Chorleywood, Rickmansworth, Hertfordshire	WD3 5RR
+school:117099	10034169917	Cowley Hill School	Winstre Road, Borehamwood, Hertfordshire	WD6 5DP
+school:117100	100081154151	Flamstead Village School	Trowley Hill Road, Flamstead, St Albans, Hertfordshire	AL3 8DL
+school:117101	10002013009	Gaddesden Row JMI School	Gaddesden Row, Hemel Hempstead, Hertfordshire	HP2 6HG
+school:117102	200001850464	Sauncey Wood Primary School	Pickford Hill, Harpenden, Hertfordshire	AL5 5HL
+school:117103	100081155506	Manland Primary School	Sauncey Avenue, Harpenden, Hertfordshire	AL5 4QW
+school:117104	100081151132	Gascoyne Cecil Junior School	Birchwood Avenue, Hatfield, Hertfordshire	AL10 0PS
+school:117105	100081151541	Green Lanes Primary School	Green Lanes, Hatfield, Hertfordshire	AL10 9JY
+school:117106	200004058346	George Street Primary School	George Street, Hemel Hempstead, Hertfordshire	HP2 5HJ
+school:117107	200004058082	Boxmoor Primary School	Cowper Road, Boxmoor, Hemel Hempstead, Hertfordshire	HP1 1PF
+school:117108	100081182659	Two Waters Primary School	High Ridge Close, Apsley, Hemel Hempstead, Hertfordshire	HP3 0AU
+school:117109	100081183176	Tudor Primary School	Redwood Drive, Hemel Hempstead, Hertfordshire	HP3 9ER
+school:117110	10002012594	South Hill Primary School	Heath Lane, Hemel Hempstead, Hertfordshire	HP1 1TT
+school:117111	10033098601	Abel Smith School	Churchfields, Greencoates, Hertford, Hertfordshire	SG13 8AE
+school:117112	10070034762	Hexton Junior Mixed and Infant School	Hexton, Hitchin, Hertfordshire	SG5 3JL
+school:117113	100081256104	Highbury Infant School and Nursery	Standhill Road, Hitchin, Hertfordshire	SG4 9AG
+school:117114	200001853410	Strathmore Infant and Nursery School	Old Hale Way, Hitchin, Hertfordshire	SG5 1XR
+school:117115	100081255169	Highover Junior Mixed and Infant School	Cambridge Road, Hitchin, Hertfordshire	SG4 0JP
+school:117116	10070041104	Wilshere-Dacre Junior School	Fishponds Road, Hitchin, Hertfordshire	SG5 1NS
+school:117117	10033099083	Hunsdon Junior Mixed and Infant School	High Street, Ware, Hertfordshire	SG12 8NT
+school:117118	100081255747	Kimpton Primary School	High Street, Kimpton, Hitchin, Hertfordshire	SG4 8RB
+school:117119	10070036889	Breachwood Green Junior Mixed and Infant School	Oxford Road, Breachwood Green, Hitchin, Hertfordshire	SG4 8NP
+school:117120	10070036352	Knebworth Primary and Nursery School	Swangleys Lane, Knebworth, Hertfordshire	SG3 6AA
+school:117121	100081258636	Wilbury Junior School	Bedford Road, Letchworth Garden City, Hertfordshire	SG6 4DU
+school:117122	100081258845	Grange Junior School	Sparhawke, Letchworth Garden City, Hertfordshire	SG6 4PY
+school:117123	100081257857	Hillshott Infant School and Nursery	Ridge Avenue, Letchworth, Hertfordshire	SG6 1QE
+school:117124	10070042203	Westbury Primary and Nursery School	West View, Letchworth, Hertfordshire	SG6 3QN
+school:117125	10033091114	Hertford Heath Primary and Nursery School	Woodland Road, Hertford Heath, Hertford, Hertfordshire	SG13 7QW
+school:117126	10033100532	Little Hadham Primary School	Stortford Road, Little Hadham, Ware, Hertfordshire	SG11 2DX
+school:117127	200004057882	Markyate Village School and Nursery	Cavendish Road, Markyate, St Albans, Hertfordshire	AL3 8PT
+school:117128	200001853414	Pirton School	High Street, Pirton, Hitchin, Hertfordshire	SG5 3PS
+school:117129	100081260160	Reed First School	Jacksons Lane, Reed, Royston, Hertfordshire	SG8 8AB
+school:117130	200000941869	Yorke Mead Primary School	Dulwich Way, Croxley Green, Rickmansworth, Hertfordshire	WD3 3PX
+school:117131	200000939816	Harvey Road Primary School	Harvey Road, Croxley Green, Rickmansworth, Hertfordshire	WD3 3BN
+school:117132	200000939818	Little Green Junior School	Lincoln Drive, Croxley Green, Rickmansworth, Hertfordshire	WD3 3NJ
+school:117133	200000939830	Malvern Way Infant and Nursery School	Malvern Way, Croxley Green, Rickmansworth, Hertfordshire	WD3 3QQ
+school:117134	100081259860	Tannery Drift School	Tannery Drift, Royston, Hertfordshire	SG8 5DE
+school:117135	100081150640	Bernards Heath Infant and Nursery School	154 Sandridge Road, St Albans, Hertfordshire	AL1 4AP
+school:117136	200003636631	Camp Primary and Nursery School	Camp Road, St Albans, Hertfordshire	AL1 5PG
+school:117137	200003633155	Fleetville Junior School	228 Hatfield Road, St Albans, Hertfordshire	AL1 4LW
+school:117138	100081150520	Fleetville Infant and Nursery School	Royal Road, St Albans, Hertfordshire	AL1 4LX
+school:117139	200003637247	Garden Fields Junior Mixed and Infant School	Townsend Drive, St Albans, Hertfordshire	AL3 5RL
+school:117140	100081149600	St Peter's School	Cottonmill Lane, St Albans, Hertfordshire	AL1 1HL
+school:117141	100081153583	Aboyne Lodge Junior Mixed and Infant School	Etna Road, St Albans, Hertfordshire	AL3 5NL
+school:117142	100081149771	Mandeville Primary School	Mandeville Drive, St Albans, Hertfordshire	AL1 2LE
+school:117143	200003641225	Bernards Heath Junior School	Watson Avenue, St Albans, Hertfordshire	AL3 5HP
+school:117144	100081255746	St Paul's Walden Primary School	Bendish Lane, Whitwell, Hitchin, Hertfordshire	SG4 8HX
+school:117145	100081154433	Colney Heath Junior Mixed Infant and Nursery School	High Street, Colney Heath, St Albans, Hertfordshire	AL4 0NP
+school:117146	100081151644	London Colney Primary & Nursery School	Alexander Road, London Colney, St Albans, Hertfordshire	AL2 1JG
+school:117147	100081260449	Sandon Junior Mixed and Infant School	Sandon, Buntingford, Hertfordshire	SG9 0QS
+school:117148	100081154936	Sandridge School	Woodcock Hill, Sandridge, St Albans, Hertfordshire	AL4 9EB
+school:117149	10033099180	Fawbert and Barnard Infants' School	Knight Street, Sawbridgeworth, Hertfordshire	CM21 9AT
+school:117150	10034169247	Shenley Primary School	London Road, Shenley, Radlett, Hertfordshire	WD7 9DX
+school:117151	10070250749	Letchmore Infants' and Nursery School	Letchmore Road, Stevenage, Hertfordshire	SG1 3PS
+school:117152	10070250538	Fairlands Primary School and Nursery	Pound Avenue, Stevenage, Hertfordshire	SG1 3JA
+school:117153	100081260343	Therfield First School	The Causeway, Therfield, Royston, Hertfordshire	SG8 9PP
+school:117154	100081254211	Walkern Primary School	High Street, Walkern, Stevenage, Hertfordshire	SG2 7NS
+school:117155	100081287392	The Orchard Primary School	Gammons Lane, Watford, Hertfordshire	WD24 5JW
+school:117156	200000930454	Central Primary School	Derby Road, Watford, Hertfordshire	WD17 2LX
+school:117157	200000932394	Bushey and Oxhey Infant School	Aldenham Road, Bushey, Hertfordshire	WD23 2QH
+school:117158	100081284591	Chater Junior School	Addiscombe Road, Watford, Hertfordshire	WD18 0WN
+school:117159	100081284537	Chater Infant School	Southsea Avenue, Watford, Hertfordshire	WD18 7NJ
+school:117160	100081285121	Field Junior School	Watford Field Road, Watford, Hertfordshire	WD18 0AZ
+school:117161	200000931009	Watford Field School (Infant & Nursery)	Neal Street, Watford, Hertfordshire	WD18 0WF
+school:117162	100081286897	Parkgate Junior School	Southwold Road, Watford, Hertfordshire	WD24 7DN
+school:117163	100081286900	Parkgate Infants' and Nursery School	Northfield Gardens, Watford, Hertfordshire	WD24 7RL
+school:117164	10002004088	Garston Infants' School	Fourth Avenue, Watford, Hertfordshire	WD25 9PP
+school:117165	100081286898	Knutsford School	Balmoral Road, Watford, Hertfordshire	WD24 7ER
+school:117166	100081283991	St Meryl School	The Mead, Carpenders Park, Watford, Hertfordshire	WD19 5BT
+school:117167	200000931000	Cassiobury Junior School	Bellmount Wood Avenue, Watford, Hertfordshire	WD17 3PD
+school:117168	100081287656	Kingsway Junior School	Briar Road, Watford, Hertfordshire	WD25 0JH
+school:117169	200000936323	Warren Dell Primary School	Gosforth Lane, South Oxhey, Watford, Hertfordshire	WD19 7UZ
+school:117170	200000942752	Oxhey Wood Primary School	Oxhey Drive, South Oxhey, Watford, Hertfordshire	WD19 7SL
+school:117171	10033099694	Watton-at-Stone Primary and Nursery School	Rectory Lane, Watton-At-Stone, Hertford, Hertfordshire	SG14 3SG
+school:117172	100081157150	Peartree Primary School	Peartree Lane, Welwyn Garden City, Hertfordshire	AL7 3XW
+school:117173	100081157148	Blackthorn Junior School	Blackthorn Road, Welwyn Garden City, Hertfordshire	AL7 3JP
+school:117174	200003858193	Templewood Primary School	Pentley Park, Welwyn Garden City, Hertfordshire	AL8 7SD
+school:117175	100081157153	Holwell Primary School	Holwell Road, Welwyn Garden City, Hertfordshire	AL7 3RP
+school:117176	10033099705	Widford School	Ware Road, Widford, Ware, Hertfordshire	SG12 8RE
+school:117177	100081255396	Wymondley Junior Mixed and Infant School	Siccut Road, Little Wymondley, Hitchin, Hertfordshire	SG4 7HN
+school:117178	100081291037	Tanners Wood Junior Mixed and Infant School	Hazelwood Lane, Abbots Langley, Hertfordshire	WD5 0LG
+school:117180	148006264	Hurst Drive Primary School	Hurst Drive, Waltham Cross, Hertfordshire	EN8 8DH
+school:117181	10034169918	Woodlands Primary School	Alban Crescent, Borehamwood, Hertfordshire	WD6 5JF
+school:117182	10034169478	Summerswood Primary School	Furzehill Road, Borehamwood, Hertfordshire	WD6 2DW
+school:117183	10034169532	Kenilworth Primary School	Kenilworth Drive, Borehamwood, Hertfordshire	WD6 1QL
+school:117184	10034169892	Meryfield Primary School	Theobald Street, Borehamwood, Hertfordshire	WD6 4PA
+school:117185	200003858426	Salisbury Infants' School	Birchwood Avenue, Hatfield, Hertfordshire	AL10 0PS
+school:117186	100081258644	Icknield Infant and Nursery School	Archers Way, Letchworth Garden City, Hertfordshire	SG6 4UN
+school:117187	200003637592	Bowmansgreen Primary School	Telford Road, London Colney, St Albans, Hertfordshire	AL2 1PH
+school:117188	200003637356	Margaret Wix Primary School	High Oaks, St Albans, Hertfordshire	AL3 6EL
+school:117189	10070250376	Broom Barns Community Primary School	Homestead Moat, Stevenage, Hertfordshire	SG1 1UE
+school:117190	10002004088	Lea Farm Junior School	Fourth Avenue, Watford, Hertfordshire	WD25 9PQ
+school:117191	200000931010	Alban Wood Junior School	Newhouse Crescent, Garston, Watford, Hertfordshire	WD25 7LU
+school:117192	200000936325	Little Furze Junior Mixed and Infant School	Gosforth Lane, Watford, Hertfordshire	WD19 7RE
+school:117193	100081284075	Greenfields Primary School	Ellesborough Close, Watford, Hertfordshire	WD19 6QH
+school:117194	200000936996	Woodhall Primary School	Woodhall Lane, South Oxhey, Watford, Hertfordshire	WD19 6QX
+school:117195	10034169598	Saffron Green Primary School	Nicoll Way, Borehamwood, Hertfordshire	WD6 2PP
+school:117196	100081151536	Hazelgrove Primary School	Hazel Grove, Hatfield, Hertfordshire	AL10 9DX
+school:117197	10002012809	Hobletts Manor Infants' School	Adeyfield Road, Hemel Hempstead, Hertfordshire	HP2 5JS
+school:117198	100081328294	Chaulden Junior School	School Row, Chaulden, Hemel Hempstead, Hertfordshire	HP1 2JU
+school:117199	10070251057	Roebuck Junior School	St Margaret's, Stevenage, Hertfordshire	SG2 8RF
+school:117200	10070251555	Bedwell Primary School	Bedwell Crescent, Stevenage, Hertfordshire	SG1 1NJ
+school:117201	148003391	Flamstead End Junior School	Longfield Lane, Flamstead End, Cheshunt, Waltham Cross, Hertfordshire	EN7 6AG
+school:117202	10002013521	Chaulden Infants' and Nursery	School Row, Chaulden, Hemel Hempstead, Hertfordshire	HP1 2JU
+school:117203	148027916	Haslewood Junior School	Haslewood Avenue, Hoddesdon, Hertfordshire	EN11 8HT
+school:117204	10070251057	Roebuck Infant School	St Margaret's, Stevenage, Hertfordshire	SG2 8RF
+school:117205	200000584791	Peartree Spring Junior School	Hydean Way, Stevenage, Hertfordshire	SG2 9GG
+school:117206	10013383711	Peartree Spring Primary School	Hydean Way, Stevenage, Hertfordshire	SG2 9GG
+school:117207	200000586715	Longmeadow Junior School	Oaks Cross, Broadwater, Stevenage, Hertfordshire	SG2 8LT
+school:117208	200000586715	Longmeadow Infant and Nursery School	Oaks Cross, Stevenage, Hertfordshire	SG2 8LT
+school:117209	10070251951	Bandley Hill Junior School	Featherston Road, Stevenage, Hertfordshire	SG2 9PP
+school:117210	10070251951	Bandley Hill Infants' School	Featherston Road, Stevenage, Hertfordshire	SG2 9PP
+school:117211	200003641454	Roundwood Primary School	Roundwood Park, Harpenden, Hertfordshire	AL5 3AD
+school:117212	200003641308	Wheatfields Junior Mixed School	Downes Road, St Albans, Hertfordshire	AL4 9NT
+school:117213	100081157149	Thumbswood Infant School	Blackthorn Road, Welwyn Garden City, Hertfordshire	AL7 3JP
+school:117214	100081182812	Chambersbury Primary School	Hill Common, Bennetts End, Hemel Hempstead, Hertfordshire	HP3 8JH
+school:117215	200004057767	Broadfield Junior School	Windmill Road, Hemel Hempstead, Hertfordshire	HP2 4BX
+school:117216	100081177244	Broadfield Infants' School	Broadfield Road, Adeyfield, Hemel Hempstead, Hertfordshire	HP2 4DW
+school:117217	100081150932	Windermere Primary School	Windermere Avenue, St Albans, Hertfordshire	AL1 5QP
+school:117218	10034621124	Anstey First School	Anstey, Buntingford, Hertfordshire	SG9 0BY
+school:117219	10034169521	Monksmead School	Hillside Avenue, Borehamwood, Hertfordshire	WD6 1HL
+school:117220	10014209900	Howe Dell Primary School	The Runway, Hatfield, Hertfordshire	AL10 9AH
+school:117221	200000586959	Almond Hill Junior School	Almonds Lane, Stevenage, Hertfordshire	SG1 3RP
+school:117222	100081154386	Oakwood Primary School	Oakwood Drive, St Albans, Hertfordshire	AL4 0XA
+school:117223	100081258877	Northfields Infants and Nursery School	Burley, Letchworth Garden City, Hertfordshire	SG6 4PT
+school:117224	200001853403	Purwell Primary School	Fairfield Way, Hitchin, Hertfordshire	SG4 0PU
+school:117225	200003641146	Killigrew Junior School	West Avenue, St Albans, Hertfordshire	AL2 3HD
+school:117226	10070251971	Camps Hill Community Primary School	Chells Way, Stevenage, Hertfordshire	SG2 0LT
+school:117227	200003857964	Harwood Hill Junior Mixed Infant and Nursery School	Harwood Close, Welwyn Garden City, Hertfordshire	AL8 7AG
+school:117228	10034169324	Fair Field Junior School	Watford Road, Radlett, Hertfordshire	WD7 8LU
+school:117229	10014209932	Creswick Primary and Nursery School	Sir John Newsom Way, Welwyn Garden City, Hertfordshire	AL7 4TP
+school:117230	100081159524	Thorley Hill Primary School	Park Lane, Bishop's Stortford, Hertfordshire	CM23 3NH
+school:117231	100081165737	Micklem Primary School	Boxted Road, Hemel Hempstead, Hertfordshire	HP1 2QH
+school:117232	148017382	Mayfield Infants' School and Nursery	Cheshunt Wash, Cheshunt, Waltham Cross, Hertfordshire	EN8 0LU
+school:117233	148018474	Brookland Junior School	Elm Drive, Cheshunt, Waltham Cross, Hertfordshire	EN8 0RX
+school:117234	100081182811	The Reddings Primary School	Bennetts End Road, Hemel Hempstead, Hertfordshire	HP3 8DX
+school:117235	200003641156	How Wood Primary and Nursery School	Spooners Drive, Park Street, St Albans, Hertfordshire	AL2 2HU
+school:117236	10024117569	Redbourn Infants' and Nursery School	Long Cutt, Redbourn, St Albans, Hertfordshire	AL3 7EX
+school:117237	10070252008	Lodge Farm Junior Mixed School	Mobbsbury Way, Chells, Stevenage, Hertfordshire	SG2 0HP
+school:117238	10070252008	Lodge Farm Infants' School	Mobbsbury Way, Chells, Stevenage, Hertfordshire	SG2 0HR
+school:117239	100081165766	Rossgate Primary School	Galley Hill, Hemel Hempstead, Hertfordshire	HP1 3JY
+school:117240	100081154941	Skyswood Primary & Nursery School	Chandlers Road, St Albans, Hertfordshire	AL4 9RS
+school:117241	100081165738	Martindale Primary and Nursery School	Boxted Road, Warners End, Hemel Hempstead, Hertfordshire	HP1 2QS
+school:117242	10034170935	Bushey Manor Junior School	Grange Road, Bushey, Hertfordshire	WD23 2QL
+school:117243	148005594	Goffs Oak Primary & Nursery School	Millcrest Road, Goffs Oak, Waltham Cross, Hertfordshire	EN7 5NS
+school:117244	10033098046	Summercroft Junior School	Parsonage Lane, Bishop's Stortford, Hertfordshire	CM23 5BJ
+school:117245	200000940101	Eastbury Farm Primary School	Bishops Avenue, Northwood, Hertfordshire	HA6 3DG
+school:117246	10070251488	Burydale Junior School	Burydale, Stevenage, Hertfordshire	SG2 8AX
+school:117247	200000586615	Shephall Green Infant and Nursery School	Shephall Green, Stevenage, Hertfordshire	SG2 9XS
+school:117248	200000937879	Bedmond Village Primary and Nursery School	Meadow Way, Bedmond, Abbots Langley, Hertfordshire	WD5 0RD
+school:117249	100081313337	Gade Valley Junior Mixed Infant and Nursery School	Gadebridge Road, Hemel Hempstead, Hertfordshire	HP1 3DT
+school:117250	200003636677	Cunningham Hill Junior School	Cell Barnes Lane, St Albans, Hertfordshire	AL1 5QJ
+school:117251	10070251194	Pin Green Primary School and Nursery	Lonsdale Road, Stevenage, Hertfordshire	SG1 5DQ
+school:117252	200003858063	Homerswood Primary and Nursery School	Kirklands, Welwyn Garden City, Hertfordshire	AL8 7RF
+school:117253	100081256105	Whitehill Junior School	Whitehill Road, Hitchin, Hertfordshire	SG4 9HT
+school:117254	200004058124	Westfield Primary School and Nursery	Durrants Lane, Berkhamsted, Hertfordshire	HP4 3PJ
+school:117255	148013990	Downfield Primary School	Downfield Road, Cheshunt, Waltham Cross, Hertfordshire	EN8 8SS
+school:117256	100081165735	Pixies Hill Primary School	Hazeldell Road, Hemel Hempstead, Hertfordshire	HP1 2BY
+school:117257	100081156441	Rowans Primary School	Rowans, Welwyn Garden City, Hertfordshire	AL7 1NZ
+school:117258	100081155001	The Grove Junior School	Dark Lane, Harpenden, Hertfordshire	AL5 1QB
+school:117259	100081257416	Pixmore Junior School	Rushby Mead, Letchworth, Hertfordshire	SG6 1RS
+school:117260	100081183860	Swing Gate Infant School and Nursery	Swing Gate Lane, Berkhamsted, Hertfordshire	HP4 2LJ
+school:117261	100081155961	Oaklands Primary School	Great North Road, Oaklands, Welwyn, Hertfordshire	AL6 0PX
+school:117262	148003390	Flamstead End Infant and Nursery School	Longfield Lane, Cheshunt, Waltham Cross, Hertfordshire	EN7 6AG
+school:117263	10033098623	Hollybush Primary School	Fordwich Rise, Hertford, Hertfordshire	SG14 2DF
+school:117264	200001853411	Oughtonhead Junior School	Mattocke Road, Hitchin, Hertfordshire	SG5 2NZ
+school:117265	200001853411	Oughtonhead Infants' School	Mattocke Road, Hitchin, Hertfordshire	SG5 2NZ
+school:117266	200000938744	Maple Cross Junior Mixed Infant and Nursery School	Denham Way, Maple Cross, Rickmansworth, Hertfordshire	WD3 9SS
+school:117267	200003641146	Killigrew Infant and Nursery School	West Avenue, St Albans, Hertfordshire	AL2 3HD
+school:117268	10024115424	Wheatfields Infants' and Nursery School	Downes Road, St Albans, Hertfordshire	AL4 9NT
+school:117269	10070251580	Moss Bury Primary School and Nursery	Webb Rise, Stevenage, Hertfordshire	SG1 5PA
+school:117270	148025559	Westfield Community Primary School	Westfield Road, Hoddesdon, Hertfordshire	EN11 8RA
+school:117271	100081248841	Priors Wood Primary School	Cozens Road, Ware, Hertfordshire	SG12 7HZ
+school:117272	148040234	Brookland Infant and Nursery School	Elm Drive, Cheshunt, Waltham Cross, Hertfordshire	EN8 0RX
+school:117273	10033098046	Summercroft Infant and Nursery School	Plaw Hatch Close, Bishop's Stortford, Hertfordshire	CM23 5BJ
+school:117274	200004057990	Goldfield Infants' and Nursery School	Christchurch Road, Tring, Hertfordshire	HP23 4EE
+school:117275	10033099651	Tower Primary School	Tower Road, Ware, Hertfordshire	SG12 7LP
+school:117276	100081184208	Greenway Primary and Nursery School	Crossways, Berkhamsted, Hertfordshire	HP4 3NH
+school:117277	100081160240	Thorn Grove Primary School	Thorn Grove, Bishop's Stortford, Hertfordshire	CM23 5LD
+school:117278	100081260003	Icknield Walk First School	Poplar Drive, Royston, Hertfordshire	SG8 7EZ
+school:117279	10024117568	Cunningham Hill Infant School	Cell Barnes Lane, St Albans, Hertfordshire	AL1 5QJ
+school:117280	10033099136	Reedings Junior School	Bullfields, Sawbridgeworth, Hertfordshire	CM21 9DD
+school:117281	100081155075	The Grove Infant and Nursery School	Dark Lane, Harpenden, Hertfordshire	AL5 1QD
+school:117282	200004057839	The Hammond Primary School	Cambrian Way, Hemel Hempstead, Hertfordshire	HP2 5TD
+school:117283	200004058046	Kings Langley Primary School	Common Lane, Kings Langley, Hertfordshire	WD4 8DQ
+school:117284	148031977	Forres Primary School	Stanstead Road, Hoddesdon, Hertfordshire	EN11 0RW
+school:117285	100081248109	Martins Wood Primary School	Mildmay Road, Stevenage, Hertfordshire	SG1 5RT
+school:117286	100081313734	Dundale Primary School and Nursery	Silk Mill Way, Tring, Hertfordshire	HP23 5DJ
+school:117287	100081155829	Crabtree Junior School	Crabtree Lane, Harpenden, Hertfordshire	AL5 5PU
+school:117288	100081153869	Redbourn Junior School	Long Cutt, Redbourn, St Albans, Hertfordshire	AL3 7EX
+school:117289	200000938389	Arnett Hills Junior Mixed and Infant School	Berry Lane, Rickmansworth, Hertfordshire	WD3 4BT
+school:117290	200000930244	Holywell Primary School	Tolpits Lane, Watford, Hertfordshire	WD18 6LL
+school:117291	100081159563	The Firs Junior School	Scott Road, Bishop's Stortford, Hertfordshire	CM23 3QJ
+school:117292	10070251352	Trotts Hill Primary and Nursery School	Wisden Road, Stevenage, Hertfordshire	SG1 5JD
+school:117293	10090229043	Cassiobury Infant and Nursery School	Bellmount Wood Avenue, Watford, Hertfordshire	WD17 3PE
+school:117294	100081156442	Panshanger Primary School	Daniells, Welwyn Garden City, Hertfordshire	AL7 1QY
+school:117295	100081313168	Bovingdon Infants' School	St Lawrence Close, Bovingdon, Hemel Hempstead, Hertfordshire	HP3 0LS
+school:117296	10034170745	Bournehall Primary School	Bournehall Avenue, Bushey, Hertfordshire	WD23 3AX
+school:117297	10033098908	Mill Mead Primary School	Port Vale, Hertford, Hertfordshire	SG14 3AA
+school:117298	200003641217	Maple Primary School	Hall Place Gardens, St Albans, Hertfordshire	AL1 3SW
+school:117299	10023323220	Round Diamond Primary School	Whitehorse Lane, Great Ashby Way, Stevenage, Hertfordshire	SG1 6NH
+school:117300	10034170885	Hartsbourne Primary School	Hartsbourne Road, Bushey, Hertfordshire	WD23 1SJ
+school:117301	200003641555	Beech Hyde Primary School and Nursery	Nurseries Road, Wheathampstead, St Albans, Hertfordshire	AL4 8TP
+school:117302	148004105	Andrews Lane Primary School	Andrews Lane, Cheshunt, Waltham Cross, Hertfordshire	EN7 6LB
+school:117303	10034169327	Newberries Primary School	Newberries Avenue, Radlett, Hertfordshire	WD7 7EL
+school:117304	200000939091	Rickmansworth Park Junior Mixed and Infant School	Park Road, Rickmansworth, Hertfordshire	WD3 1HU
+school:117305	100081149771	Mandeville Primary School	West Road, Sawbridgeworth, Hertfordshire	CM21 0BL
+school:117306	200000586798	Giles Junior School	Durham Road, Stevenage, Hertfordshire	SG1 4JQ
+school:117307	148034021	The Cranbourne Primary School	Bridleway North, Hoddesdon, Hertfordshire	EN11 9PP
+school:117308	100081283750	Bromet Primary School	Oxhey Road, Watford, Hertfordshire	WD19 4SG
+school:117309	100081260473	Millfield First and Nursery School	Monks Walk, Buntingford, Hertfordshire	SG9 9DT
+school:117310	10033093691	Hillmead Primary School	Woburn Avenue, Bishop's Stortford, Hertfordshire	CM23 4PW
+school:117311	200000931022	Nascot Wood Junior School	Nascot Wood Road, Watford, Hertfordshire	WD17 4YS
+school:117312	100081155817	Crabtree Infants' School	Crabtree Lane, Harpenden, Hertfordshire	AL5 5PU
+school:117313	200003858725	The Ryde School	Pleasant Rise, Hatfield, Hertfordshire	AL9 5DR
+school:117314	200001853408	William Ransom Primary School	Stuart Drive, Hitchin, Hertfordshire	SG4 9QB
+school:117315	100081153263	Prae Wood Primary School	King Harry Lane, St Albans, Hertfordshire	AL3 4HZ
+school:117316	10070251705	The Giles Infant and Nursery School	Durham Road, Stevenage, Hertfordshire	SG1 4JQ
+school:117317	200000931011	Kingsway Infants' School	North Approach, Watford, Hertfordshire	WD25 0ES
+school:117318	100081288173	Alban Wood Infant and Nursery School	The Brow, Garston, Watford, Hertfordshire	WD25 7NX
+school:117319	200002765011	Kingshill Infant School	Heath Drive, Ware, Hertfordshire	SG12 0RL
+school:117320	200000933530	Laurance Haines School	Vicarage Road, Watford, Hertfordshire	WD18 0DD
+school:117321	148000303	Woodside Primary School	Jones Road, Goffs Oak, Cheshunt, Waltham Cross, Hertfordshire	EN7 5JS
+school:117322	10070250077	Woolenwick Junior School	Bridge Road West, Stevenage, Hertfordshire	SG1 2NU
+school:117323	200000587011	Woolenwick Infant and Nursery School	Bridge Road West, Stevenage, Hertfordshire	SG1 2NU
+school:117324	100081288174	Leavesden JMI School	High Road, Leavesden, Watford, Hertfordshire	WD25 7QZ
+school:117325	200003857468	Springmead Primary School	Hillyfields, Welwyn Garden City, Hertfordshire	AL7 2HB
+school:117326	148020211	Longlands Primary School and Nursery	Nunsbury Drive, Turnford, Broxbourne, Hertfordshire	EN10 6AG
+school:117327	200003638188	The Lea Primary School and Nursery	Moorland Road, Harpenden, Hertfordshire	AL5 4LE
+school:117328	100081249928	Wheatcroft Primary School	Stanstead Road, Hertford, Hertfordshire	SG13 7HQ
+school:117329	200001853404	Mary Exton Primary School	St Michael's Road, Hitchin, Hertfordshire	SG4 0QA
+school:117330	10070036939	Lordship Farm Primary School	Fouracres, Letchworth Garden City, Hertfordshire	SG6 3UF
+school:117331	100081260349	Studlands Rise First School	Studlands Rise, Royston, Hertfordshire	SG8 9HB
+school:117332	100081259861	Roman Way First School	Burns Road, Royston, Hertfordshire	SG8 5EQ
+school:117333	100081183252	Lime Walk Primary School	Lime Walk, Bennetts End, Hemel Hempstead, Hertfordshire	HP3 9LN
+school:117334	148004104	Fairfields Primary School and Nursery	Rosedale Way, Cheshunt, Waltham Cross, Hertfordshire	EN7 6JG
+school:117335	100081177678	Aycliffe Drive Primary School	Aycliffe Drive, Hemel Hempstead, Hertfordshire	HP2 6LJ
+school:117336	100081177953	Holtsmere End Junior School	Shenley Road, Hemel Hempstead, Hertfordshire	HP2 7JZ
+school:117337	10013799401	Samuel Lucas Junior Mixed and Infant School	Gaping Lane, Hitchin, Hertfordshire	SG5 2JQ
+school:117338	148025794	Roselands Primary School	High Wood Road, Hoddesdon, Hertfordshire	EN11 9AR
+school:117339	200000930805	Cherry Tree Primary School	Berry Avenue, Watford, Hertfordshire	WD24 6ST
+school:117340	10002004256	Coates Way JMI and Nursery School	Coates Way, Garston, Watford, Hertfordshire	WD25 9NW
+school:117341	100081181097	Grove Road Primary School	Grove Road, Tring, Hertfordshire	HP23 5PD
+school:117342	200003641529	High Beeches Primary School	Aldwickbury Crescent, Harpenden, Hertfordshire	AL5 5SD
+school:117343	200004060194	Barncroft Primary School	Washington Avenue, Grove Hill West, Hemel Hempstead, Hertfordshire	HP2 6NG
+school:117344	100081177483	Jupiter Drive Junior Mixed and Infant School	Jupiter Drive, Hemel Hempstead, Hertfordshire	HP2 5NT
+school:117345	100081258882	Stonehill School	Western Close, Letchworth Garden City, Hertfordshire	SG6 4SZ
+school:117346	100081159710	Richard Whittington Primary School	Thornbera Gardens, Bishop's Stortford, Hertfordshire	CM23 3NP
+school:117347	200003637817	Mount Pleasant Lane Junior Mixed and Infant School and Nursery	Mount Pleasant Lane, Bricket Wood, St Albans, Hertfordshire	AL2 3XA
+school:117348	100081156989	Watchlytes Junior Mixed Infant and Nursery School	Watchlytes, Welwyn Garden City, Hertfordshire	AL7 2AZ
+school:117349	10002010892	Brockswood Primary School	Shenley Road, Woodhall Farm, Hemel Hempstead, Hertfordshire	HP2 7QH
+school:117350	10070038666	Lannock Primary School	Whiteway, Letchworth Garden City, Hertfordshire	SG6 2PP
+school:117351	148037591	Ryelands Primary School	Essex Road, Hoddesdon, Hertfordshire	EN11 0AA
+school:117352	10070251956	Ashtree Primary School and Nursery	Chertsey Rise, Stevenage, Hertfordshire	SG2 9JQ
+school:117353	148024825	Sheredes Primary School	Benford Road, Hoddesdon, Hertfordshire	EN11 8LL
+school:117354	100081258085	Radburn Primary School	Radburn Way, Letchworth Garden City, Hertfordshire	SG6 2JZ
+school:117355	100081157770	Applecroft School	Applecroft Road, Welwyn Garden City, Hertfordshire	AL8 6JZ
+school:117356	148023165	Ley Park Primary School	Cozens Lane East, Broxbourne, Hertfordshire	EN10 6QA
+school:117357	100081151456	Five Oaks Primary and Nursery School	Travellers Lane, Hatfield, Hertfordshire	AL10 8TQ
+school:117358	100081155455	Wood End School	Yeomans Avenue, Harpenden, Hertfordshire	AL5 3EF
+school:117359	100081177882	Eastbrook Primary School	St Agnell's Lane, Grove Hill, Hemel Hempstead, Hertfordshire	HP2 7BG
+school:117360	200000931005	Meriden Primary School	Harvest End, Watford, Hertfordshire	WD25 9UA
+school:117361	10033098946	Bengeo Primary School	The Avenue, Bengeo, Hertford, Hertfordshire	SG14 3DX
+school:117362	200003858850	Stream Woods Junior Mixed Infant and Nursery School	Woods Avenue, Hatfield, Hertfordshire	AL10 8NW
+school:117363	10033090551	Morgans Primary School & Nursery	Morgans Road, Hertford, Hertfordshire	SG13 8DR
+school:117364	100081248005	The Leys Primary and Nursery School	Ripon Road, Stevenage, Hertfordshire	SG1 4QZ
+school:117365	100081183178	Belswains Primary School	Barnfield, Hemel Hempstead, Hertfordshire	HP3 9QJ
+school:117366	148001200	Bonneygrove Primary School	Dark Lane, Cheshunt, Waltham Cross, Hertfordshire	EN7 5ED
+school:117367	148009462	Burleigh Primary School	Blindmans Lane, Cheshunt, Waltham Cross, Hertfordshire	EN8 9DP
+school:117368	100081182844	Hobbs Hill Wood Primary School	Peascroft Road, Hemel Hempstead, Hertfordshire	HP3 8ER
+school:117369	10013904587	Cranborne Primary School	Laurel Fields, Potters Bar, Hertfordshire	EN6 2BA
+school:117370	10034171244	Ladbrooke Junior Mixed and Infant School	Watkins Rise, Potters Bar, Hertfordshire	EN6 1QB
+school:117371	10034170475	Oakmere Primary School	Chace Avenue, Potters Bar, Hertfordshire	EN6 5NP
+school:117372	10013904568	Sunny Bank Junior School	Field View Road, Potters Bar, Hertfordshire	EN6 2NA
+school:117373	10013904568	Sunny Bank Infants' School	Field View Road, Potters Bar, Hertfordshire	EN6 2NA
+school:117374	200000930370	Nascot Wood Infant and Nursery School	Nascot Wood Road, Watford, Hertfordshire	WD17 4YT
+school:117375	100081249929	The Pines Junior Mixed and Infant School	Divot Place, Hertford, Hertfordshire	SG13 7SP
+school:117376	10070037095	Hartsfield Junior Mixed and Infant School	Clothall Road, Baldock, Hertfordshire	SG7 6PB
+school:117377	100081177954	Holtsmere End Infant and Nursery School	Shenley Road, Hemel Hempstead, Hertfordshire	HP2 7JZ
+school:117378	100081157326	Commonswood Primary & Nursery School	The Commons, Welwyn Garden City, Hertfordshire	AL7 4RU
+school:117379	148007270	Millbrook School	Gews Corner, Cheshunt, Waltham Cross, Hertfordshire	EN8 9BX
+school:117380	100081159895	Manor Fields Primary School	Penningtons, Bishop's Stortford, Hertfordshire	CM23 4LE
+school:117381	200004058270	Bellgate Primary School	Fletcher Way, Highfield, Hemel Hempstead, Hertfordshire	HP2 5QR
+school:117382	100081181098	Aldbury Church of England Primary School	Stocks Road, Aldbury, Tring, Hertfordshire	HP23 5RT
+school:117383	10034169302	St John's Church of England Infant and Nursery School	Gills Hill Lane, Radlett, Hertfordshire	WD7 8DD
+school:117384	10023326606	St Mary's Infants' School	St Mary's Way, Baldock, Hertfordshire	SG7 6HY
+school:117385	100081259519	St Mary's Junior Mixed School	St Mary's Way, Baldock, Hertfordshire	SG7 6HY
+school:117386	100081260046	Barley Church of England Voluntary Controlled First School	Church End, Barley, Royston, Hertfordshire	SG8 8JW
+school:117387	100081250122	Bayford Church of England Voluntary Controlled Primary School	Ashendene Road, Bayford, Hertford, Hertfordshire	SG13 8PX
+school:117388	100081248677	Tonwell St Mary's Church of England Primary School	Ware Road, Tonwell, Ware, Hertfordshire	SG12 0HN
+school:117389	10033097652	Benington Church of England Primary School	Benington, Stevenage, Hertfordshire	SG2 7LP
+school:117390	10033091833	Layston Church of England First School	The Causeway, Buntingford, Hertfordshire	SG9 9EU
+school:117391	10034170820	Ashfield Junior School	School Lane, Bushey, Hertfordshire	WD23 1SR
+school:117392	100081255748	Codicote Church of England Primary School	Meadow Way, Codicote, Hitchin, Hertfordshire	SG4 8YL
+school:117393	100081158037	Essendon CofE (VC) Primary School	School Lane, Essendon, Hertfordshire	AL9 6HD
+school:117394	10034620721	Furneux Pelham Church of England School	Furneux Pelham, Buntingford, Hertfordshire	SG9 0LH
+school:117395	100081255397	Graveley Primary School	Ashwell Common, Graveley, Hitchin, Hertfordshire	SG4 7LJ
+school:117396	100081250117	Ponsbourne St Mary's Church of England Primary School	Newgate Street Village, Hertford, Hertfordshire	SG13 8RA
+school:117397	10033098550	Hertford St Andrew CofE Primary School	Calton Avenue, Hertford, Hertfordshire	SG14 2EP
+school:117398	10034620735	High Wych Church of England Primary School	High Wych, Sawbridgeworth, Hertfordshire	CM21 0JB
+school:117399	148027916	St Paul's Voluntary Controlled Church of England Infants' School	Haslewood Avenue, Hoddesdon, Hertfordshire	EN11 8HT
+school:117400	148023165	Wormley Primary School	Cozens Lane East, Wormley, Broxbourne, Hertfordshire	EN10 6QA
+school:117401	10070042066	Ickleford Primary School	Arlesey Road, Ickleford, Hitchin, Hertfordshire	SG5 3TG
+school:117402	10034515308	Little Munden Church of England Voluntary Controlled Primary School	Church Lane, Dane End, Ware, Hertfordshire	SG12 0NR
+school:117403	10070036940	Preston Primary School	Back Lane, Preston, Hitchin, Hertfordshire	SG4 7UJ
+school:117404	200000940071	Sarratt Church of England Primary School	The Green, Sarratt, Rickmansworth, Hertfordshire	WD3 6AS
+school:117405	10033092955	Spellbrook Primary School	London Road, Spellbrook, Bishop's Stortford, Hertfordshire	CM23 4BA
+school:117406	10033099253	Roger De Clare First CofE School	Station Road, Puckeridge, Ware, Hertfordshire	SG11 1TF
+school:117407	10033099302	St Andrew's Church of England Voluntary Controlled Primary School	Mill Race, Stanstead Abbotts, Ware, Hertfordshire	SG12 8BZ
+school:117408	100081248682	Thundridge Church of England Primary School	Ermine Street, Thundridge, Ware, Hertfordshire	SG12 0SY
+school:117409	100081248403	St Mary's Voluntary Controlled Church of England Junior School	Heath Drive, Ware, Hertfordshire	SG12 0RL
+school:117410	10033099592	St Catherine's Church of England Primary School	Park Road, Ware, Hertfordshire	SG12 0AW
+school:117411	100081248691	Musley Infant School	Musley Hill, Ware, Hertfordshire	SG12 7NB
+school:117412	10033100608	Wareside Church of England Primary School	Reeves Green, Wareside, Ware, Hertfordshire	SG12 7QR
+school:117413	10070041506	Weston Primary School	Maiden Street, Weston, Hitchin, Hertfordshire	SG4 7AG
+school:117414	200004058018	Potten End CofE Primary School	Church Road, Potten End, Berkhamsted, Hertfordshire	HP4 2QY
+school:117415	148037495	Dewhurst St Mary CofE Primary School	Churchgate, Cheshunt, Waltham Cross, Hertfordshire	EN8 9ND
+school:117416	100081177297	Leverstock Green Church of England Primary School	Green Lane, Leverstock Green, Hemel Hempstead, Hertfordshire	HP2 4SA
+school:117417	10001115540	St Paul's Church of England Primary School, Langleybury	Langleybury Lane, Hunton Bridge, Kings Langley, Hertfordshire	WD4 8RJ
+school:117418	200004051021	Nash Mills Church of England Primary School	Belswains Lane, Nash Mills, Hemel Hempstead, Hertfordshire	HP3 9XB
+school:117419	100081248386	Albury Church of England Voluntary Aided Primary School	Church End, Albury, Hertfordshire	SG11 2JQ
+school:117420	10034620697	Ardeley St Lawrence Church of England Voluntary Aided Primary School	School Lane, Ardeley, Stevenage, Hertfordshire	SG2 7AJ
+school:117421	10033097607	Aston St Mary's Church of England Aided Primary School	School Lane, Aston, Stevenage, Hertfordshire	SG2 7HA
+school:117422	10070037690	Barkway VA Church of England First School	High Street, Barkway, Royston, Hertfordshire	SG8 8EF
+school:117423	200004050529	Victoria Church of England Infant and Nursery School	Prince Edward Street, Berkhamsted, Hertfordshire	HP4 3HA
+school:117424	200004059490	St Mary's CofE Primary School, Northchurch	Northchurch, Berkhamsted, Hertfordshire	HP4 3QZ
+school:117425	10033097867	St Joseph's Catholic Primary School	Great Hadham Road, Bishop's Stortford, Hertfordshire	CM23 2NL
+school:117426	100081159527	St Michael's Church of England Primary School	Apton Road, Bishop's Stortford, Hertfordshire	CM23 3SN
+school:117427	148018858	St Clement's Church of England Voluntary Aided Junior School	Cheshunt Wash, Cheshunt, Waltham Cross, Hertfordshire	EN8 0LU
+school:117428	148007251	Holy Trinity Church of England Primary School	Longlands Close, Crossbrook Street, Waltham Cross, Hertfordshire	EN8 8LU
+school:117429	148014635	St Joseph's Catholic Primary School	Royal Avenue, Waltham Cross, Hertfordshire	EN8 7EN
+school:117430	10033098470	All Saints Church of England Voluntary Aided Primary School, Datchworth	Hollybush Lane, Datchworth, Knebworth, Hertfordshire	SG3 6RE
+school:117431	10034169832	St Nicholas Elstree Church of England VA Primary School	St Nicholas Close, Elstree, Borehamwood, Hertfordshire	WD6 3EW
+school:117432	10033098484	St John the Baptist Voluntary Aided Church of England Primary School	Hillside Lane, Great Amwell, Ware, Hertfordshire	SG12 9SE
+school:117433	10002010096	Great Gaddesden Church of England Primary School	Church Meadow, Great Gaddesden, Hemel Hempstead, Hertfordshire	HP1 3BT
+school:117434	200003641487	St Nicholas CofE VA Primary School	Church Green, Harpenden, Hertfordshire	AL5 2TP
+school:117435	200003858679	St John's Voluntary Aided Church of England Primary School, Lemsford	Lemsford Village, Welwyn Garden City, Hertfordshire	AL8 7TR
+school:117436	10033090427	St Joseph's Catholic Primary School	North Road, Hertford, Hertfordshire	SG14 2BY
+school:117437	148023714	Broxbourne CofE Primary School	Mill Lane, Broxbourne, Hertfordshire	EN10 7AY
+school:117438	148029214	St Augustine Roman Catholic Primary School	Riversmead, Hoddesdon, Hertfordshire	EN11 8DP
+school:117439	10034516141	Hormead Church of England (VA) First School	Great Hormead, Buntingford, Hertfordshire	SG9 0NR
+school:117440	100081255398	St Ippolyts Church of England Aided Primary School	Ashbrook Lane, Hitchin, Hertfordshire	SG4 7PB
+school:117441	100081290726	St Paul's Church of England Voluntary Aided Primary School, Chipperfield	The Common, Chipperfield, Kings Langley, Hertfordshire	WD4 9BS
+school:117442	100081257404	Norton St Nicholas CofE (VA) Primary School	Norton Road, Letchworth Garden City, Hertfordshire	SG6 1AG
+school:117443	100081183443	Little Gaddesden Church of England Voluntary Aided Primary School	Church Road,  Little Gaddesden, Berkhamsted, Hertfordshire	HP4 1NX
+school:117444	10033099099	St Andrew's CofE Primary School and Nursery	Tower Hill, Much Hadham, Hertfordshire	SG10 6DL
+school:117445	10070043591	Offley Endowed Primary School	School Lane, Offley, Hitchin, Hertfordshire	SG5 3AT
+school:117446	10070040548	Cockernhoe Endowed CofE Primary School	Cockernhoe Green, Luton, Bedfordshire	LU2 8PY
+school:117447	200000939149	St Mary's Church of England Primary School, Rickmansworth	Stockers Farm Road, Rickmansworth, Hertfordshire	WD3 1NY
+school:117448	100081288934	St Peter's Church of England Voluntary Aided Primary School	Church Lane, Mill End, Rickmansworth, Hertfordshire	WD3 8HD
+school:117449	200003631681	The Abbey Church of England Voluntary Aided Primary School, St Albans	Grove Road, St Albans, Hertfordshire	AL1 1DQ
+school:117450	200003634307	St Alban and St Stephen Roman Catholic Infant and Nursery School	Vanda Crescent, St Albans, Hertfordshire	AL1 5EX
+school:117451	10001070694	St Michael's Church of England Voluntary Aided Primary School, St Albans	St Michael's Street, St Albans, Hertfordshire	AL3 4SJ
+school:117452	200003634625	Park Street Church of England Voluntary Aided Primary School	Branch Road, Park Street, St Albans, Hertfordshire	AL2 2LX
+school:117453	10034621513	Puller Memorial, Church of England, Voluntary Aided Primary School	High Cross, Ware, Hertfordshire	SG11 1AZ
+school:117454	10033099242	St Thomas of Canterbury Roman Catholic Primary School	High Street, Puckeridge, Ware, Hertfordshire	SG11 1RZ
+school:117456	10070251106	St Nicholas CofE (VA) Primary School and Nursery	Six Hills Way, Stevenage, Hertfordshire	SG2 0PZ
+school:117457	100081155960	Tewin Cowper Church of England Voluntary Aided Primary School	Cannons Meadow, Tewin, Welwyn, Hertfordshire	AL6 0JU
+school:117458	100081181096	Bishop Wood Church of England Junior School, Tring	Frogmore Street, Tring, Hertfordshire	HP23 5AU
+school:117459	200004059956	Long Marston VA Church of England Primary School	Station Road, Long Marston, Tring, Hertfordshire	HP23 4QS
+school:117460	200003856924	St John's CofE Primary School	Hertford Road, Digswell, Welwyn, Hertfordshire	AL6 0BX
+school:117461	200003859054	St Michael's Woolmer Green CofE VA Primary School	London Road, Woolmer Green, Hertfordshire	SG3 6JP
+school:117462	100081154640	St Helen's Church of England Primary School	Brewhouse Hill, Wheathampstead, St Albans, Hertfordshire	AL4 8AN
+school:117463	200004058043	St Bartholomew's Church of England Voluntary Aided Primary School, Wigginton	Common Field, Wigginton, Tring, Hertfordshire	HP23 6EP
+school:117464	200003858396	Our Lady Roman Catholic Primary School	Woodhall Lane, Welwyn Garden City, Hertfordshire	AL7 3TF
+school:117465	200000935688	St Joseph Catholic Primary School	Ainsdale Road, South Oxhey, Watford, Hertfordshire	WD19 7DW
+school:117466	10034169384	St Teresa Roman Catholic Primary School	Brook Road, Borehamwood, Hertfordshire	WD6 5HL
+school:117467	200001853409	St Andrew's Church of England Voluntary Aided Primary School, Hitchin	Benslow Lane, Hitchin, Hertfordshire	SG4 9RD
+school:117468	200004050811	St Cuthbert Mayne Catholic Junior School	Clover Way, Gadebridge Road, Hemel Hempstead, Hertfordshire	HP1 3EA
+school:117469	100081151428	St Philip Howard Catholic Primary School	Woods Avenue, Hatfield, Hertfordshire	AL10 8NN
+school:117470	200003641157	St Adrian Roman Catholic Primary School	Watling View, St Albans, Hertfordshire	AL1 2PB
+school:117471	200004057263	Saint Albert the Great Catholic Primary School	Acorn Road, Bennetts End, Hemel Hempstead, Hertfordshire	HP3 8DW
+school:117472	100081160238	All Saints Church of England Primary School and Nursery, Bishop's Stortford	Parsonage Lane, Bishop's Stortford, Hertfordshire	CM23 5BE
+school:117473	100081248707	Christ Church CofE (VA) Primary School and Nursery, Ware	New Road, Ware, Hertfordshire	SG12 7BT
+school:117474	10070251058	St Margaret Clitherow Roman Catholic Primary School	Monkswood Lane, (Off Monkswood Way), Stevenage, Hertfordshire	SG2 8QJ
+school:117475	200000938388	St John Catholic Primary School	Berry Lane, Mill End, Rickmansworth, Hertfordshire	WD3 7HG
+school:117476	10070041860	Our Lady Roman Catholic Primary School	Old Hale Way, Hitchin, Hertfordshire	SG5 1XT
+school:117477	100081258156	St Thomas More Roman Catholic Primary School	Highfield, Letchworth Garden City, Hertfordshire	SG6 3QB
+school:117478	200003641469	St Dominic Catholic Primary School	Southdown Road, Harpenden, Hertfordshire	AL5 1PF
+school:117479	100081184207	St Thomas More Roman Catholic Voluntary Aided Primary School	Greenway, Berkhamsted, Hertfordshire	HP4 3LF
+school:117480	200003636333	St John Fisher Roman Catholic Primary School	Hazelmere Road, St Albans, Hertfordshire	AL4 9RW
+school:117481	200002748205	The Holy Family Catholic Primary School	Crookhams, Welwyn Garden City, Hertfordshire	AL7 1PG
+school:117482	200003854751	Countess Anne Voluntary Aided Church of England Primary School, Hatfield	School Lane, Hatfield, Hertfordshire	AL10 8AX
+school:117483	148027880	St Cross Catholic Primary School	Upper Marsh Lane, Hoddesdon, Hertfordshire	EN11 8BN
+school:117484	100081165606	St Rose's Catholic Infants School	Green End Road, Boxmoor, Hemel Hempstead, Hertfordshire	HP1 1QW
+school:117485	200000941579	Divine Saviour Roman Catholic Primary School	Broomfield Rise, Abbots Langley, Hertfordshire	WD5 0HW
+school:117486	10008852895	Holy Rood Catholic Junior School	Greenbank Road, Watford, Hertfordshire	WD17 4FR
+school:117487	10013802890	St John Roman Catholic Primary School	Providence Way, Baldock, Hertfordshire	SG7 6TT
+school:117488	10034170803	Sacred Heart Catholic Primary School and Nursery	Merry Hill Road, Bushey, Hertfordshire	WD23 1SU
+school:117489	200001849551	Saint Bernadette Catholic Primary School	Walsingham Way, London Colney, St Albans, Hertfordshire	AL2 1NL
+school:117490	100081156257	Welwyn St Mary's Church of England Voluntary Aided Primary School	15 London Road, Welwyn, Hertfordshire	AL6 9DJ
+school:117491	200003634307	Saint Alban and St Stephen Catholic Junior School	Cecil Road, St Albans, Hertfordshire	AL1 5EG
+school:117492	148004106	St Paul's Catholic Primary School	Park Lane, Cheshunt, Hertfordshire	EN7 6LR
+school:117493	10034170803	Sacred Heart Catholic Primary School	Broadmeads, Ware, Hertfordshire	SG12 9HY
+school:117494	10008852895	Holy Rood RC Infants' School	Greenbank Road, Watford, Hertfordshire	WD17 4FS
+school:117495	200000930232	St Anthony's Catholic Primary School	Croxley View, Watford, Hertfordshire	WD18 6BW
+school:117496	10034170483	Pope Paul Catholic Primary School	Baker Street, Potters Bar, Hertfordshire	EN6 2ES
+school:117497	100081158100	St Mary's Church of England Primary School	Dellsome Lane, North Mymms, Hatfield, Hertfordshire	AL9 7NE
+school:117498	10033235796	Saint Vincent de Paul Catholic Primary School	Bedwell Crescent, Stevenage, Hertfordshire	SG1 1NJ
+school:117499	10070040037	The Priory School	Bedford Road, Hitchin, Hertfordshire	SG5 2UR
+school:117500	200004050853	The Hemel Hempstead School	Heath Lane, Hemel Hempstead, Hertfordshire	HP1 1TX
+school:117501	10033098675	Richard Hale School	Hale Road, Hertford, Hertfordshire	SG13 8EN
+school:117502	100081256237	Hitchin Boys' School	Grammar School Walk, Hitchin, Hertfordshire	SG5 1JB
+school:117503	100081255789	Hitchin Girls' School	Highbury Road, Hitchin, Hertfordshire	SG4 9RS
+school:117504	10070042022	Fearnhill School	Icknield Way West, Letchworth, Hertfordshire	SG6 4BA
+school:117505	200001050871	Verulam School	Brampton Road, St Albans, Hertfordshire	AL1 4PR
+school:117506	100081249262	Presdales School	Hoe Lane, Ware, Hertfordshire	SG12 9NX
+school:117507	100081157514	Stanborough School	Lemsford Lane, Welwyn Garden City, Hertfordshire	AL8 6YR
+school:117508	10001115668	Langleybury School	Hunton Bridge, Kings Langley, Hertfordshire	WD4 8RW
+school:117509	100081259526	The Knights Templar School	Park Street, Baldock, Hertfordshire	SG7 6DZ
+school:117510	10034169520	The Hillside School	Hillside Avenue, Borehamwood, Hertfordshire	WD6 1HN
+school:117511	100081155505	Sir John Lawes School	Manland Way, Harpenden, Hertfordshire	AL5 4QP
+school:117512	100081177145	Adeyfield School	Longlands, Hemel Hempstead, Hertfordshire	HP2 4DE
+school:117513	10023318938	Norton School	Norton Road, Letchworth, Hertfordshire	SG6 1AF
+school:117514	100081154239	Beaumont School	Oakwood Drive, St Albans, Hertfordshire	AL4 0XB
+school:117515	100081339559	Barclay School	Walkern Road, Stevenage, Hertfordshire	SG1 3RB
+school:117516	10013904885	Hawksmoor School	Cowley Hill, Borehamwood, Hertfordshire	WD6 5LG
+school:117517	100081254531	The Heathcote School	Shephall Green, Stevenage, Hertfordshire	SG2 9XT
+school:117518	100081254530	Barnwell School	Barnwell, Stevenage, Hertfordshire	SG2 9SW
+school:117519	100081250119	Simon Balle School	Mangrove Road, Hertford, Hertfordshire	SG13 8AJ
+school:117520	100081155430	Roundwood Park School	Roundwood Park, Harpenden, Hertfordshire	AL5 3AE
+school:117521	10034171266	Lyndhurst Middle School	Gateshead Road, Borehamwood, Hertfordshire	WD6 4NJ
+school:117522	10023340241	Francis Combe School and Community College	Horseshoe Lane, Watford, Hertfordshire	WD25 7HW
+school:117523	100081182673	Longdean School	Rumballs Road, Bennetts End, Hemel Hempstead, Hertfordshire	HP3 8JB
+school:117524	100081153684	St Albans Girls' School	Sandridgebury Lane, St Albans, Hertfordshire	AL3 6DB
+school:117525	100081156597	Sir Frederic Osborn School	Herns Lane, Welwyn Garden City, Hertfordshire	AL7 2AF
+school:117526	200004060609	Kings Langley School	Love Lane, Kings Langley, Hertfordshire	WD4 9HN
+school:117527	100081151353	Bishop's Hatfield Girls' School	Woods Avenue, Hatfield, Hertfordshire	AL10 8NL
+school:117528	100081165765	The Cavendish School	Warners End Road, Hemel Hempstead, Hertfordshire	HP1 3DW
+school:117529	148023635	The Broxbourne School	High Road, Broxbourne, Hertfordshire	EN10 7DD
+school:117530	10070252009	The Nobel School	Mobbsbury Way, Stevenage, Hertfordshire	SG2 0HS
+school:117531	148017396	Turnford School	Mill Lane, Cheshunt, Waltham Cross, Hertfordshire	EN8 0JU
+school:117532	100081285304	Westfield Community Technology College	Tolpits Lane, Watford, Hertfordshire	WD18 6NS
+school:117533	10070251862	Collenswood School	Collenswood Road, Stevenage, Hertfordshire	SG2 9HQ
+school:117534	10070254516	Marriotts School	Brittain Way, Stevenage, Hertfordshire	SG2 8UT
+school:117535	100081251094	The Sele School	Welwyn Road, Hertford, Hertfordshire	SG14 2DG
+school:117536	200003856315	Monk's Walk School	Knightsfield, Welwyn Garden City, Hertfordshire	AL8 7NL
+school:117537	100081258155	The Highfield School	Highfield, Letchworth Garden City, Hertfordshire	SG6 3QA
+school:117538	148025150	Sheredes School	Cock Lane, Hoddesdon, Hertfordshire	EN11 8JY
+school:117539	100081259906	Meridian School	Garden Walk, Royston, Hertfordshire	SG8 7JH
+school:117540	100081260600	Freman College	Bowling Green Lane, Buntingford, Hertfordshire	SG9 9BT
+school:117541	200004057611	Bridgewater Primary School	Bridle Way, Billet Lane, Berkhamsted, Hertfordshire	HP4 1ES
+school:117542	100081259905	The Greneway School	Garden Walk, Royston, Hertfordshire	SG8 7JF
+school:117543	10033099252	Ralph Sadleir Middle School	Station Road, Puckeridge, Ware, Hertfordshire	SG11 1TF
+school:117544	10034169477	Furzehill Middle School	Furzehill Road, Borehamwood, Hertfordshire	WD6 2EF
+school:117545	100081259862	Roysia Middle School	Burns Road, Royston, Hertfordshire	SG8 5EQ
+school:117546	100081157316	Sir John Newsom School	Oaken Grove, Welwyn Garden City, Hertfordshire	AL7 4TP
+school:117547	100081151347	Onslow St Audrey's School	Old Rectory Drive, Hatfield, Hertfordshire	AL10 8AB
+school:117548	200003634749	Sandringham School	The Ridgeway, St Albans, Hertfordshire	AL4 9NX
+school:117549	10033094436	Birchwood High School	Parsonage Lane, Bishop's Stortford, Hertfordshire	CM23 5BD
+school:117550	10070250653	The Thomas Alleyne School	High Street, Stevenage, Hertfordshire	SG1 3BE
+school:117551	100081248681	The Chauncy School	Park Road, Ware, Hertfordshire	SG12 0DP
+school:117552	100081177818	The Astley Cooper School	St Agnell's Lane, Hemel Hempstead, Hertfordshire	HP2 7HL
+school:117553	100081180867	Tring School	Mortimer Hill, Tring, Hertfordshire	HP23 5JD
+school:117554	100081260469	Edwinstree Church of England Middle School	Norfolk Road, Buntingford, Hertfordshire	SG9 9AW
+school:117555	200003634895	Townsend CofE School	High Oaks, St Albans, Hertfordshire	AL3 6DR
+school:117556	100081339335	St George's School	Sun Lane, Harpenden, Hertfordshire	AL5 4TD
+school:117557	100081165659	John F Kennedy Catholic School	Hollybush Lane, Hemel Hempstead, Hertfordshire	HP1 2PH
+school:117558	100081149988	Loreto College	Hatfield Road, St Albans, Hertfordshire	AL1 3RQ
+school:117559	200004060719	The Thomas Coram Church of England School	Swing Gate Lane, Berkhamsted, Hertfordshire	HP4 2RP
+school:117560	100081260008	St Mary Roman Catholic Primary School	Melbourn Road, Royston, Hertfordshire	SG8 7DB
+school:117561	200000939626	Christ Church Church of England School	The Common, Rickmansworth Road, Chorleywood, Rickmansworth, Hertfordshire	WD3 5SG
+school:117562	10034169363	Parkside Community Primary School	Aycliffe Road, Borehamwood, Hertfordshire	WD6 4EP
+school:117563	10033099071	Hertingfordbury Cowper Primary School	Birch Green, Hertford, Hertfordshire	SG14 2LR
+school:117564	10034169955	St Giles' CofE Primary School	Blanche Lane, South Mimms, Potters Bar, Hertfordshire	EN6 3PE
+school:117565	100081162228	Cuffley School	Theobalds Road, Cuffley, Potters Bar, Hertfordshire	EN6 4HN
+school:117566	10034170488	The Wroxham School	Wroxham Gardens, Potters Bar, Hertfordshire	EN6 3DJ
+school:117567	200003858913	Little Heath Primary School	School Road, Potters Bar, Hertfordshire	EN6 1JW
+school:117568	10034170740	Little Reddings Primary School	Harcourt Road, Bushey, Hertfordshire	WD23 3PR
+school:117569	200003855667	Northaw Church of England Primary School	Vineyards Road, Northaw, Potters Bar, Hertfordshire	EN6 4PB
+school:117570	100081158341	Brookmans Park Primary School	Bradmore Way, Brookmans Park, Hatfield, Hertfordshire	AL9 7QY
+school:117571	200000936541	St Catherine of Siena Catholic Primary School	Horseshoe Lane, Garston, Watford, Hertfordshire	WD25 7HP
+school:117572	100081289012	Rickmansworth School	Scots Hill, Rickmansworth, Hertfordshire	WD3 3AQ
+school:117573	200000931015	Watford Grammar School for Boys	Rickmansworth Road, Watford, Hertfordshire	WD18 7JF
+school:117574	100081150685	Francis Bacon School	Drakes Drive, St Albans, Hertfordshire	AL1 5AR
+school:117575	200000932963	Watford Grammar School for Girls	Lady's Close, Watford, Hertfordshire	WD18 0AE
+school:117576	100081288177	Parmiter's School	High Elms Lane, Garston, Watford, Hertfordshire	WD25 0UU
+school:117577	100081159375	The Bishop's Stortford High School	London Road, Bishop's Stortford, Hertfordshire	CM23 3LU
+school:117578	200001531133	Ashlyns School	Chesham Road, Berkhamsted, Hertfordshire	HP4 3AH
+school:117579	10034170485	Dame Alice Owen's School	Dugdale Hill Lane, Potters Bar, Hertfordshire	EN6 2DU
+school:117580	10034170938	Bushey Meads School	Coldharbour Lane, Bushey, Hertfordshire	WD23 4PA
+school:117581	10034170798	Bushey Hall School	London Road, Bushey, Hertfordshire	WD23 3AA
+school:117582	10013905585	Queens' School	Aldenham Road, Bushey, Hertfordshire	WD23 2TY
+school:117583	10013905977	Mount Grace School	Church Road, Potters Bar, Hertfordshire	EN6 1EZ
+school:117584	100081154238	Nicholas Breakspear Catholic School	Colney Heath Lane, St Albans, Hertfordshire	AL4 0TT
+school:117585	10070250215	The John Henry Newman Catholic School	Hitchin Road, Stevenage, Hertfordshire	SG1 4AE
+school:117586	100081149734	Marlborough School	Watling Street, St Albans, Hertfordshire	AL1 2QA
+school:117587	148001225	Goffs School	Goffs Lane, Cheshunt, Waltham Cross, Hertfordshire	EN7 5QW
+school:117588	100081158550	The Leventhorpe School	Cambridge Road, Sawbridgeworth, Hertfordshire	CM21 9BY
+school:117589	200000936463	Saint Michael's Catholic High School	High Elms Lane, Garston, Watford, Hertfordshire	WD25 0SS
+school:117590	100081139519	Saint Joan of Arc Catholic School	High Street, Rickmansworth, Hertfordshire	WD3 1HG
+school:117591	100081158137	Chancellor's School	Pine Grove, Brookmans Park, Hatfield, Hertfordshire	AL9 7BN
+school:117592	100081330603	The Hertfordshire & Essex High School and Science College	Warwick Road, Bishop's Stortford, Hertfordshire	CM23 5NJ
+school:117593	100081290125	St Clement Danes School	Chenies Road, Chorleywood, Rickmansworth, Hertfordshire	WD3 6EW
+school:117594	100081158892	St Mary's Catholic School	Windhill, Bishop's Stortford, Hertfordshire	CM23 2NQ
+school:117595	148045045	St Mary's Church of England High School (VA)	Lieutenant Ellis Way, Cheshunt, Waltham Cross, Hertfordshire	EN7 5FB
+school:117596	148007376	Cheshunt School	College Road, Cheshunt, Waltham Cross, Hertfordshire	EN8 9LY
+school:117597	148031716	The John Warner School	Stanstead Road, Hoddesdon, Hertfordshire	EN11 0QF
+school:117598	10033094244	Hockerill Anglo-European College	Dunmow Road, Bishop's Stortford, Hertfordshire	CM23 5HX
+school:117599	10013904884	Holmshill School	Thrift Farm Lane, Shenley Road, Borehamwood, Hertfordshire	WD6 1TS
+school:117600	100081329516	Abbot's Hill School	Bunkers Lane, Hemel Hempstead, Hertfordshire	HP3 8RP
+school:117601	10013029547	Edge Grove School	High Cross, Aldenham, Watford, Hertfordshire	WD25 8NL
+school:117602	10034170940	The Aldenham Foundation	Elstree, Borehamwood, Hertfordshire	WD6 3AJ
+school:117603	100081183930	Berkhamsted School for Girls	Kings Road, Berkhamsted, Hertfordshire	HP4 3BG
+school:117604	10002011683	Berkhamsted School	Overton House, 133 High Street, Berkhamsted, Hertfordshire	HP4 2DJ
+school:117605	100081330394	Bishop's Stortford College	10 Maze Green Road, Bishop's Stortford, Hertfordshire	CM23 2PJ
+school:117606	10034170807	St Margaret's School	Merry Hill Road, Bushey, Hertfordshire	WD23 1DT
+school:117607	10033105690	Haileybury and Imperial Service College	, Hertford, Hertfordshire	SG13 7NU
+school:117608	100081155060	Aldwickbury School	Wheathampstead Road, Harpenden, Hertfordshire	AL5 1AD
+school:117609	100081158019	Queenswood School	Shepherd's Way, Brookmans Park, Hatfield, Hertfordshire	AL9 6NS
+school:117610	200001051796	Westbrook Hay Prep School	London Road, Hemel Hempstead, Hertfordshire	HP1 2RF
+school:117611	100081165308	Lockers Park School	Lockers Park Lane, Hemel Hempstead, Hertfordshire	HP1 1TL
+school:117612	100081128564	St Christopher School	Barrington Road, Letchworth Garden City, Hertfordshire	SG6 3JZ
+school:117613	100081258153	St Francis College	Broadway, Letchworth Garden City, Hertfordshire	SG6 3PJ
+school:117614	10070043081	Princess Helena College	Preston, Hitchin, Hertfordshire	SG4 7RT
+school:117615	10013027232	Radlett Preparatory School	Kendal Hall, Watling Street, Radlett, Hertfordshire	WD7 7LY
+school:117616	200000940258	Merchant Taylors' School	Sandy Lodge, Northwood, 	HA6 2HT
+school:117617	100081149992	St Albans High School for Girls	1-3 Townsend Avenue, St Albans, Hertfordshire	AL1 3SJ
+school:117618	200004057127	Tring Park School for the Performing Arts	Tring Park, Tring, Hertfordshire	HP23 5LX
+school:117619	200000930348	Northfield School	Church Road, Watford, Hertfordshire	WD17 4QB
+school:117620	200004050827	Beechwood Park School	Markyate, St Albans, Hertfordshire	AL3 8AW
+school:117621	10033100650	Heath Mount School	Woodhall Park, Watton At Stone, Hertford, Hertfordshire	SG14 3NG
+school:117622	200003860724	Sherrardswood School	Lockleys, Welwyn, Hertfordshire	AL6 0BJ
+school:117623	100081184158	Egerton-Rothesay School	Durrants Lane, Berkhamsted, Hertfordshire	HP4 3UJ
+school:117624	10034170724	St Hilda's School	High Street, Bushey, Hertfordshire	WD23 3DA
+school:117625	10034170886	Westwood School	6 Hartsbourne Road, Bushey Heath, Bushey, Hertfordshire	WD23 1JH
+school:117626	100081155357	Harpenden Preparatory School	53 Luton Road, Harpenden, Hertfordshire	AL5 2UE
+school:117627	10034170724	St Hilda's School	28 Douglas Road, Harpenden, Hertfordshire	AL5 2ES
+school:117628	10033099028	Duncombe School	4 Warren Park Road, Bengeo, Hertford, Hertfordshire	SG14 3JA
+school:117629	10034515743	St Joseph's in the Park	St Mary's Lane, Hertingfordbury, Hertford, Hertfordshire	SG14 2LX
+school:117630	10070042509	Kingshott School	Stevenage Road, St Ippolyts, Hitchin, Hertfordshire	SG4 7JX
+school:117631	100081290618	Rudolf Steiner School	Langley Hill, Kings Langley, Hertfordshire	WD4 9HG
+school:117632	100081248189	The Barn School	Tower Hill, Much Hadham, Hertfordshire	SG10 6DL
+school:117633	10033096415	St Edmund's College	Old Hall Green, Ware, Hertfordshire	SG11 1DS
+school:117634	10013029547	Hart House School	Edge Grove, High Cross, Aldenham, Watford, Hertfordshire	WD25 8BL
+school:117635	100081289378	Charlotte House Preparatory School	88 The Drive, Rickmansworth, Hertfordshire	WD3 4DU
+school:117636	100081289471	York House School	Redheath, Sarratt Road, Croxley Green, Rickmansworth, Hertfordshire	WD3 4LW
+school:117637	200003641145	Homewood Independent School	Hazel Road, Park Street, St Albans, Hertfordshire	AL2 2AH
+school:117638	100081153022	St Columba's College	King Harry Lane, St Albans, Hertfordshire	AL3 4AW
+school:117639	100081313667	Francis House Preparatory School	Aylesbury Road, Tring, Hertfordshire	HP23 4DL
+school:117640	100081340430	Stanborough Secondary School	Stanborough Park, Watford, Hertfordshire	WD25 9JT
+school:117641	200000939110	Royal Masonic School for Girls	Rickmansworth Park, Chorleywood Road, Rickmansworth, Hertfordshire	WD3 4HF
+school:117642	10070035446	St Francis College	Broadway, Letchworth Garden City, Hertfordshire	SG6 3PJ
+school:117643	10034170478	Lochinver House School	Heath Road, Little Heath, Potters Bar, Hertfordshire	EN6 1LW
+school:117644	10034170512	Stormont School	The Causeway, Potters Bar, Hertfordshire	EN6 5HA
+school:117645	200003640571	St Columba's Preparatory School	8 King Harry Lane, St Albans, Hertfordshire	AL3 4AW
+school:117646	100081292536	Radlett Lodge School	Harper Lane, Radlett, Hertfordshire	WD7 9HW
+school:117647	200003634003	St Albans School	Abbey Gateway, St Albans, Hertfordshire	AL3 4HB
+school:117648	10034169388	Haberdashers' Aske's Boys' School	Butterfly Lane, Elstree, Borehamwood, Hertfordshire	WD6 3AF
+school:117649	10034168582	Haberdashers' Aske's School for Girls	Aldenham Road, Elstree, Borehamwood, Hertfordshire	WD6 3BT
+school:117650	200003641811	The King's School	Elmfield, Ambrose Lane, Harpenden, Hertfordshire	AL5 4DU
+school:117651	200000939114	Merchant Taylors' Prep School	Moor Farm, Sandy Lodge Road, Rickmansworth, Hertfordshire	WD3 1LW
+school:117652	10034169084	Radlett Nursery and Infant School	Cobden Hill, Radlett, Hertfordshire	WD7 7JL
+school:117653	100081183946	Berkhamsted Pre-Prep School	Chesham Road, Berkhamsted, Hertfordshire	HP4 2SZ
+school:117654	10034170943	Bhaktivedanta Manor School	Dharam Marg, Hilfield Lane, Aldenham, Watford, Hertfordshire	WD25 8EZ
+school:117656	100081183682	Haresfoot Senior School	Amersfort, The Common, Berkhamsted, Hertfordshire	HP4 2QF
+school:117657	10013018829	Immanuel College	87-91 Elstree Road, Bushey, Hertfordshire	WD23 4EB
+school:117658	10034169291	Manor Lodge School	Rectory Lane, Ridge Hill, Shenley, Hertfordshire	WD7 9BG
+school:117659	100080748026	Warrax House School	71 Cappell Lane, Stanstead Abbotts, Ware, Hertfordshire	SG12 8BX
+school:117660	200000941612	High Elms Manor School	High Elms Lane, High Elms Manor, Watford, Hertfordshire	WD25 0JX
+school:117661	200000848037	South Lodge School	High Street, Baldock, Hertfordshire	SG7 6BX
+school:117662	10034170811	Longwood School	Bushey Hall Drive, Bushey, Hertfordshire	WD23 2QG
+school:117663	10033094509	Epping House School	Epping Green, Hertford, Hertfordshire	SG13 8NF
+school:117664	100081330309	Pinewood School	Hoe Lane, Ware, Hertfordshire	SG12 9PB
+school:117665	10033092120	St Elizabeth's School	South End, Much Hadham, Hertfordshire	SG10 6EW
+school:117666	200003856511	Knightsfield School	Knightsfield, Welwyn Garden City, Hertfordshire	AL8 7LW
+school:117667	200000930109	Garston Manor School	Horseshoe Lane, Garston, Watford, Hertfordshire	WD25 7HR
+school:117668	10002011297	Boxmoor House School	Box Lane, Hemel Hempstead, Hertfordshire	HP3 0DF
+school:117669	200000586765	The Valley School	Valley Way, Stevenage, Hertfordshire	SG2 9AB
+school:117670	100081284199	Colnbrook School	Hayling Road, Watford, Hertfordshire	WD19 7UY
+school:117671	100081153864	St Luke's School	Crouch Hall Lane, Redbourn, St Albans, Hertfordshire	AL3 7ET
+school:117672	100081165429	The Collett School	Lockers Park Lane, Hemel Hempstead, Hertfordshire	HP1 1TQ
+school:117673	148025980	Hailey Hall School	Hailey Lane, Hertford, Hertfordshire	SG13 7PB
+school:117674	100081153537	Batchwood School	Townsend Drive, St Albans, Hertfordshire	AL3 5RP
+school:117676	100081249613	Middleton School	Walnut Tree Walk, Ware, Hertfordshire	SG12 9PD
+school:117677	10013906221	Great Brookmead School	Allerton Road, Borehamwood, Hertfordshire	WD6 4AH
+school:117678	200000586367	Hilltop School	Webb Rise, Stevenage, Hertfordshire	SG1 5QU
+school:117679	10070254516	Lonsdale School	Brittain Way, Stevenage, Hertfordshire	SG2 8UT
+school:117680	100081157771	Lakeside School	Lemsford Lane, Welwyn Garden City, Hertfordshire	AL8 6YN
+school:117681	100081291036	Breakspeare School	Gallows Hill Lane, Abbots Langley, Hertfordshire	WD5 0BU
+school:117682	100081182675	Woodfield School	Malmes Croft, Leverstock Green, Hemel Hempstead, Hertfordshire	HP3 8RL
+school:117683	100081149827	Watling View School	Watling View, St Albans, Hertfordshire	AL1 2NU
+school:117684	10034515001	Amwell View School	Station Road, Stanstead Abbotts, Ware, Hertfordshire	SG12 8EH
+school:117685	100081153582	Heathlands School	Heathlands Drive, St Albans, Hertfordshire	AL3 5AY
+school:117686	10034170800	Falconer School	Falconer Road, Bushey, Hertfordshire	WD23 3AT
+school:117687	200000586760	High Wick School	Webb Rise, Stevenage, Hertfordshire	SG1 5QU
+school:117688	10024116316	The Edward Jenner Hospital School	Forest House,  Harperbury Hospital, Harper Lane, Shenley, Radlett, Hertfordshire	WD7 9HQ
+school:117689	100081258086	Woolgrove School	Pryor Way, Letchworth Garden City, Hertfordshire	SG6 2PT
+school:117690	10070251492	Greenside School	Shephall Green, Stevenage, Hertfordshire	SG2 9XS
+school:117691	10013905676	Meadow Wood School	Coldharbour Lane, Bushey, Hertfordshire	WD23 4NN
+school:127416	10008852895	Holy Rood Catholic Primary School	Greenbank Road, Watford, Hertfordshire	WD17 4FS
+school:127633	10070035528	The Chrysalis School for Autism	Units 8 & 9, The Glover Centre, Bury Mead Road, Hitchin, Hertfordshire	SG5 1RT
+school:129109	10033099331	Highfield Nursery School	, 	
+school:129110	148009462	Burleigh Junior School	Blindmans Lane, Cheshunt, Waltham Cross, Hertfordshire	EN8 9DP
+school:129111	100081183177	Belswains Junior School	Barnfield, Hemel Hempstead, Hertfordshire	HP3 9QJ
+school:129112	10033090551	Morgans Walk Junior Mixed School	Morgans Road, Hertford, 	SG13 8DR
+school:129113	200003637817	Mount Pleasant Lane Junior School	Mount Pleasant Lane, Bricket Wood, St Albans, Hertfordshire	AL2 3XA
+school:129114	100081288174	Leavesden Green Junior Mixed School	High Road, Leavesden, Watford, 	WD2 7AU
+school:129115	100081182844	Hobbs Hill Wood Junior School	Peascroft Road, Hemel Hempstead, Hertfordshire	HP3 8ER
+school:129116	200001852113	Belswains Infants' School	Oliver Road, Belswains Junior School, Hemel Hempstead, Hertfordshire	HP3 9PZ
+school:129117	100081182844	Hobbs Hill Wood Infants' School	Peascroft Road, Hemel Hempstead, Hertfordshire	HP3 8ER
+school:129118	10023084276	Bengeo Junior School	Sacombe Road, Bengeo, Hertford, 	SG14 3HL
+school:129119	148001200	Bonneygrove Junior School	Dark Lane, Cheshunt, Waltham Cross, Hertfordshire	EN7 5ED
+school:129121	200003858822	Bishops Wood Infant School	, 	
+school:129122	200004058270	Bellgate Junior Mixed School	Fletcher Way, Higfield, Hemel Hempstead, 	HP2 5QR
+school:129123	200000931005	Meriden Junior School	Harvest End, Garston, Watford, 	WD2 4TB
+school:129125	200003858848	Millwards Junior Mixed School	Woods Avenue, Hatfield, Hertfordshire	AL10 8NW
+school:129126	200003858850	The Downs Infant School	Woods Avenue, Hatfield, Hertfordshire	AL10 8NW
+school:129127	200004058270	Bellgate Infant School	Fletcher Way, Higfield, Hemel Hempstead, 	HP2 5QR
+school:129128	200000931005	Meriden Infant School	Harvest End, Garston, Watford, 	WD2 4TB
+school:129129	148001200	Bonneygrove Infants' School	Dark Lane, Cheshunt, Waltham Cross, Hertfordshire	EN7 5ED
+school:129130	100081155455	Wood End Junior Mixed School	Yeomans Avenue, Harpenden, Hertfordshire	AL5 3EF
+school:129131	100081250007	Chalk Dell Infant School	Wilton Crescent, Hertford, 	SG13 8JR
+school:129132	10033098946	Bengeo Infant School	The Avenue, Bengeo, Hertford, 	SG14 3DX
+school:129133	148040099	Grangewood Infants' School	Blindmans Lane, Cheshunt, Waltham Cross, Hertfordshire	EN8 9DP
+school:129134	148034021	Cranbourne Junior School	Bridleway North, Hoddesdon, Hertfordshire	EN11 9PP
+school:129136	148034021	Cranbourne Infant School	Bridleway North, Hoddesdon, Hertfordshire	EN11 9PP
+school:129137	100081288174	Leavesden Green Infant School	High Road, Leavesden, Watford, 	WD2 7AU
+school:129138	100081155455	Wood End Infant School	Yeomans Avenue, Harpenden, Hertfordshire	AL5 3EF
+school:129139	200000933530	Laurance Haines Infant School	, 	
+school:129140	100081177882	Eastbrook Junior School	St Agnell's Lane, Grove Hill, Hemel Hempstead, Hertfordshire	HP2 7BG
+school:129141	148023165	Ley Park Junior School	Cozens Lane East, Broxbourne, Hertfordshire	EN10 6QA
+school:129142	100081177952	Eastbrook Infant and Nursery School	St Agnell's Lane, Grove Hill, Hemel Hempstead, Hertfordshire	HP2 7BG
+school:129143	100081248005	Wellfield Wood Junior School	Ripon Road, Stevenage, Hertfordshire	SG1 4QZ
+school:129144	100081181097	Grove Road Junior School	Grove Road, Tring, Hertfordshire	HP23 5PD
+school:129145	100081248005	Wellfield Wood Infant School	Ripon Road, Stevenage, Hertfordshire	SG1 4QZ
+school:129146	148023165	Ley Park Infant School	Cozens Lane East, Broxbourne, Hertfordshire	EN10 6QA
+school:129152	10034622707	Hadham Hall School	, 	
+school:129156	200003858944	Hatfield School	, 	
+school:129159	200003634749	The Marshalwick School	The Ridgeway, St Albans, Hertfordshire	AL4 9NX
+school:129160	100081258085	The Willian School	Radburn Way, Letchworth, Hertfordshire	SG6 2JL
+school:129161	100081150685	Francis Bacon School	, 	
+school:129162	10002013449	Halsey School	, 	
+school:129163	100081113627	The Mountbatten School	St Albans Road, Hemel Hempstead, Hertfordshire	HP2 4JR
+school:129164	100081154579	Wheathampstead School	Butterfield Road, Wheathampstead, St Albans, Hertfordshire	AL4 8PY
+school:129169	100081184158	Thomas Bourne CofE Middle School	, 	
+school:129170	10034170754	Roasry Priory High School	, 	
+school:129171	100081339013	Lyndale School	3-5 Hillside Road, St Albans, Hertfordshire	AL1 3QR
+school:129172	200003860724	Sherrardswood Junior School	, 	
+school:129173	10034170754	Rosary Priory Preparatory School	, 	
+school:129174	100080725605	Pamela Gardens School	, 	
+school:129176	10014239324	Marlin Montessori School	1 Park View Road, Berkhamsted, Hertfordshire	HP4 3EY
+school:129177	100081340430	Stanborough Secondary School	, 	
+school:129178	148040093	Broxbournebury School	White Stubbs Lane, Broxbourne, Hertfordshire	EN10 7PY
+school:129180	200002748143	Elmfield School	Ambrose Lane, Harpenden, Hertfordshire	AL5 4DA
+school:129181	200000936325	Hangers Wood School	Gosforth Lane, South Oxhey, Watford, Hertfordshire	WD1 6RF
+school:129182	100081259517	Brandles School	Weston Way, Baldock, Hertfordshire	SG7 6EY
+school:129183	10070251492	Greenside School	Shephall Green, Stevenage, Hertfordshire	SG2 9XS
+school:129184	100081292331	Harperbury Hospital School	Harper Lane, Radlett, Hertfordshire	WD7 9HQ
+school:129185	100081339648	Springfield School	Leavesden Hospital, College Road, Abbots Langley, Hertfordshire	WD5 0NU
+school:129186	10070251492	Home Field School	Shephall Green, Stevenage, Hertfordshire	SG2 9XS
+school:130160	10033098046	Summercroft Primary School	Parsonage Lane, Bishop's Stortford, Hertfordshire	CM23 5BJ
+school:130338	10034170504	Norfolk Lodge School Ltd	Dancers Hill Road, Barnet, Hertfordshire	EN5 4RP
+school:130344	10023328780	North Area Pupil Referral Unit	Briar Patch Lane, Letchworth Garden City, Hertfordshire	SG6 3LY
+school:130347	10023084917	Hertford, Ware and Bishop's Stortford Area Pupil Referral Unit	Longmore Educ'n Support Centre, Churchfields, Hertford, Hertfordshire	SG13 8AE
+school:130348	10034171060	The Park Education Support Centre	High Street, Potters Bar, Hertfordshire	EN6 5AB
+school:130349	100081287193	South West Area Pupil Referral Unit	Chessbrook Centre, Tolpits Lane, Watford, Hertfordshire	WD18 6LJ
+school:130355	100081260469	Buntingford Area Pupil Referral Unit	Edwinstree School, Norfolk Road, Buntingford, Hertfordshire	SG9 9AW
+school:130356	200003633791	The Links Education Support Centre	1 Hixberry Lane, St Albans, St Albans, Hertfordshire	AL4 0TZ
+school:130359	10070251974	Stevenage Education Support Centre	Collenswood Road, Stevenage, Hertfordshire	SG2 9HQ
+school:130362	10091063479	Southfield School	Woods Avenue, Hatfield, Hertfordshire	AL10 8NN
+school:130363	200000939120	Shepherd Montessori School	Penn Road, Mill End, Rickmansworth, Hertfordshire	WD3 8QN
+school:130720	200000930306	West Herts College	Watford Campus, Hempstead Road, Watford, Hertfordshire	WD17 3EZ
+school:130721	100081258152	North Hertfordshire College	The Town Hall,  Broadway, Letchworth, Hertfordshire	SG6 3PF
+school:130722	10033099616	Hertford Regional College	Scotts Road, Ware, Hertfordshire	SG12 9JF
+school:130723	200003642744	Oaklands College	Smallford Campus, Hatfield Road, St Albans, Hertfordshire	AL4 0JA
+school:131060	100081259517	Brandles School	Weston Way, Baldock, Hertfordshire	SG7 6EY
+school:131100	100081177130	Dacorum Education Support Centre	30 Tenzing Road, Hemel Hempstead, Hertfordshire	HP2 4HS
+school:131188	100081182654	Bovingdon Primary School	High Street, Bovingdon, Hemel Hempstead, Hertfordshire	HP3 0HL
+school:131319	100081177952	Haywood Grove School	St Agnell's Lane, Hemel Hempstead, Hertfordshire	HP2 7BG
+school:131456	10034171043	Clore Shalom School	Hugo Gryn Way, Shenley, Radlett, Hertfordshire	WD7 9BL
+school:131503	100081248015	Larwood School	Webb Rise, Stevenage, Hertfordshire	SG1 5QU
+school:131505	10070251951	Featherstone Wood Primary School	Featherston Road, Stevenage, Hertfordshire	SG2 9PP
+school:131651	10034169295	Hertsmere Jewish Primary School	Po Box 203, Elstree, Borehamwood, Hertfordshire	WD6 3ZW
+school:131955	10034169295	Hertsmere Jewish Primary School	Watling Street, Radlett, Hertfordshire	WD7 7LQ
+school:131971	10013904886	Hertswood School	Cowley Hill, Borehamwood, Hertfordshire	WD6 5LG
+school:132015	10033092120	St Elizabeth's College (The Congregation of the Daughters of the Cross of the Liege)	Perry Green, Much Hadham, Hertfordshire	SG10 6EW
+school:132091	10070252008	Lodge Farm Primary School	Mobbsbury Way, Chells, Stevenage, Hertfordshire	SG2 0HP
+school:132105	10014208871	Birchwood Avenue Primary School	Birchwood Avenue, Hatfield, Hertfordshire	AL10 0PS
+school:132118	10013904568	Sunny Bank Primary School	Field View Road, Potters Bar, Hertfordshire	EN6 2NA
+school:133065	100081181097	Grove Road Infant School	Grove Road, Tring, Hertfordshire	HP23 5PD
+school:133134	200000848037	South Lodge School	High Street, Baldock, Hertfordshire	SG7 6BX
+school:133263	10070251057	Roebuck Primary School and Nursery	St Margarets, Stevenage, Hertfordshire	SG2 8RG
+school:133295	100080952992	Integrated Services Programme	Victoria House, 49 Vicarage Road, Watford, Hertfordshire	WD18 0DE
+school:133323	200001853411	Oughton Primary and Nursery School	Mattocke Road, Hitchin, Hertfordshire	SG5 2NZ
+school:133488	10014208872	Swallow Dell Primary and Nursery School	Blackthorn Road, Welwyn Garden City, Hertfordshire	AL7 3JP
+school:133738	10070252209	Redemption Academy	P O Box 352, Stevenage, Hertfordshire	SG1 9AG
+school:133773	148029242	St Catherine's Hoddesdon CofE Primary School	Haslewood Avenue, Hoddesdon, Hertfordshire	EN11 8HT
+school:133783	100081151555	University of Hertfordshire	Hatfield Campus, College Lane, Hatfield, Hertfordshire	AL10 9AB
+school:133917	148037502	Littlebury Resource Centre	College Road, Cheshunt, Waltham Cross, Hertfordshire	EN8 9NQ
+school:133975	100081153457	Muriel Green Nursery School	Church Crescent, St Albans, Hertfordshire	AL3 5JB
+school:134087	100081149674	St Albans Independent College	69 London Road, St Albans, Hertfordshire	AL1 1LN
+school:134197	148003390	Flamstead End Primary and Nursery School	Longfield Lane, Cheshunt, Waltham Cross, Hertfordshire	EN7 6AG
+school:134488	148037502	Littlebury Resource Centre	College Road, Cheshunt, Hertfordshire	EN8 9NQ
+school:134682	100081159563	Windhill School	Windhill, Bishop's Stortford, Hertfordshire	CM23 2NE
+school:134684	10008852628	Berrygrove Primary and Nursery School	Fourth Road, Watford, Hertfordshire	WD25 9RH
+school:134685	100081288173	Alban Wood Primary School and Nursery	The Brow, Watford, Hertfordshire	WD25 7NX
+school:134716	100081151456	De Havilland Primary School	Travellers Lane, Hatfield, Hertfordshire	AL10 8TQ
+school:134786	10002013009	Village Montessori	Whitehouse Farm, Gaddesden Row, Hertford, Hertfordshire	HP2 6HG
+school:134933	100081340430	International Stanborough School	Stanborough Park, Watford, Hertfordshire	WD25 9JT
+school:134985	10013904765	Yavneh College	Hillside Avenue, Borehamwood, Hertfordshire	WD6 1HL
+school:135083	200000586715	Longmeadow Primary School	Oaks Cross, Broadwater, Stevenage, Hertfordshire	SG2 8LT
+school:135084	10070251488	Shephalbury Park Primary School	Burydale, Broadwater, Stevenage, Hertfordshire	SG2 8AX
+school:135221	100081177882	Maple Grove Primary School	St Agnell's Lane, Grove Hill, Hemel Hempstead, Hertfordshire	HP2 7BG
+school:135222	200004058270	Yewtree Primary School	Fletcher Way, Hemel Hempstead, Hertfordshire	HP2 5QR
+school:135223	100081151455	Oak View Primary and Nursery School	Woods Avenue, Hatfield, Hertfordshire	AL10 8NW
+school:135224	100081165766	Galley Hill Primary School and Nursery	Galley Hill, Hemel Hempstead, Hertfordshire	HP1 3JY
+school:135339	200004057767	Broadfield Primary School	Windmill Road, Hemel Hempstead, Hertfordshire	HP2 4BX
+school:135402	200000583621	Education and Youth Services (Herts)	38 Park Place, Stevenage, Hertfordshire	SG1 1DP
+school:135528	200003641146	Killigrew Primary and Nursery School	West Avenue, St Albans, Hertfordshire	AL2 3HD
+school:135560	10023961145	Worldshapers Academy	Woodhall Farm Community Centre, Datchet Close, Hemel Hempstead, Hertfordshire	HP2 7JX
+school:135596	200000930999	Stanborough Primary School	Appletree Walk, Watford, Hertfordshire	WD25 0DQ
+school:135876	10023340241	Francis Combe Academy	Horseshoe Lane, Garston, Watford, Hertfordshire	WD25 7HW
+school:135890	148030156	Rivers Education Support Centre	Old Essex Road, Hoddesdon, Hertfordshire	EN11 0AA
+school:135938	10034170798	The Bushey Academy	London Road, Bushey, Hertfordshire	WD23 3AA
+school:136024	148046123	Churchfield CofE VA Primary	Cheshunt Wash, Cheshunt, Waltham Cross, Hertfordshire	EN8 0LU
+school:136247	10002011297	Roman Fields	11 Box Lane, Hemel Hempstead, Hertfordshire	HP3 0DF
+school:136276	200000931015	Watford Grammar School for Boys	Rickmansworth Road, Watford, Hertfordshire	WD18 7JF
+school:136289	200000932963	Watford Grammar School for Girls	Lady's Close, Watford, Hertfordshire	WD18 0AE
+school:136396	148023171	The Broxbourne School	High Road, Broxbourne, Hertfordshire	EN10 7DD
+school:136482	10033094244	Hockerill Anglo-European College	Dunmow Road, Bishop's Stortford, Hertfordshire	CM23 5HX
+school:136554	10034170485	Dame Alice Owen's School	Dugdale Hill Lane, Potters Bar, Hertfordshire	EN6 2DU
+school:136606	100081289012	Rickmansworth School	Scots Hill, Rickmansworth, Hertfordshire	WD3 3AQ
+school:136607	148031716	The John Warner School	Stanstead Road, Hoddesdon, Hertfordshire	EN11 0QF
+school:136608	100081259526	The Knights Templar School	Park Street, Baldock, Hertfordshire	SG7 6DZ
+school:136609	200003634749	Sandringham School	The Ridgeway, St Albans, Hertfordshire	AL4 9NX
+school:136857	100081182654	Bovingdon Primary Academy	High Street, Bovingdon, Hemel Hempstead, Hertfordshire	HP3 0HL
+school:136877	10013905585	Queens' School	Aldenham Road, Bushey, Hertfordshire	WD23 2TY
+school:136899	100081288177	Parmiter's School	High Elms Lane, Garston, Watford, Hertfordshire	WD25 0UU
+school:136901	100081290125	St Clement Danes School	Chenies Road, Chorleywood, Rickmansworth, Hertfordshire	WD3 6EW
+school:136922	10013904765	Yavneh College	Hillside Avenue, Borehamwood, Hertfordshire	WD6 1HL
+school:136973	100081155430	Roundwood Park School	Roundwood Park, Harpenden, Hertfordshire	AL5 3AE
+school:137002	100081260600	Freman College	Bowling Green Lane, Buntingford, Hertfordshire	SG9 9BT
+school:137038	200001050871	Verulam School	Brampton Road, St Albans, Hertfordshire	AL1 4PR
+school:137090	100081248681	The Chauncy School	Park Road, Ware, Hertfordshire	SG12 0DP
+school:137110	100081182673	Longdean School	Rumballs Road, Bennetts End, Hemel Hempstead, Hertfordshire	HP3 8JB
+school:137156	100081158550	Leventhorpe	Cambridge Road, Sawbridgeworth, Hertfordshire	CM21 9BY
+school:137224	10013905977	Mount Grace School	Church Road, Potters Bar, Hertfordshire	EN6 1EZ
+school:137238	200004057839	Hammond Academy	Cambrian Way, Hemel Hempstead, Hertfordshire	HP2 5TD
+school:137270	100081155505	Sir John Lawes School	Manland Way, Harpenden, Hertfordshire	AL5 4QP
+school:137288	100081255789	Hitchin Girls' School	Highbury Road, Hitchin, Hertfordshire	SG4 9RS
+school:137339	100081153684	St Albans Girls' School	Sandridgebury Lane, St Albans, Hertfordshire	AL3 6DB
+school:137351	10033098046	Summercroft Primary School	Plaw Hatch Close, Bishop's Stortford, Hertfordshire	CM23 5BJ
+school:137532	148001225	Goffs School	Goffs Lane, Cheshunt, Waltham Cross, Hertfordshire	EN7 5QW
+school:137637	10033094436	Birchwood High School	Parsonage Lane, Bishop's Stortford, Hertfordshire	CM23 5BD
+school:137656	100081259906	Meridian School	Garden Walk, Royston, Hertfordshire	SG8 7JH
+school:137657	100081259862	Roysia Middle School	Burns Road, Royston, Hertfordshire	SG8 5EQ
+school:137658	100081259905	The Greneway School	Garden Walk, Royston, Hertfordshire	SG8 7JF
+school:137757	100081151353	Bishop's Hatfield Girls' School	Woods Avenue, Hatfield, Hertfordshire	AL10 8NL
+school:137792	100081151347	Onslow St Audrey's School	Old Rectory Drive, Hatfield, Hertfordshire	AL10 8AB
+school:137847	100081157514	Stanborough School	Lemsford Lane, Welwyn Garden City, Hertfordshire	AL8 6YR
+school:137861	10034170740	Little Reddings Primary School	Harcourt Road, Bushey, Hertfordshire	WD23 3PR
+school:137872	10034170938	Bushey Meads School	Coldharbour Lane, Bushey, Hertfordshire	WD23 4PA
+school:137895	10070250215	The John Henry Newman Catholic School	Hitchin Road, Stevenage, Hertfordshire	SG1 4AE
+school:137914	100081139519	Saint Joan of Arc Catholic School	High Street, Rickmansworth, Hertfordshire	WD3 1HG
+school:137922	200000936463	Saint Michael's Catholic High School	High Elms Lane, Garston, Watford, Hertfordshire	WD25 0SS
+school:137938	100081154238	Nicholas Breakspear Catholic School	Colney Heath Lane, St Albans, Hertfordshire	AL4 0TT
+school:137943	100081157770	Applecroft School	Applecroft Road, Welwyn Garden City, Hertfordshire	AL8 6JZ
+school:137985	100081249262	Presdales School	Hoe Lane, Ware, Hertfordshire	SG12 9NX
+school:137997	100081258086	Woolgrove School, Special Needs Academy	Pryor Way, Letchworth Garden City, Hertfordshire	SG6 2PT
+school:138042	100081149734	The Marlborough Science Academy	Watling Street, St Albans, Hertfordshire	AL1 2QA
+school:138106	100081149988	Loreto College	Hatfield Road, St Albans, Hertfordshire	AL1 3RQ
+school:138201	200003858432	Hatfield Community Free School	Briars Lane, Hatfield, Hertfordshire	AL10 8ES
+school:138205	200003633155	Fleetville Junior School	228 Hatfield Road, St Albans, Hertfordshire	AL1 4LW
+school:138206	100081150520	Fleetville Infant and Nursery School	Royal Road, St Albans, Hertfordshire	AL1 4LX
+school:138215	10034170488	The Wroxham School	Wroxham Gardens, Potters Bar, Hertfordshire	EN6 3DJ
+school:138225	10070255016	The Da Vinci Studio School of Science and Engineering	Monkswood Way, Stevenage, Hertfordshire	SG1 1LA
+school:138231	200001882322	Alban City School	7 Hatfield Road, St Albans, Hertfordshire	AL1 3RR
+school:138286	100081154239	Beaumont School	Oakwood Drive, St Albans, Hertfordshire	AL4 0XB
+school:138288	200000936541	St Catherine of Siena Catholic Primary School	Horseshoe Lane, Garston, Watford, Hertfordshire	WD25 7HP
+school:138292	100081260008	St Mary Roman Catholic Primary School	Melbourn Road, Royston, Hertfordshire	SG8 7DB
+school:138316	10070037695	St John Roman Catholic Primary School	Providence Way, Baldock, Hertfordshire	SG7 6TT
+school:138322	10070041860	Our Lady Catholic Primary School	Old Hale Way, Hitchin, Hertfordshire	SG5 1XT
+school:138352	100081180867	Tring School	Mortimer Hill, Tring, Hertfordshire	HP23 5JD
+school:138354	100081258156	St Thomas More Roman Catholic Primary School	Highfield, Letchworth Garden City, Hertfordshire	SG6 3QB
+school:138356	100081339335	St George's School	Sun Lane, Harpenden, Hertfordshire	AL5 4TD
+school:138360	148045045	St Mary's Church of England High School (VA)	Lieutenant Ellis Way, Cheshunt, Waltham Cross, Hertfordshire	EN7 5FB
+school:138389	100081258085	Garden City Academy	Radburn Way, Letchworth Garden City, Hertfordshire	SG6 2JZ
+school:138484	100081251094	The Sele School	Welwyn Road, Hertford, Hertfordshire	SG14 2DG
+school:138485	200003856511	Knightsfield School	Knightsfield, Welwyn Garden City, Hertfordshire	AL8 7LW
+school:138507	10008852628	The Grove Academy	Fourth Avenue, Watford, Hertfordshire	WD25 9RH
+school:138539	100081159200	Northgate Primary School	Cricketfield Lane, Bishop's Stortford, Hertfordshire	CM23 2RL
+school:138561	10093185491	Harpenden Free School	Vaughan Road, Harpenden, Hertfordshire	AL5 4EN
+school:138582	100081150685	Samuel Ryder Academy	Drakes Drive, St Albans, Hertfordshire	AL1 5AR
+school:138632	200003856315	Monk's Walk School	Knightsfield, Welwyn Garden City, Hertfordshire	AL8 7NL
+school:138747	10013904886	Hertswood Academy	Cowley Hill, Borehamwood, Hertfordshire	WD6 5LG
+school:139036	200004060609	Kings Langley School	Love Lane, Kings Langley, Hertfordshire	WD4 9HN
+school:139154	100081256237	Hitchin Boys' School	Grammar School Walk, Hitchin, Hertfordshire	SG5 1JB
+school:139159	100081149771	Mandeville Primary School	Mandeville Drive, St Albans, Hertfordshire	AL1 2LE
+school:139197	200003633791	Links Academy	1 Hixberry Lane, St Albans, Hertfordshire	AL4 0TZ
+school:139416	10013910516	The Elstree UTC	Studio Way, Elstree, Borehamwood, Hertfordshire	WD6 5NN
+school:139507	200000939626	Christ Church Chorleywood CofE School	The Common, Rickmansworth Road, Chorleywood, Rickmansworth, Hertfordshire	WD3 5SG
+school:139545	148003391	Flamstead End School	Longfield Lane, Cheshunt, Waltham Cross, Hertfordshire	EN7 6AG
+school:139550	100081328294	Chaulden Junior School	School Row, Chaulden, Hemel Hempstead, Hertfordshire	HP1 2JU
+school:139662	10090787575	The Reach Free School	Unit 3, Wolsey Business Park, Tolpits Lane, Watford, Hertfordshire	WD18 9BL
+school:139835	100081158089	Rhodes Farm School	Mymwood House, Shepherds Way, Brookman's Park, Hatfield, 	AL9 6NN
+school:139873	10033098675	Richard Hale School	Hale Road, Hertford, Hertfordshire	SG13 8EN
+school:139902	100081258154	The Da Vinci Studio School of Creative Enterprise	The Old Grammar School, Broadway, Letchworth Garden City, Hertfordshire	SG6 3PA
+school:140037	10070250653	The Thomas Alleyne School	High Street, Stevenage, Hertfordshire	SG1 3BE
+school:140049	100081285304	Westfield Academy	Tolpits Lane, Watford, Hertfordshire	WD18 6NS
+school:140238	200003854751	Countess Anne Church of England School	School Lane, Hatfield, Hertfordshire	AL10 8AX
+school:140249	10033099252	Ralph Sadleir School	Station Road, Puckeridge, Ware, Hertfordshire	SG11 1TF
+school:140294	100081250119	Simon Balle All-Through School	Mangrove Road, Hertford, Hertfordshire	SG13 8AJ
+school:140611	10070041104	Wilshere-Dacre Junior Academy	Fishponds Road, Hitchin, Hertfordshire	SG5 1NS
+school:140707	100081155817	Crabtree Infants' School	Crabtree Lane, Harpenden, Hertfordshire	AL5 5PU
+school:140708	100081155829	Crabtree Junior School	Crabtree Lane, Harpenden, Hertfordshire	AL5 5PU
+school:140786	100081330603	The Hertfordshire & Essex High School and Science College	Warwick Road, Bishop's Stortford, Hertfordshire	CM23 5NJ
+school:140954	10090230166	Lanchester Community Free School	Hempstead Road, Watford, Hertfordshire	WD17 3HD
+school:140955	100081177483	Jupiter Community Free School	Jupiter Drive, Hemel Hempstead, Hertfordshire	HP2 5NT
+school:140956	10090230309	Ascot Road Community Free School	Ascot Road, Watford, Hertfordshire	WD18 8AD
+school:141004	10090230432	The Watford UTC	18 Colonial Way, Watford, Hertfordshire	WD24 4PT
+school:141251	100081330309	Pinewood School	Hoe Lane, Ware, Hertfordshire	SG12 9PB
+school:141851	100081159563	Windhill21	Windhill, Bishop's Stortford, Hertfordshire	CM23 2NE
+school:141898	10034169324	Fair Field Junior School	Watford Road, Radlett, Hertfordshire	WD7 8LU
+school:142051	148017396	Haileybury Turnford	Mill Lane, Cheshunt, Waltham Cross, Hertfordshire	EN8 0JU
+school:142221	100080934669	Watford St John's Church of England Primary School	38c Estcourt Road, Watford, Herefordshire	WD17 2PS
+school:142257	148025980	Hailey Hall School	Hailey Lane, Hertford, Hertfordshire	SG13 7PB
+school:142413	100081258786	Garden City Montessori School	269 Icknield Way, Letchworth Garden City, Hertfordshire	SG6 4UE
+school:142862	10034169520	Yavneh Primary School	Hillside Avenue, Borehamwood, Hertfordshire	WD6 1HL
+school:143131	148025150	Robert Barclay Academy	Cock Lane, Hoddesdon, Hertfordshire	EN11 8JY
+school:143409	148025794	Roselands Primary School	High Wood Road, Hoddesdon, Hertfordshire	EN11 9AR
+school:143410	148034021	The Cranbourne Primary School	Bridleway North, Hoddesdon, Hertfordshire	EN11 9PP
